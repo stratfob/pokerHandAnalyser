@@ -20,7 +20,7 @@ def getAmountPutInBlinds(hand, playerName):
     if playerName + ': posts ' in hand:
         lineIndex = hand.index(playerName + ': posts ') 
         amountIndex = hand.find('$',lineIndex)
-        return hand[amountIndex+1:hand.find('\n',amountIndex)]
+        return float(hand[amountIndex+1:hand.find('\n',amountIndex)])
     else:
         return 0.00
     
@@ -41,8 +41,8 @@ def streetAction(hand, playerName, streetText):
         return ''
 
 
-def getAmountPutInStreet(hand,playerName, streetText):
-    hand = hand[hand.index('*** ' + streetText + ' ***'):hand.index('*** SUMMARY ***')]
+def getAmountPutIn(hand,playerName):
+    hand = hand[hand.index('*** HOLE CARDS ***'):hand.index('*** SUMMARY ***')]
     
     amount = 0.00
     lines = hand.split('\n')
@@ -54,6 +54,8 @@ def getAmountPutInStreet(hand,playerName, streetText):
             elif 'raises' in line:
                 # make sure that previous money put in isn't counted twice
                 amount += float(line[line.rfind('$')+1:])
+            elif 'returned to' in line:
+                amount -= float(line[line.rfind('$')+1:line.index(')')])
     return amount   
     
     
@@ -89,7 +91,7 @@ def getHandWinResult(hand, playerName):
     else:
         return False
 
-def getAmountWon(hand, playerName):
+def getAmountCollected(hand, playerName):
     hand = hand[hand.index('*** SUMMARY ***'):]
     lineWithPlayerIndex = hand.index(playerName) 
     lineWithPlayer = hand[lineWithPlayerIndex:]
@@ -134,10 +136,11 @@ def main():
                                           ,'river'\
                                           ,'riverAction'\
                                           ,'win'\
-                                          ,'amountWon'\
+                                          ,'amountCollected'\
                                           ,'position'\
                                           ,'blind'\
-                                          ,'amountPutIn'])
+                                          ,'amountPutIn'\
+                                          ,'profit'])
     #print(hands[0])
     handNumber = 1
     for hand in hands:
@@ -152,18 +155,15 @@ def main():
                        ,getStreet(hand, 'RIVER')\
                        ,streetAction(hand,playerName, 'RIVER')\
                        ,getHandWinResult(hand,playerName)\
-                       ,getAmountWon(hand, playerName)\
+                       ,getAmountCollected(hand, playerName)\
                        ,getTablePosition(hand,playerName)\
                        ,getAmountPutInBlinds(hand, playerName)\
-                       ,getAmountPutInStreet(hand, playerName, 'HOLE CARDS')]
+                       ,getAmountPutIn(hand, playerName)\
+                       ,getAmountCollected(hand, playerName)-getAmountPutInBlinds(hand,playerName)-getAmountPutIn(hand, playerName)]
         handNumber += 1
     textFile.close()
     
-    print(myDataFrame[['preFlopAction', 'flop', 'flopAction','turn','turnAction','river','riverAction']])
-    print(myDataFrame['position'])
-    print(myDataFrame.loc[myDataFrame['flopAction'] != '', ['cards']])
-    print(myDataFrame['amountPutIn'])
-    
+    myDataFrame['profit'].cumsum().plot()
     myDataFrame.to_csv('test.csv')
     
 if __name__ == '__main__':
