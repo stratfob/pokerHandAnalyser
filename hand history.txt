@@ -1,0 +1,3599 @@
+*********** # 1 **************
+PokerStars Hand #197158580020:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:51:56 ET
+Table 'Coppelia III' 6-max Seat #3 is the button
+Seat 1: Ganseku Nagi ($2.67 in chips)
+Seat 2: Charlie44333 ($2.16 in chips)
+Seat 3: professor190 ($2.13 in chips)
+Seat 4: BB_tape112 ($2.08 in chips)
+Seat 5: Soranton ($2.87 in chips)
+Seat 6: Benzer586 ($2.14 in chips)
+BB_tape112: posts small blind $0.01
+Soranton: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [3h 4h]
+Benzer586: folds
+Ganseku Nagi: folds
+Charlie44333: folds
+Benzer586 leaves the table
+professor190: folds
+BB_tape112: raises $0.02 to $0.04
+Soranton: folds
+Uncalled bet ($0.02) returned to BB_tape112
+BB_tape112 collected $0.04 from pot
+BB_tape112: doesn't show hand
+*** SUMMARY ***
+Total pot $0.04 | Rake $0
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: Charlie44333 folded before Flop (didn't bet)
+Seat 3: professor190 (button) folded before Flop (didn't bet)
+Seat 4: BB_tape112 (small blind) collected ($0.04)
+Seat 5: Soranton (big blind) folded before Flop
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 2 **************
+PokerStars Hand #197158539053:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:50:30 ET
+Table 'Coppelia III' 6-max Seat #2 is the button
+Seat 1: Ganseku Nagi ($2.67 in chips)
+Seat 2: Charlie44333 ($2.48 in chips)
+Seat 3: professor190 ($2.14 in chips)
+Seat 4: BB_tape112 ($2.10 in chips)
+Seat 5: Soranton ($2.87 in chips)
+Seat 6: Benzer586 ($1.81 in chips)
+professor190: posts small blind $0.01
+BB_tape112: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Th Tc]
+Soranton: folds
+Benzer586: raises $0.02 to $0.04
+Ganseku Nagi: folds
+Charlie44333: raises $0.12 to $0.16
+professor190: folds
+BB_tape112: folds
+Benzer586: calls $0.12
+*** FLOP *** [4h Ad 7d]
+Benzer586: checks
+Charlie44333: checks
+*** TURN *** [4h Ad 7d] [4c]
+Benzer586: bets $0.04
+Charlie44333: calls $0.04
+*** RIVER *** [4h Ad 7d 4c] [Td]
+Benzer586: bets $0.12
+Charlie44333: calls $0.12
+*** SHOW DOWN ***
+Benzer586: shows [Th Tc] (a full house, Tens full of Fours)
+Charlie44333: mucks hand
+Benzer586 collected $0.65 from pot
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.02
+Board [4h Ad 7d 4c Td]
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: Charlie44333 (button) mucked [Kc Kd]
+Seat 3: professor190 (small blind) folded before Flop
+Seat 4: BB_tape112 (big blind) folded before Flop
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 showed [Th Tc] and won ($0.65) with a full house, Tens full of Fours
+
+
+*********** # 3 **************
+PokerStars Hand #197158524610:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:49:59 ET
+Table 'Coppelia III' 6-max Seat #1 is the button
+Seat 1: Ganseku Nagi ($2.67 in chips)
+Seat 2: Charlie44333 ($2.49 in chips)
+Seat 3: professor190 ($2.16 in chips)
+Seat 4: BB_tape112 ($2.10 in chips)
+Seat 5: Soranton ($2.87 in chips)
+Seat 6: Benzer586 ($1.78 in chips)
+Charlie44333: posts small blind $0.01
+professor190: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Qc Jc]
+BB_tape112: folds
+Soranton: folds
+Benzer586: raises $0.04 to $0.06
+Ganseku Nagi: folds
+Charlie44333: folds
+professor190: folds
+Uncalled bet ($0.04) returned to Benzer586
+Benzer586 collected $0.05 from pot
+Benzer586: doesn't show hand
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: Ganseku Nagi (button) folded before Flop (didn't bet)
+Seat 2: Charlie44333 (small blind) folded before Flop
+Seat 3: professor190 (big blind) folded before Flop
+Seat 4: BB_tape112 folded before Flop (didn't bet)
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 collected ($0.05)
+
+
+*********** # 4 **************
+PokerStars Hand #197158496167:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:49:00 ET
+Table 'Coppelia III' 6-max Seat #6 is the button
+Seat 1: Ganseku Nagi ($2.83 in chips)
+Seat 2: Charlie44333 ($2.34 in chips)
+Seat 3: professor190 ($2.16 in chips)
+Seat 4: BB_tape112 ($2.10 in chips)
+Seat 5: Soranton ($2.87 in chips)
+Seat 6: Benzer586 ($1.78 in chips)
+Ganseku Nagi: posts small blind $0.01
+Charlie44333: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [7c 4s]
+professor190: folds
+BB_tape112: folds
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: raises $0.04 to $0.06
+Charlie44333: calls $0.04
+*** FLOP *** [Ah Js Qd]
+Ganseku Nagi: bets $0.10
+Charlie44333: calls $0.10
+*** TURN *** [Ah Js Qd] [2c]
+Ganseku Nagi: checks
+Charlie44333: checks
+*** RIVER *** [Ah Js Qd 2c] [3s]
+Ganseku Nagi: checks
+Charlie44333: bets $0.16
+Ganseku Nagi: folds
+Uncalled bet ($0.16) returned to Charlie44333
+Charlie44333 collected $0.31 from pot
+Charlie44333: doesn't show hand
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01
+Board [Ah Js Qd 2c 3s]
+Seat 1: Ganseku Nagi (small blind) folded on the River
+Seat 2: Charlie44333 (big blind) collected ($0.31)
+Seat 3: professor190 folded before Flop (didn't bet)
+Seat 4: BB_tape112 folded before Flop (didn't bet)
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 (button) folded before Flop (didn't bet)
+
+
+*********** # 5 **************
+PokerStars Hand #197158471967:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:48:09 ET
+Table 'Coppelia III' 6-max Seat #5 is the button
+Seat 1: Ganseku Nagi ($2.88 in chips)
+Seat 2: Charlie44333 ($2.34 in chips)
+Seat 3: professor190 ($2.16 in chips)
+Seat 4: BB_tape112 ($2.01 in chips)
+Seat 5: Soranton ($2.87 in chips)
+Seat 6: Benzer586 ($1.83 in chips)
+Benzer586: posts small blind $0.01
+Ganseku Nagi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [8s Ah]
+Charlie44333: folds
+professor190: folds
+BB_tape112: raises $0.03 to $0.05
+Soranton: folds
+Benzer586: calls $0.04
+Ganseku Nagi: calls $0.03
+*** FLOP *** [3h 9h 7h]
+Benzer586: checks
+Ganseku Nagi: checks
+BB_tape112: checks
+*** TURN *** [3h 9h 7h] [Ks]
+Benzer586: checks
+Ganseku Nagi: checks
+BB_tape112: bets $0.08
+Benzer586: folds
+Ganseku Nagi: folds
+Uncalled bet ($0.08) returned to BB_tape112
+BB_tape112 collected $0.14 from pot
+BB_tape112: doesn't show hand
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01
+Board [3h 9h 7h Ks]
+Seat 1: Ganseku Nagi (big blind) folded on the Turn
+Seat 2: Charlie44333 folded before Flop (didn't bet)
+Seat 3: professor190 folded before Flop (didn't bet)
+Seat 4: BB_tape112 collected ($0.14)
+Seat 5: Soranton (button) folded before Flop (didn't bet)
+Seat 6: Benzer586 (small blind) folded on the Turn
+
+
+*********** # 6 **************
+PokerStars Hand #197158462741:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:47:50 ET
+Table 'Coppelia III' 6-max Seat #4 is the button
+Seat 1: Ganseku Nagi ($2.88 in chips)
+Seat 2: Charlie44333 ($2.34 in chips)
+Seat 3: professor190 ($2.16 in chips)
+Seat 4: BB_tape112 ($2.01 in chips)
+Seat 5: Soranton ($2.88 in chips)
+Seat 6: Benzer586 ($1.82 in chips)
+Soranton: posts small blind $0.01
+Benzer586: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Qh Ts]
+Ganseku Nagi: folds
+Charlie44333: folds
+professor190: folds
+BB_tape112: folds
+Soranton: folds
+Uncalled bet ($0.01) returned to Benzer586
+Benzer586 collected $0.02 from pot
+Benzer586: doesn't show hand
+*** SUMMARY ***
+Total pot $0.02 | Rake $0
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: Charlie44333 folded before Flop (didn't bet)
+Seat 3: professor190 folded before Flop (didn't bet)
+Seat 4: BB_tape112 (button) folded before Flop (didn't bet)
+Seat 5: Soranton (small blind) folded before Flop
+Seat 6: Benzer586 (big blind) collected ($0.02)
+
+
+*********** # 7 **************
+PokerStars Hand #197158449426:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:47:25 ET
+Table 'Coppelia III' 6-max Seat #3 is the button
+Seat 1: Ganseku Nagi ($2.94 in chips)
+Seat 2: Charlie44333 ($2.34 in chips)
+Seat 3: professor190 ($2.07 in chips)
+Seat 4: BB_tape112 ($2.02 in chips)
+Seat 5: Soranton ($2.90 in chips)
+Seat 6: Benzer586 ($1.82 in chips)
+BB_tape112: posts small blind $0.01
+Soranton: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [2s Kc]
+Benzer586: folds
+Ganseku Nagi: raises $0.04 to $0.06
+Charlie44333: folds
+professor190: raises $0.12 to $0.18
+BB_tape112: folds
+Soranton: folds
+Ganseku Nagi: folds
+Uncalled bet ($0.12) returned to professor190
+professor190 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0
+Seat 1: Ganseku Nagi folded before Flop
+Seat 2: Charlie44333 folded before Flop (didn't bet)
+Seat 3: professor190 (button) collected ($0.15)
+Seat 4: BB_tape112 (small blind) folded before Flop
+Seat 5: Soranton (big blind) folded before Flop
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 8 **************
+PokerStars Hand #197158443446:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:47:12 ET
+Table 'Coppelia III' 6-max Seat #2 is the button
+Seat 1: Ganseku Nagi ($2.94 in chips)
+Seat 2: Charlie44333 ($2.31 in chips)
+Seat 3: professor190 ($2.08 in chips)
+Seat 4: BB_tape112 ($2.04 in chips)
+Seat 5: Soranton ($2.90 in chips)
+Seat 6: Benzer586 ($1.82 in chips)
+professor190: posts small blind $0.01
+BB_tape112: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Kd 3c]
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: folds
+Charlie44333: raises $0.03 to $0.05
+professor190: folds
+BB_tape112: folds
+Uncalled bet ($0.03) returned to Charlie44333
+Charlie44333 collected $0.05 from pot
+Charlie44333: doesn't show hand
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: Charlie44333 (button) collected ($0.05)
+Seat 3: professor190 (small blind) folded before Flop
+Seat 4: BB_tape112 (big blind) folded before Flop
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 9 **************
+PokerStars Hand #197158432825:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:46:50 ET
+Table 'Coppelia III' 6-max Seat #1 is the button
+Seat 1: Ganseku Nagi ($2.98 in chips)
+Seat 2: Charlie44333 ($2.32 in chips)
+Seat 3: professor190 ($2.03 in chips)
+Seat 5: Soranton ($2.90 in chips)
+Seat 6: Benzer586 ($1.82 in chips)
+Charlie44333: posts small blind $0.01
+professor190: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [2s 7d]
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: raises $0.02 to $0.04
+Charlie44333: folds
+professor190: raises $0.08 to $0.12
+Ganseku Nagi: folds
+Uncalled bet ($0.08) returned to professor190
+professor190 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0
+Seat 1: Ganseku Nagi (button) folded before Flop
+Seat 2: Charlie44333 (small blind) folded before Flop
+Seat 3: professor190 (big blind) collected ($0.09)
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 10 **************
+PokerStars Hand #197158427519:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:46:39 ET
+Table 'Coppelia III' 6-max Seat #6 is the button
+Seat 1: Ganseku Nagi ($2.96 in chips)
+Seat 2: Charlie44333 ($2.34 in chips)
+Seat 3: professor190 ($2.03 in chips)
+Seat 5: Soranton ($2.90 in chips)
+Seat 6: Benzer586 ($1.82 in chips)
+Ganseku Nagi: posts small blind $0.01
+Charlie44333: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [5d Ts]
+professor190: folds
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: raises $0.04 to $0.06
+Charlie44333: folds
+Uncalled bet ($0.04) returned to Ganseku Nagi
+Ganseku Nagi collected $0.04 from pot
+Ganseku Nagi: doesn't show hand
+*** SUMMARY ***
+Total pot $0.04 | Rake $0
+Seat 1: Ganseku Nagi (small blind) collected ($0.04)
+Seat 2: Charlie44333 (big blind) folded before Flop
+Seat 3: professor190 folded before Flop (didn't bet)
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 (button) folded before Flop (didn't bet)
+
+
+*********** # 11 **************
+PokerStars Hand #197158422766:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:46:29 ET
+Table 'Coppelia III' 6-max Seat #5 is the button
+Seat 1: Ganseku Nagi ($2.95 in chips)
+Seat 2: Charlie44333 ($2.34 in chips)
+Seat 3: professor190 ($2.03 in chips)
+Seat 5: Soranton ($2.90 in chips)
+Seat 6: Benzer586 ($1.83 in chips)
+Benzer586: posts small blind $0.01
+Ganseku Nagi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [8c Tc]
+Charlie44333: folds
+professor190: folds
+Soranton: folds
+Benzer586: folds
+Uncalled bet ($0.01) returned to Ganseku Nagi
+Ganseku Nagi collected $0.02 from pot
+Ganseku Nagi: doesn't show hand
+*** SUMMARY ***
+Total pot $0.02 | Rake $0
+Seat 1: Ganseku Nagi (big blind) collected ($0.02)
+Seat 2: Charlie44333 folded before Flop (didn't bet)
+Seat 3: professor190 folded before Flop (didn't bet)
+Seat 5: Soranton (button) folded before Flop (didn't bet)
+Seat 6: Benzer586 (small blind) folded before Flop
+
+
+*********** # 12 **************
+PokerStars Hand #197158414954:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:46:12 ET
+Table 'Coppelia III' 6-max Seat #3 is the button
+Seat 1: Ganseku Nagi ($2.95 in chips)
+Seat 2: Charlie44333 ($2.34 in chips)
+Seat 3: professor190 ($2 in chips)
+Seat 5: Soranton ($2.91 in chips)
+Seat 6: Benzer586 ($1.85 in chips)
+Soranton: posts small blind $0.01
+Benzer586: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [6s Kh]
+Ganseku Nagi: folds
+Charlie44333: folds
+professor190: raises $0.04 to $0.06
+Soranton: folds
+Benzer586: folds
+Uncalled bet ($0.04) returned to professor190
+professor190 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: Charlie44333 folded before Flop (didn't bet)
+Seat 3: professor190 (button) collected ($0.05)
+Seat 5: Soranton (small blind) folded before Flop
+Seat 6: Benzer586 (big blind) folded before Flop
+
+
+*********** # 13 **************
+PokerStars Hand #197158407733:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:45:57 ET
+Table 'Coppelia III' 6-max Seat #2 is the button
+Seat 1: Ganseku Nagi ($2.95 in chips)
+Seat 2: Charlie44333 ($2.34 in chips)
+Seat 3: professor190 ($2 in chips)
+Seat 5: Soranton ($2.90 in chips)
+Seat 6: Benzer586 ($1.85 in chips)
+professor190: posts small blind $0.01
+Soranton: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Ad 8s]
+Benzer586: folds
+Ganseku Nagi: folds
+Charlie44333: folds
+professor190: folds
+Uncalled bet ($0.01) returned to Soranton
+Soranton collected $0.02 from pot
+Soranton: doesn't show hand
+*** SUMMARY ***
+Total pot $0.02 | Rake $0
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: Charlie44333 (button) folded before Flop (didn't bet)
+Seat 3: professor190 (small blind) folded before Flop
+Seat 5: Soranton (big blind) collected ($0.02)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 14 **************
+PokerStars Hand #197158400446:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:45:42 ET
+Table 'Coppelia III' 6-max Seat #1 is the button
+Seat 1: Ganseku Nagi ($2.92 in chips)
+Seat 2: Charlie44333 ($2.35 in chips)
+Seat 3: professor190 ($2 in chips)
+Seat 5: Soranton ($2.90 in chips)
+Seat 6: Benzer586 ($1.85 in chips)
+Charlie44333: posts small blind $0.01
+professor190: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [3s 9h]
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: raises $0.02 to $0.04
+Charlie44333: folds
+professor190: folds
+Uncalled bet ($0.02) returned to Ganseku Nagi
+Ganseku Nagi collected $0.05 from pot
+Ganseku Nagi: doesn't show hand
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: Ganseku Nagi (button) collected ($0.05)
+Seat 2: Charlie44333 (small blind) folded before Flop
+Seat 3: professor190 (big blind) folded before Flop
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 15 **************
+PokerStars Hand #197158390785:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:45:22 ET
+Table 'Coppelia III' 6-max Seat #6 is the button
+Seat 1: Ganseku Nagi ($2.93 in chips)
+Seat 2: Charlie44333 ($2.34 in chips)
+Seat 3: professor190 ($2 in chips)
+Seat 4: BB_tape112 ($2.04 in chips)
+Seat 5: Soranton ($2.90 in chips)
+Seat 6: Benzer586 ($1.85 in chips)
+Ganseku Nagi: posts small blind $0.01
+Charlie44333: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [6s 2d]
+professor190: folds
+BB_tape112 has timed out
+BB_tape112: folds
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: folds
+Uncalled bet ($0.01) returned to Charlie44333
+Charlie44333 collected $0.02 from pot
+Charlie44333: doesn't show hand
+*** SUMMARY ***
+Total pot $0.02 | Rake $0
+Seat 1: Ganseku Nagi (small blind) folded before Flop
+Seat 2: Charlie44333 (big blind) collected ($0.02)
+Seat 3: professor190 folded before Flop (didn't bet)
+Seat 4: BB_tape112 folded before Flop (didn't bet)
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 (button) folded before Flop (didn't bet)
+
+
+*********** # 16 **************
+PokerStars Hand #197158367283:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:44:32 ET
+Table 'Coppelia III' 6-max Seat #5 is the button
+Seat 1: Ganseku Nagi ($2.86 in chips)
+Seat 2: Charlie44333 ($2.34 in chips)
+Seat 3: professor190 ($2 in chips)
+Seat 4: BB_tape112 ($2.04 in chips)
+Seat 5: Soranton ($2.96 in chips)
+Seat 6: Benzer586 ($1.86 in chips)
+Benzer586: posts small blind $0.01
+Ganseku Nagi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Kd 9h]
+Charlie44333: folds
+professor190: folds
+BB_tape112 has timed out
+BB_tape112: folds
+Soranton: raises $0.04 to $0.06
+Benzer586: folds
+Ganseku Nagi: calls $0.04
+*** FLOP *** [As Kh 4h]
+Ganseku Nagi: checks
+Soranton: checks
+*** TURN *** [As Kh 4h] [3d]
+Ganseku Nagi: bets $0.10
+Soranton: folds
+Uncalled bet ($0.10) returned to Ganseku Nagi
+Ganseku Nagi collected $0.13 from pot
+Ganseku Nagi: doesn't show hand
+*** SUMMARY ***
+Total pot $0.13 | Rake $0
+Board [As Kh 4h 3d]
+Seat 1: Ganseku Nagi (big blind) collected ($0.13)
+Seat 2: Charlie44333 folded before Flop (didn't bet)
+Seat 3: professor190 folded before Flop (didn't bet)
+Seat 4: BB_tape112 folded before Flop (didn't bet)
+Seat 5: Soranton (button) folded on the Turn
+Seat 6: Benzer586 (small blind) folded before Flop
+
+
+*********** # 17 **************
+PokerStars Hand #197158355694:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:44:08 ET
+Table 'Coppelia III' 6-max Seat #4 is the button
+Seat 1: Ganseku Nagi ($2.83 in chips)
+Seat 2: Charlie44333 ($2.34 in chips)
+Seat 3: professor190 ($2 in chips)
+Seat 4: BB_tape112 ($2.04 in chips)
+Seat 5: Soranton ($2.97 in chips)
+Seat 6: Benzer586 ($1.88 in chips)
+Soranton: posts small blind $0.01
+Benzer586: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Jc 4h]
+Ganseku Nagi: raises $0.04 to $0.06
+Charlie44333: folds
+professor190: folds
+BB_tape112: folds
+Soranton: folds
+Benzer586: folds
+Uncalled bet ($0.04) returned to Ganseku Nagi
+Ganseku Nagi collected $0.05 from pot
+Ganseku Nagi: doesn't show hand
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: Ganseku Nagi collected ($0.05)
+Seat 2: Charlie44333 folded before Flop (didn't bet)
+Seat 3: professor190 folded before Flop (didn't bet)
+Seat 4: BB_tape112 (button) folded before Flop (didn't bet)
+Seat 5: Soranton (small blind) folded before Flop
+Seat 6: Benzer586 (big blind) folded before Flop
+
+
+*********** # 18 **************
+PokerStars Hand #197158349152:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:43:54 ET
+Table 'Coppelia III' 6-max Seat #3 is the button
+Seat 1: Ganseku Nagi ($2.83 in chips)
+Seat 2: Charlie44333 ($2.34 in chips)
+Seat 3: professor190 ($2 in chips)
+Seat 4: BB_tape112 ($2.02 in chips)
+Seat 5: Soranton ($2.99 in chips)
+Seat 6: Benzer586 ($1.88 in chips)
+BB_tape112: posts small blind $0.01
+Soranton: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Jd 4c]
+Benzer586: folds
+Ganseku Nagi: folds
+Charlie44333: folds
+professor190: folds
+BB_tape112: raises $0.04 to $0.06
+Soranton: folds
+Uncalled bet ($0.04) returned to BB_tape112
+BB_tape112 collected $0.04 from pot
+BB_tape112: doesn't show hand
+*** SUMMARY ***
+Total pot $0.04 | Rake $0
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: Charlie44333 folded before Flop (didn't bet)
+Seat 3: professor190 (button) folded before Flop (didn't bet)
+Seat 4: BB_tape112 (small blind) collected ($0.04)
+Seat 5: Soranton (big blind) folded before Flop
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 19 **************
+PokerStars Hand #197158329703:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:43:13 ET
+Table 'Coppelia III' 6-max Seat #2 is the button
+Seat 1: Ganseku Nagi ($2.67 in chips)
+Seat 2: Charlie44333 ($2.34 in chips)
+Seat 3: professor190 ($2 in chips)
+Seat 4: BB_tape112 ($2.04 in chips)
+Seat 5: Soranton ($2.99 in chips)
+Seat 6: Benzer586 ($1.88 in chips)
+professor190: posts small blind $0.01
+BB_tape112: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [5c 2d]
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: raises $0.04 to $0.06
+Charlie44333: folds
+professor190: calls $0.05
+BB_tape112: folds
+*** FLOP *** [4c 5h 7s]
+professor190: bets $0.09
+Ganseku Nagi: raises $0.16 to $0.25
+professor190: folds
+Uncalled bet ($0.16) returned to Ganseku Nagi
+Ganseku Nagi collected $0.31 from pot
+Ganseku Nagi: doesn't show hand
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01
+Board [4c 5h 7s]
+Seat 1: Ganseku Nagi collected ($0.31)
+Seat 2: Charlie44333 (button) folded before Flop (didn't bet)
+Seat 3: professor190 (small blind) folded on the Flop
+Seat 4: BB_tape112 (big blind) folded before Flop
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 20 **************
+PokerStars Hand #197158323238:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:43:00 ET
+Table 'Coppelia III' 6-max Seat #1 is the button
+Seat 1: Ganseku Nagi ($2.64 in chips)
+Seat 2: Charlie44333 ($2.35 in chips)
+Seat 3: professor190 ($2 in chips)
+Seat 4: BB_tape112 ($2.04 in chips)
+Seat 5: Soranton ($2.99 in chips)
+Seat 6: Benzer586 ($1.88 in chips)
+Charlie44333: posts small blind $0.01
+professor190: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Ts 2s]
+BB_tape112: folds
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: raises $0.02 to $0.04
+Charlie44333: folds
+professor190: folds
+Uncalled bet ($0.02) returned to Ganseku Nagi
+Ganseku Nagi collected $0.05 from pot
+Ganseku Nagi: doesn't show hand
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: Ganseku Nagi (button) collected ($0.05)
+Seat 2: Charlie44333 (small blind) folded before Flop
+Seat 3: professor190 (big blind) folded before Flop
+Seat 4: BB_tape112 folded before Flop (didn't bet)
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 21 **************
+PokerStars Hand #197158297287:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:42:06 ET
+Table 'Coppelia III' 6-max Seat #6 is the button
+Seat 1: Ganseku Nagi ($3.02 in chips)
+Seat 2: Charlie44333 ($2 in chips)
+Seat 4: BB_tape112 ($2.04 in chips)
+Seat 5: Soranton ($2.99 in chips)
+Seat 6: Benzer586 ($1.88 in chips)
+Ganseku Nagi: posts small blind $0.01
+Charlie44333: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Th 6c]
+professor190 joins the table at seat #3
+BB_tape112: folds
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: raises $0.04 to $0.06
+Charlie44333: raises $0.12 to $0.18
+Ganseku Nagi: calls $0.12
+*** FLOP *** [Kd 5c 7d]
+Ganseku Nagi: checks
+Charlie44333: checks
+*** TURN *** [Kd 5c 7d] [Ac]
+Ganseku Nagi: bets $0.20
+Charlie44333: calls $0.20
+*** RIVER *** [Kd 5c 7d Ac] [3s]
+Ganseku Nagi: checks
+Charlie44333: checks
+*** SHOW DOWN ***
+Ganseku Nagi: shows [2s 2c] (a pair of Deuces)
+Charlie44333: shows [Ah Jh] (a pair of Aces)
+Charlie44333 collected $0.73 from pot
+*** SUMMARY ***
+Total pot $0.76 | Rake $0.03
+Board [Kd 5c 7d Ac 3s]
+Seat 1: Ganseku Nagi (small blind) showed [2s 2c] and lost with a pair of Deuces
+Seat 2: Charlie44333 (big blind) showed [Ah Jh] and won ($0.73) with a pair of Aces
+Seat 4: BB_tape112 folded before Flop (didn't bet)
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 (button) folded before Flop (didn't bet)
+
+
+*********** # 22 **************
+PokerStars Hand #197158287381:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:41:45 ET
+Table 'Coppelia III' 6-max Seat #5 is the button
+Seat 1: Ganseku Nagi ($3.06 in chips)
+Seat 2: Charlie44333 ($2 in chips)
+Seat 4: BB_tape112 ($2.04 in chips)
+Seat 5: Soranton ($2.99 in chips)
+Seat 6: Benzer586 ($1.84 in chips)
+Benzer586: posts small blind $0.01
+Ganseku Nagi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Kc 8c]
+Charlie44333: folds
+BB_tape112: folds
+Soranton: folds
+Benzer586: raises $0.02 to $0.04
+Ganseku Nagi: calls $0.02
+*** FLOP *** [5c Qc 3c]
+Benzer586: bets $0.14
+Ganseku Nagi: folds
+Uncalled bet ($0.14) returned to Benzer586
+Benzer586 collected $0.08 from pot
+Benzer586: doesn't show hand
+*** SUMMARY ***
+Total pot $0.08 | Rake $0
+Board [5c Qc 3c]
+Seat 1: Ganseku Nagi (big blind) folded on the Flop
+Seat 2: Charlie44333 folded before Flop (didn't bet)
+Seat 4: BB_tape112 folded before Flop (didn't bet)
+Seat 5: Soranton (button) folded before Flop (didn't bet)
+Seat 6: Benzer586 (small blind) collected ($0.08)
+
+
+*********** # 23 **************
+PokerStars Hand #197158274295:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:41:17 ET
+Table 'Coppelia III' 6-max Seat #4 is the button
+Seat 1: Ganseku Nagi ($3.06 in chips)
+Seat 2: Charlie44333 ($2 in chips)
+Seat 4: BB_tape112 ($2.04 in chips)
+Seat 5: Soranton ($3 in chips)
+Seat 6: Benzer586 ($1.83 in chips)
+Soranton: posts small blind $0.01
+Benzer586: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [2d Ts]
+Ganseku Nagi: folds
+Charlie44333: folds
+BB_tape112 has timed out
+BB_tape112: folds
+Soranton: folds
+Uncalled bet ($0.01) returned to Benzer586
+Benzer586 collected $0.02 from pot
+Benzer586: doesn't show hand
+*** SUMMARY ***
+Total pot $0.02 | Rake $0
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: Charlie44333 folded before Flop (didn't bet)
+Seat 4: BB_tape112 (button) folded before Flop (didn't bet)
+Seat 5: Soranton (small blind) folded before Flop
+Seat 6: Benzer586 (big blind) collected ($0.02)
+
+
+*********** # 24 **************
+PokerStars Hand #197158261264:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:40:50 ET
+Table 'Coppelia III' 6-max Seat #3 is the button
+Seat 1: Ganseku Nagi ($2.99 in chips)
+Seat 2: Charlie44333 ($2 in chips)
+Seat 3: Maksim538 ($2.14 in chips)
+Seat 4: BB_tape112 ($2.05 in chips)
+Seat 5: Soranton ($3.06 in chips)
+Seat 6: Benzer586 ($1.83 in chips)
+BB_tape112: posts small blind $0.01
+Soranton: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Tc 5c]
+Benzer586: folds
+Ganseku Nagi: raises $0.04 to $0.06
+Charlie44333: folds
+Maksim538: folds
+Maksim538 leaves the table
+BB_tape112: folds
+Soranton: calls $0.04
+*** FLOP *** [9s 7s Qh]
+Soranton: checks
+Ganseku Nagi: checks
+*** TURN *** [9s 7s Qh] [Ks]
+Soranton: checks
+Ganseku Nagi: bets $0.08
+Soranton: folds
+Uncalled bet ($0.08) returned to Ganseku Nagi
+Ganseku Nagi collected $0.13 from pot
+Ganseku Nagi: doesn't show hand
+*** SUMMARY ***
+Total pot $0.13 | Rake $0
+Board [9s 7s Qh Ks]
+Seat 1: Ganseku Nagi collected ($0.13)
+Seat 2: Charlie44333 folded before Flop (didn't bet)
+Seat 3: Maksim538 (button) folded before Flop (didn't bet)
+Seat 4: BB_tape112 (small blind) folded before Flop
+Seat 5: Soranton (big blind) folded on the Turn
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 25 **************
+PokerStars Hand #197158238842:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:40:03 ET
+Table 'Coppelia III' 6-max Seat #2 is the button
+Seat 1: Ganseku Nagi ($2.99 in chips)
+Seat 2: Charlie44333 ($2 in chips)
+Seat 3: Maksim538 ($2.16 in chips)
+Seat 4: BB_tape112 ($2.03 in chips)
+Seat 5: Soranton ($3.06 in chips)
+Seat 6: Benzer586 ($1.83 in chips)
+Maksim538: posts small blind $0.01
+BB_tape112: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [3d Tc]
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: folds
+Charlie44333: folds
+Maksim538: calls $0.01
+BB_tape112: checks
+*** FLOP *** [Jd 8c 4d]
+Maksim538: checks
+BB_tape112: bets $0.02
+Maksim538: folds
+Uncalled bet ($0.02) returned to BB_tape112
+BB_tape112 collected $0.04 from pot
+BB_tape112: doesn't show hand
+*** SUMMARY ***
+Total pot $0.04 | Rake $0
+Board [Jd 8c 4d]
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: Charlie44333 (button) folded before Flop (didn't bet)
+Seat 3: Maksim538 (small blind) folded on the Flop
+Seat 4: BB_tape112 (big blind) collected ($0.04)
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 26 **************
+PokerStars Hand #197158221318:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:39:26 ET
+Table 'Coppelia III' 6-max Seat #1 is the button
+Seat 1: Ganseku Nagi ($2.99 in chips)
+Seat 2: Charlie44333 ($2 in chips)
+Seat 3: Maksim538 ($2.15 in chips)
+Seat 4: BB_tape112 ($2.03 in chips)
+Seat 5: Soranton ($3.06 in chips)
+Seat 6: Benzer586 ($1.83 in chips)
+Charlie44333: posts small blind $0.01
+Maksim538: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [7h 9h]
+BB_tape112: folds
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: raises $0.02 to $0.04
+Charlie44333: folds
+Maksim538: calls $0.02
+*** FLOP *** [As Ts Td]
+Maksim538: checks
+Ganseku Nagi: checks
+*** TURN *** [As Ts Td] [8h]
+Maksim538: checks
+Ganseku Nagi: checks
+*** RIVER *** [As Ts Td 8h] [8c]
+Maksim538: checks
+Ganseku Nagi: checks
+*** SHOW DOWN ***
+Maksim538: shows [Jc 6d] (two pair, Tens and Eights)
+Ganseku Nagi: shows [3h 4h] (two pair, Tens and Eights)
+Maksim538 collected $0.05 from pot
+Ganseku Nagi collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0
+Board [As Ts Td 8h 8c]
+Seat 1: Ganseku Nagi (button) showed [3h 4h] and won ($0.04) with two pair, Tens and Eights
+Seat 2: Charlie44333 (small blind) folded before Flop
+Seat 3: Maksim538 (big blind) showed [Jc 6d] and won ($0.05) with two pair, Tens and Eights
+Seat 4: BB_tape112 folded before Flop (didn't bet)
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 27 **************
+PokerStars Hand #197158211429:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:39:04 ET
+Table 'Coppelia III' 6-max Seat #6 is the button
+Seat 1: Ganseku Nagi ($3.09 in chips)
+Seat 2: Charlie44333 ($2 in chips)
+Seat 3: Maksim538 ($1.94 in chips)
+Seat 4: BB_tape112 ($2.03 in chips)
+Seat 5: Soranton ($3.16 in chips)
+Seat 6: Benzer586 ($1.83 in chips)
+Ganseku Nagi: posts small blind $0.01
+Charlie44333: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [2c 3h]
+Maksim538: calls $0.02
+BB_tape112: folds
+Soranton: raises $0.08 to $0.10
+Benzer586: folds
+Ganseku Nagi: calls $0.09
+Charlie44333: folds
+Maksim538: calls $0.08
+*** FLOP *** [Kc Jd Ad]
+Ganseku Nagi: checks
+Maksim538: bets $0.30
+Soranton: folds
+Ganseku Nagi: folds
+Uncalled bet ($0.30) returned to Maksim538
+Maksim538 collected $0.31 from pot
+Maksim538: doesn't show hand
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01
+Board [Kc Jd Ad]
+Seat 1: Ganseku Nagi (small blind) folded on the Flop
+Seat 2: Charlie44333 (big blind) folded before Flop
+Seat 3: Maksim538 collected ($0.31)
+Seat 4: BB_tape112 folded before Flop (didn't bet)
+Seat 5: Soranton folded on the Flop
+Seat 6: Benzer586 (button) folded before Flop (didn't bet)
+
+
+*********** # 28 **************
+PokerStars Hand #197158205373:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:38:52 ET
+Table 'Coppelia III' 6-max Seat #5 is the button
+Seat 1: Ganseku Nagi ($3.11 in chips)
+Seat 2: Charlie44333 ($2 in chips)
+Seat 3: Maksim538 ($1.94 in chips)
+Seat 4: BB_tape112 ($2 in chips)
+Seat 5: Soranton ($3.16 in chips)
+Seat 6: Benzer586 ($1.84 in chips)
+Benzer586: posts small blind $0.01
+Ganseku Nagi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [3h Jc]
+Charlie44333: folds
+Maksim538: folds
+BB_tape112: raises $0.03 to $0.05
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: folds
+Uncalled bet ($0.03) returned to BB_tape112
+BB_tape112 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: Ganseku Nagi (big blind) folded before Flop
+Seat 2: Charlie44333 folded before Flop (didn't bet)
+Seat 3: Maksim538 folded before Flop (didn't bet)
+Seat 4: BB_tape112 collected ($0.05)
+Seat 5: Soranton (button) folded before Flop (didn't bet)
+Seat 6: Benzer586 (small blind) folded before Flop
+
+
+*********** # 29 **************
+PokerStars Hand #197158163535:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:37:24 ET
+Table 'Coppelia III' 6-max Seat #4 is the button
+Seat 1: Ganseku Nagi ($2.61 in chips)
+Seat 2: Charlie44333 ($2.03 in chips)
+Seat 3: Maksim538 ($1.94 in chips)
+Seat 4: BB_tape112 ($2 in chips)
+Seat 5: Soranton ($3.17 in chips)
+Seat 6: Benzer586 ($1.86 in chips)
+Soranton: posts small blind $0.01
+Benzer586: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [4s 2c]
+Ganseku Nagi: raises $0.04 to $0.06
+Charlie44333: raises $0.15 to $0.21
+Maksim538: folds
+BB_tape112: folds
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: calls $0.15
+*** FLOP *** [5c 8h 7s]
+Ganseku Nagi: checks
+Charlie44333: checks
+*** TURN *** [5c 8h 7s] [5s]
+Ganseku Nagi: bets $0.30
+Charlie44333: calls $0.30
+*** RIVER *** [5c 8h 7s 5s] [6s]
+Ganseku Nagi: bets $0.50
+Charlie44333: folds
+Uncalled bet ($0.50) returned to Ganseku Nagi
+Ganseku Nagi collected $1.01 from pot
+Ganseku Nagi: doesn't show hand
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.04
+Board [5c 8h 7s 5s 6s]
+Seat 1: Ganseku Nagi collected ($1.01)
+Seat 2: Charlie44333 folded on the River
+Seat 3: Maksim538 folded before Flop (didn't bet)
+Seat 4: BB_tape112 (button) folded before Flop (didn't bet)
+Seat 5: Soranton (small blind) folded before Flop
+Seat 6: Benzer586 (big blind) folded before Flop
+
+
+*********** # 30 **************
+PokerStars Hand #197158140322:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:36:35 ET
+Table 'Coppelia III' 6-max Seat #3 is the button
+Seat 1: Ganseku Nagi ($2.91 in chips)
+Seat 2: Charlie44333 ($2.03 in chips)
+Seat 3: Maksim538 ($1.58 in chips)
+Seat 4: BB_tape112 ($2 in chips)
+Seat 5: Soranton ($3.19 in chips)
+Seat 6: Benzer586 ($1.86 in chips)
+BB_tape112: posts small blind $0.01
+Soranton: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [2h 3s]
+Benzer586: folds
+Ganseku Nagi: raises $0.04 to $0.06
+Charlie44333: folds
+Maksim538: calls $0.06
+BB_tape112: calls $0.05
+Soranton: folds
+*** FLOP *** [6d 5d Kc]
+BB_tape112: checks
+Ganseku Nagi: bets $0.12
+Maksim538: raises $0.12 to $0.24
+BB_tape112: folds
+Ganseku Nagi: calls $0.12
+*** TURN *** [6d 5d Kc] [Th]
+Ganseku Nagi: checks
+Maksim538: bets $0.66
+Ganseku Nagi: folds
+Uncalled bet ($0.66) returned to Maksim538
+Maksim538 collected $0.66 from pot
+Maksim538: doesn't show hand
+*** SUMMARY ***
+Total pot $0.68 | Rake $0.02
+Board [6d 5d Kc Th]
+Seat 1: Ganseku Nagi folded on the Turn
+Seat 2: Charlie44333 folded before Flop (didn't bet)
+Seat 3: Maksim538 (button) collected ($0.66)
+Seat 4: BB_tape112 (small blind) folded on the Flop
+Seat 5: Soranton (big blind) folded before Flop
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 31 **************
+PokerStars Hand #197158128622:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:36:11 ET
+Table 'Coppelia III' 6-max Seat #2 is the button
+Seat 1: Ganseku Nagi ($2.91 in chips)
+Seat 2: Charlie44333 ($2 in chips)
+Seat 3: Maksim538 ($1.59 in chips)
+Seat 4: BB_tape112 ($2.01 in chips)
+Seat 5: Soranton ($3.19 in chips)
+Seat 6: Benzer586 ($1.86 in chips)
+Maksim538: posts small blind $0.01
+BB_tape112: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [9c Qh]
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: folds
+Charlie44333: raises $0.03 to $0.05
+Maksim538: folds
+BB_tape112: folds
+Uncalled bet ($0.03) returned to Charlie44333
+Charlie44333 collected $0.05 from pot
+Charlie44333: doesn't show hand
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: Charlie44333 (button) collected ($0.05)
+Seat 3: Maksim538 (small blind) folded before Flop
+Seat 4: BB_tape112 (big blind) folded before Flop
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 32 **************
+PokerStars Hand #197158096633:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:35:03 ET
+Table 'Coppelia III' 6-max Seat #1 is the button
+Seat 1: Ganseku Nagi ($2.95 in chips)
+Seat 2: Charlie44333 ($2 in chips)
+Seat 3: Maksim538 ($1.54 in chips)
+Seat 4: BB_tape112 ($2.01 in chips)
+Seat 5: Soranton ($3.19 in chips)
+Seat 6: Benzer586 ($1.86 in chips)
+Charlie44333: posts small blind $0.01
+Maksim538: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [7s 4d]
+BB_tape112: folds
+Soranton has timed out
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: raises $0.02 to $0.04
+Charlie44333: folds
+Maksim538: calls $0.02
+*** FLOP *** [5d 5s 8h]
+Maksim538: checks
+Ganseku Nagi: checks
+*** TURN *** [5d 5s 8h] [9d]
+Maksim538: checks
+Ganseku Nagi: checks
+*** RIVER *** [5d 5s 8h 9d] [Qc]
+Maksim538: checks
+Ganseku Nagi: checks
+*** SHOW DOWN ***
+Maksim538: shows [Ad 4h] (a pair of Fives)
+Ganseku Nagi: mucks hand
+Maksim538 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0
+Board [5d 5s 8h 9d Qc]
+Seat 1: Ganseku Nagi (button) mucked [6s Jh]
+Seat 2: Charlie44333 (small blind) folded before Flop
+Seat 3: Maksim538 (big blind) showed [Ad 4h] and won ($0.09) with a pair of Fives
+Seat 4: BB_tape112 folded before Flop (didn't bet)
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 33 **************
+PokerStars Hand #197158079953:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:34:27 ET
+Table 'Coppelia III' 6-max Seat #6 is the button
+Seat 1: Ganseku Nagi ($2.96 in chips)
+Seat 2: Charlie44333 ($2 in chips)
+Seat 3: Maksim538 ($1.37 in chips)
+Seat 4: BB_tape112 ($2.16 in chips)
+Seat 5: Soranton ($3.19 in chips)
+Seat 6: Benzer586 ($1.86 in chips)
+Ganseku Nagi: posts small blind $0.01
+Charlie44333: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Js 8s]
+Maksim538: calls $0.02
+BB_tape112: raises $0.05 to $0.07
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: folds
+Charlie44333: folds
+Maksim538: calls $0.05
+*** FLOP *** [7h 9c 8h]
+Maksim538: checks
+BB_tape112: bets $0.08
+Maksim538: calls $0.08
+*** TURN *** [7h 9c 8h] [7s]
+Maksim538: checks
+BB_tape112: checks
+*** RIVER *** [7h 9c 8h 7s] [4h]
+Maksim538: bets $0.16
+BB_tape112: folds
+Uncalled bet ($0.16) returned to Maksim538
+Maksim538 collected $0.32 from pot
+Maksim538: doesn't show hand
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01
+Board [7h 9c 8h 7s 4h]
+Seat 1: Ganseku Nagi (small blind) folded before Flop
+Seat 2: Charlie44333 (big blind) folded before Flop
+Seat 3: Maksim538 collected ($0.32)
+Seat 4: BB_tape112 folded on the River
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 (button) folded before Flop (didn't bet)
+
+
+*********** # 34 **************
+PokerStars Hand #197158065978:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:33:57 ET
+Table 'Coppelia III' 6-max Seat #5 is the button
+Seat 1: Ganseku Nagi ($3.02 in chips)
+Seat 3: Maksim538 ($1.43 in chips)
+Seat 4: BB_tape112 ($2.04 in chips)
+Seat 5: Soranton ($3.19 in chips)
+Seat 6: Benzer586 ($1.87 in chips)
+Benzer586: posts small blind $0.01
+Ganseku Nagi: posts big blind $0.02
+Charlie44333: sits out
+*** HOLE CARDS ***
+Dealt to Benzer586 [9d 6h]
+Maksim538: calls $0.02
+BB_tape112: raises $0.04 to $0.06
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: calls $0.04
+Maksim538: calls $0.04
+*** FLOP *** [7c Ts 9c]
+Ganseku Nagi: checks
+Maksim538: checks
+BB_tape112: bets $0.14
+Ganseku Nagi: folds
+Maksim538: folds
+Uncalled bet ($0.14) returned to BB_tape112
+BB_tape112 collected $0.18 from pot
+BB_tape112: doesn't show hand
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01
+Board [7c Ts 9c]
+Seat 1: Ganseku Nagi (big blind) folded on the Flop
+Seat 3: Maksim538 folded on the Flop
+Seat 4: BB_tape112 collected ($0.18)
+Seat 5: Soranton (button) folded before Flop (didn't bet)
+Seat 6: Benzer586 (small blind) folded before Flop
+
+
+*********** # 35 **************
+PokerStars Hand #197158056979:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:33:38 ET
+Table 'Coppelia III' 6-max Seat #4 is the button
+Seat 1: Ganseku Nagi ($3.02 in chips)
+Seat 3: Maksim538 ($1.43 in chips)
+Seat 4: BB_tape112 ($2.09 in chips)
+Seat 5: Soranton ($3.12 in chips)
+Seat 6: Benzer586 ($1.89 in chips)
+Soranton: posts small blind $0.01
+Benzer586: posts big blind $0.02
+Charlie44333: sits out
+*** HOLE CARDS ***
+Dealt to Benzer586 [Ks 9h]
+Ganseku Nagi: folds
+Maksim538: folds
+BB_tape112: raises $0.03 to $0.05
+Soranton: raises $0.11 to $0.16
+Benzer586: folds
+BB_tape112: folds
+Uncalled bet ($0.11) returned to Soranton
+Soranton collected $0.12 from pot
+Soranton: doesn't show hand
+*** SUMMARY ***
+Total pot $0.12 | Rake $0
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 3: Maksim538 folded before Flop (didn't bet)
+Seat 4: BB_tape112 (button) folded before Flop
+Seat 5: Soranton (small blind) collected ($0.12)
+Seat 6: Benzer586 (big blind) folded before Flop
+
+
+*********** # 36 **************
+PokerStars Hand #197158029717:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:32:41 ET
+Table 'Coppelia III' 6-max Seat #3 is the button
+Seat 1: Ganseku Nagi ($3.02 in chips)
+Seat 3: Maksim538 ($1.37 in chips)
+Seat 4: BB_tape112 ($2.13 in chips)
+Seat 5: Soranton ($3.14 in chips)
+Seat 6: Benzer586 ($1.89 in chips)
+BB_tape112: posts small blind $0.01
+Soranton: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Td 3d]
+Charlie44333 joins the table at seat #2
+Benzer586: folds
+Ganseku Nagi: folds
+Maksim538: raises $0.02 to $0.04
+BB_tape112: calls $0.03
+Soranton: folds
+*** FLOP *** [Ad 8d 2c]
+BB_tape112: checks
+Maksim538: bets $0.04
+BB_tape112: folds
+Uncalled bet ($0.04) returned to Maksim538
+Maksim538 collected $0.10 from pot
+Maksim538: doesn't show hand
+*** SUMMARY ***
+Total pot $0.10 | Rake $0
+Board [Ad 8d 2c]
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 3: Maksim538 (button) collected ($0.10)
+Seat 4: BB_tape112 (small blind) folded on the Flop
+Seat 5: Soranton (big blind) folded before Flop
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 37 **************
+PokerStars Hand #197158009734:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:31:58 ET
+Table 'Coppelia III' 6-max Seat #1 is the button
+Seat 1: Ganseku Nagi ($2.92 in chips)
+Seat 2: Kozin_S ($1.78 in chips)
+Seat 3: Maksim538 ($1.42 in chips)
+Seat 4: BB_tape112 ($2.18 in chips)
+Seat 5: Soranton ($3.14 in chips)
+Seat 6: Benzer586 ($1.89 in chips)
+Kozin_S: posts small blind $0.01
+Maksim538: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Ts 2d]
+BB_tape112: raises $0.03 to $0.05
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: calls $0.05
+Kozin_S: folds
+Maksim538: calls $0.03
+*** FLOP *** [4c 7s Td]
+Kozin_S leaves the table
+Maksim538: checks
+BB_tape112: checks
+Ganseku Nagi: checks
+*** TURN *** [4c 7s Td] [2h]
+Maksim538: checks
+BB_tape112: checks
+Ganseku Nagi: checks
+*** RIVER *** [4c 7s Td 2h] [Ks]
+Maksim538: checks
+BB_tape112: checks
+Ganseku Nagi: checks
+*** SHOW DOWN ***
+Maksim538: shows [9h 5s] (high card King)
+BB_tape112: shows [Qc Jc] (high card King - Queen kicker)
+Ganseku Nagi: shows [5c As] (high card Ace)
+Ganseku Nagi collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01
+Board [4c 7s Td 2h Ks]
+Seat 1: Ganseku Nagi (button) showed [5c As] and won ($0.15) with high card Ace
+Seat 2: Kozin_S (small blind) folded before Flop
+Seat 3: Maksim538 (big blind) showed [9h 5s] and lost with high card King
+Seat 4: BB_tape112 showed [Qc Jc] and lost with high card King
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 38 **************
+PokerStars Hand #197157995858:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:31:28 ET
+Table 'Coppelia III' 6-max Seat #6 is the button
+Seat 1: Ganseku Nagi ($3.28 in chips)
+Seat 2: Kozin_S ($1.45 in chips)
+Seat 3: Maksim538 ($1.42 in chips)
+Seat 4: BB_tape112 ($2.18 in chips)
+Seat 5: Soranton ($3.14 in chips)
+Seat 6: Benzer586 ($1.89 in chips)
+Ganseku Nagi: posts small blind $0.01
+Kozin_S: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Ac 7d]
+Maksim538: folds
+BB_tape112: folds
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: raises $0.04 to $0.06
+Kozin_S: calls $0.04
+*** FLOP *** [8c 4h 5h]
+Ganseku Nagi: bets $0.10
+Kozin_S: calls $0.10
+*** TURN *** [8c 4h 5h] [7s]
+Ganseku Nagi: bets $0.20
+Kozin_S: calls $0.20
+*** RIVER *** [8c 4h 5h 7s] [Qh]
+Ganseku Nagi: checks
+Kozin_S: checks
+*** SHOW DOWN ***
+Ganseku Nagi: shows [Kc Kh] (a pair of Kings)
+Kozin_S: shows [As 6c] (a straight, Four to Eight)
+Kozin_S collected $0.69 from pot
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03
+Board [8c 4h 5h 7s Qh]
+Seat 1: Ganseku Nagi (small blind) showed [Kc Kh] and lost with a pair of Kings
+Seat 2: Kozin_S (big blind) showed [As 6c] and won ($0.69) with a straight, Four to Eight
+Seat 3: Maksim538 folded before Flop (didn't bet)
+Seat 4: BB_tape112 folded before Flop (didn't bet)
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 (button) folded before Flop (didn't bet)
+
+
+*********** # 39 **************
+PokerStars Hand #197157983174:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:31:01 ET
+Table 'Coppelia III' 6-max Seat #5 is the button
+Seat 1: Ganseku Nagi ($3.30 in chips)
+Seat 2: Kozin_S ($1.56 in chips)
+Seat 3: Maksim538 ($1.53 in chips)
+Seat 4: BB_tape112 ($2.18 in chips)
+Seat 5: Soranton ($2.90 in chips)
+Seat 6: Benzer586 ($1.90 in chips)
+Benzer586: posts small blind $0.01
+Ganseku Nagi: posts big blind $0.02
+Kozin_S: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [As 6h]
+Kozin_S: checks
+Maksim538: calls $0.02
+BB_tape112: folds
+Soranton: raises $0.09 to $0.11
+Benzer586: folds
+Ganseku Nagi: folds
+Kozin_S: calls $0.09
+Maksim538: calls $0.09
+*** FLOP *** [2s Kh Kc]
+Kozin_S: checks
+Maksim538: checks
+Soranton: bets $0.18
+Kozin_S: folds
+Maksim538: folds
+Uncalled bet ($0.18) returned to Soranton
+Soranton collected $0.35 from pot
+Soranton: doesn't show hand
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01
+Board [2s Kh Kc]
+Seat 1: Ganseku Nagi (big blind) folded before Flop
+Seat 2: Kozin_S folded on the Flop
+Seat 3: Maksim538 folded on the Flop
+Seat 4: BB_tape112 folded before Flop (didn't bet)
+Seat 5: Soranton (button) collected ($0.35)
+Seat 6: Benzer586 (small blind) folded before Flop
+
+
+*********** # 40 **************
+PokerStars Hand #197157973578:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:30:40 ET
+Table 'Coppelia III' 6-max Seat #4 is the button
+Seat 1: Ganseku Nagi ($3.30 in chips)
+Seat 3: Maksim538 ($1.60 in chips)
+Seat 4: BB_tape112 ($2.09 in chips)
+Seat 5: Soranton ($2.91 in chips)
+Seat 6: Benzer586 ($1.92 in chips)
+Soranton: posts small blind $0.01
+Benzer586: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [4h Kd]
+Ganseku Nagi: folds
+Maksim538: calls $0.02
+Kozin_S joins the table at seat #2
+BB_tape112: raises $0.05 to $0.07
+Soranton: folds
+Benzer586: folds
+Maksim538: calls $0.05
+*** FLOP *** [3h 5s Td]
+Maksim538: checks
+BB_tape112: bets $0.06
+Maksim538: folds
+Uncalled bet ($0.06) returned to BB_tape112
+BB_tape112 collected $0.16 from pot
+BB_tape112: doesn't show hand
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01
+Board [3h 5s Td]
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 3: Maksim538 folded on the Flop
+Seat 4: BB_tape112 (button) collected ($0.16)
+Seat 5: Soranton (small blind) folded before Flop
+Seat 6: Benzer586 (big blind) folded before Flop
+
+
+*********** # 41 **************
+PokerStars Hand #197157966245:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:30:24 ET
+Table 'Coppelia III' 6-max Seat #3 is the button
+Seat 1: Ganseku Nagi ($3.30 in chips)
+Seat 3: Maksim538 ($1.62 in chips)
+Seat 4: BB_tape112 ($2.10 in chips)
+Seat 5: Soranton ($2.88 in chips)
+Seat 6: Benzer586 ($1.92 in chips)
+BB_tape112: posts small blind $0.01
+Soranton: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Td 2h]
+Benzer586: folds
+Ganseku Nagi: folds
+Maksim538: calls $0.02
+BB_tape112: folds
+Soranton: checks
+*** FLOP *** [3h 7h 4d]
+Soranton: bets $0.05
+Maksim538: folds
+Uncalled bet ($0.05) returned to Soranton
+Soranton collected $0.05 from pot
+Soranton: doesn't show hand
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Board [3h 7h 4d]
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 3: Maksim538 (button) folded on the Flop
+Seat 4: BB_tape112 (small blind) folded before Flop
+Seat 5: Soranton (big blind) collected ($0.05)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 42 **************
+PokerStars Hand #197157937328:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:29:22 ET
+Table 'Coppelia III' 6-max Seat #1 is the button
+Seat 1: Ganseku Nagi ($4.12 in chips)
+Seat 3: Maksim538 ($0.82 in chips)
+Seat 4: BB_tape112 ($2.14 in chips)
+Seat 5: Soranton ($2.88 in chips)
+Seat 6: Benzer586 ($1.92 in chips)
+Maksim538: posts small blind $0.01
+BB_tape112: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Kh Ts]
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: raises $0.02 to $0.04
+Maksim538: calls $0.03
+BB_tape112: calls $0.02
+*** FLOP *** [9h 3h 8c]
+Maksim538: bets $0.12
+BB_tape112: folds
+Ganseku Nagi: calls $0.12
+*** TURN *** [9h 3h 8c] [5s]
+Maksim538: bets $0.34
+Ganseku Nagi: raises $1.03 to $1.37
+Maksim538: calls $0.32 and is all-in
+Uncalled bet ($0.71) returned to Ganseku Nagi
+*** RIVER *** [9h 3h 8c 5s] [7h]
+*** SHOW DOWN ***
+Maksim538: shows [3d 9d] (two pair, Nines and Threes)
+Ganseku Nagi: shows [9s As] (a pair of Nines)
+Maksim538 collected $1.62 from pot
+*** SUMMARY ***
+Total pot $1.68 | Rake $0.06
+Board [9h 3h 8c 5s 7h]
+Seat 1: Ganseku Nagi (button) showed [9s As] and lost with a pair of Nines
+Seat 3: Maksim538 (small blind) showed [3d 9d] and won ($1.62) with two pair, Nines and Threes
+Seat 4: BB_tape112 (big blind) folded on the Flop
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 43 **************
+PokerStars Hand #197157932896:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:29:13 ET
+Table 'Coppelia III' 6-max Seat #6 is the button
+Seat 1: Ganseku Nagi ($4.13 in chips)
+Seat 3: Maksim538 ($0.81 in chips)
+Seat 4: BB_tape112 ($2.14 in chips)
+Seat 5: Soranton ($2.88 in chips)
+Seat 6: Benzer586 ($1.92 in chips)
+Ganseku Nagi: posts small blind $0.01
+Maksim538: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [7c Tc]
+BB_tape112: folds
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: folds
+Uncalled bet ($0.01) returned to Maksim538
+Maksim538 collected $0.02 from pot
+Maksim538: doesn't show hand
+*** SUMMARY ***
+Total pot $0.02 | Rake $0
+Seat 1: Ganseku Nagi (small blind) folded before Flop
+Seat 3: Maksim538 (big blind) collected ($0.02)
+Seat 4: BB_tape112 folded before Flop (didn't bet)
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 (button) folded before Flop (didn't bet)
+
+
+*********** # 44 **************
+PokerStars Hand #197157924653:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:28:55 ET
+Table 'Coppelia III' 6-max Seat #5 is the button
+Seat 1: Ganseku Nagi ($4.15 in chips)
+Seat 2: sibir555 ($2.87 in chips)
+Seat 3: Maksim538 ($0.78 in chips)
+Seat 4: BB_tape112 ($2.14 in chips)
+Seat 5: Soranton ($2.88 in chips)
+Seat 6: Benzer586 ($1.93 in chips)
+Benzer586: posts small blind $0.01
+Ganseku Nagi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Ts 3h]
+sibir555: folds
+Maksim538: calls $0.02
+BB_tape112: folds
+sibir555 leaves the table
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: checks
+*** FLOP *** [Ks Qs 4s]
+Ganseku Nagi: checks
+Maksim538: bets $0.02
+Ganseku Nagi: folds
+Uncalled bet ($0.02) returned to Maksim538
+Maksim538 collected $0.05 from pot
+Maksim538: doesn't show hand
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Board [Ks Qs 4s]
+Seat 1: Ganseku Nagi (big blind) folded on the Flop
+Seat 2: sibir555 folded before Flop (didn't bet)
+Seat 3: Maksim538 collected ($0.05)
+Seat 4: BB_tape112 folded before Flop (didn't bet)
+Seat 5: Soranton (button) folded before Flop (didn't bet)
+Seat 6: Benzer586 (small blind) folded before Flop
+
+
+*********** # 45 **************
+PokerStars Hand #197157913433:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:28:31 ET
+Table 'Coppelia III' 6-max Seat #4 is the button
+Seat 1: Ganseku Nagi ($4.15 in chips)
+Seat 2: sibir555 ($2.87 in chips)
+Seat 3: Maksim538 ($0.80 in chips)
+Seat 4: BB_tape112 ($2.14 in chips)
+Seat 5: Soranton ($2.90 in chips)
+Seat 6: Benzer586 ($1.89 in chips)
+Soranton: posts small blind $0.01
+Benzer586: posts big blind $0.02
+Maksim538: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Js Jc]
+Ganseku Nagi: folds
+sibir555: folds
+Maksim538: checks
+BB_tape112: folds
+Soranton: calls $0.01
+Benzer586: raises $0.08 to $0.10
+Maksim538: folds
+Soranton: folds
+Uncalled bet ($0.08) returned to Benzer586
+Benzer586 collected $0.06 from pot
+Benzer586: doesn't show hand
+*** SUMMARY ***
+Total pot $0.06 | Rake $0
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: sibir555 folded before Flop (didn't bet)
+Seat 3: Maksim538 folded before Flop (didn't bet)
+Seat 4: BB_tape112 (button) folded before Flop (didn't bet)
+Seat 5: Soranton (small blind) folded before Flop
+Seat 6: Benzer586 (big blind) collected ($0.06)
+
+
+*********** # 46 **************
+PokerStars Hand #197157891432:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:27:44 ET
+Table 'Coppelia III' 6-max Seat #2 is the button
+Seat 1: Ganseku Nagi ($4.15 in chips)
+Seat 2: sibir555 ($2.91 in chips)
+Seat 4: BB_tape112 ($2.08 in chips)
+Seat 5: Soranton ($2.92 in chips)
+Seat 6: Benzer586 ($1.89 in chips)
+Maksim538 will be allowed to play after the button
+BB_tape112: posts small blind $0.01
+Soranton: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [6c Jd]
+Benzer586: folds
+Ganseku Nagi: folds
+sibir555: raises $0.02 to $0.04
+BB_tape112: calls $0.03
+Soranton: folds
+*** FLOP *** [4s 7c Th]
+BB_tape112: checks
+sibir555: checks
+*** TURN *** [4s 7c Th] [Ks]
+BB_tape112: bets $0.08
+sibir555: folds
+Uncalled bet ($0.08) returned to BB_tape112
+BB_tape112 collected $0.10 from pot
+BB_tape112: doesn't show hand
+*** SUMMARY ***
+Total pot $0.10 | Rake $0
+Board [4s 7c Th Ks]
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: sibir555 (button) folded on the Turn
+Seat 4: BB_tape112 (small blind) collected ($0.10)
+Seat 5: Soranton (big blind) folded before Flop
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 47 **************
+PokerStars Hand #197157880973:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:27:21 ET
+Table 'Coppelia III' 6-max Seat #1 is the button
+Seat 1: Ganseku Nagi ($4.15 in chips)
+Seat 2: sibir555 ($2.92 in chips)
+Seat 4: BB_tape112 ($2.10 in chips)
+Seat 5: Soranton ($2.92 in chips)
+Seat 6: Benzer586 ($1.86 in chips)
+sibir555: posts small blind $0.01
+GRizlik14: is sitting out
+BB_tape112: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Qc Ac]
+Soranton: folds
+GRizlik14 leaves the table
+Benzer586: raises $0.02 to $0.04
+Ganseku Nagi: folds
+sibir555: folds
+Maksim538 joins the table at seat #3
+BB_tape112: folds
+Uncalled bet ($0.02) returned to Benzer586
+Benzer586 collected $0.05 from pot
+Benzer586: doesn't show hand
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: Ganseku Nagi (button) folded before Flop (didn't bet)
+Seat 2: sibir555 (small blind) folded before Flop
+Seat 4: BB_tape112 (big blind) folded before Flop
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 collected ($0.05)
+
+
+*********** # 48 **************
+PokerStars Hand #197157873452:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:27:05 ET
+Table 'Coppelia III' 6-max Seat #6 is the button
+Seat 1: Ganseku Nagi ($4.16 in chips)
+Seat 2: sibir555 ($2.91 in chips)
+Seat 3: GRizlik14 ($2.03 in chips)
+Seat 4: BB_tape112 ($2.10 in chips)
+Seat 5: Soranton ($2.92 in chips)
+Seat 6: Benzer586 ($1.86 in chips)
+Ganseku Nagi: posts small blind $0.01
+sibir555: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [8s Th]
+GRizlik14: folds
+BB_tape112: folds
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: folds
+Uncalled bet ($0.01) returned to sibir555
+sibir555 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0
+Seat 1: Ganseku Nagi (small blind) folded before Flop
+Seat 2: sibir555 (big blind) collected ($0.02)
+Seat 3: GRizlik14 folded before Flop (didn't bet)
+Seat 4: BB_tape112 folded before Flop (didn't bet)
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 (button) folded before Flop (didn't bet)
+
+
+*********** # 49 **************
+PokerStars Hand #197157861957:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:26:40 ET
+Table 'Coppelia III' 6-max Seat #5 is the button
+Seat 1: Ganseku Nagi ($4.18 in chips)
+Seat 2: sibir555 ($2.91 in chips)
+Seat 3: GRizlik14 ($2 in chips)
+Seat 4: BB_tape112 ($2.10 in chips)
+Seat 5: Soranton ($2.92 in chips)
+Seat 6: Benzer586 ($1.87 in chips)
+Benzer586: posts small blind $0.01
+Ganseku Nagi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [4s 4h]
+sibir555: folds
+GRizlik14: raises $0.03 to $0.05
+BB_tape112: folds
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: folds
+Uncalled bet ($0.03) returned to GRizlik14
+GRizlik14 collected $0.05 from pot
+GRizlik14: doesn't show hand
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: Ganseku Nagi (big blind) folded before Flop
+Seat 2: sibir555 folded before Flop (didn't bet)
+Seat 3: GRizlik14 collected ($0.05)
+Seat 4: BB_tape112 folded before Flop (didn't bet)
+Seat 5: Soranton (button) folded before Flop (didn't bet)
+Seat 6: Benzer586 (small blind) folded before Flop
+
+
+*********** # 50 **************
+PokerStars Hand #197157846044:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:26:05 ET
+Table 'Coppelia III' 6-max Seat #4 is the button
+Seat 1: Ganseku Nagi ($4.18 in chips)
+Seat 2: sibir555 ($2.91 in chips)
+Seat 3: GRizlik14 ($2 in chips)
+Seat 4: BB_tape112 ($2.10 in chips)
+Seat 5: Soranton ($2.86 in chips)
+Seat 6: Benzer586 ($1.93 in chips)
+Soranton: posts small blind $0.01
+Benzer586: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [As Jd]
+Ganseku Nagi: folds
+sibir555: folds
+GRizlik14: folds
+BB_tape112: folds
+Soranton: raises $0.04 to $0.06
+Benzer586: calls $0.04
+*** FLOP *** [Ks Tc Ts]
+Soranton: bets $0.08
+Benzer586: folds
+Uncalled bet ($0.08) returned to Soranton
+Soranton collected $0.12 from pot
+Soranton: doesn't show hand
+*** SUMMARY ***
+Total pot $0.12 | Rake $0
+Board [Ks Tc Ts]
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: sibir555 folded before Flop (didn't bet)
+Seat 3: GRizlik14 folded before Flop (didn't bet)
+Seat 4: BB_tape112 (button) folded before Flop (didn't bet)
+Seat 5: Soranton (small blind) collected ($0.12)
+Seat 6: Benzer586 (big blind) folded on the Flop
+
+
+*********** # 51 **************
+PokerStars Hand #197157821465:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:25:12 ET
+Table 'Coppelia III' 6-max Seat #3 is the button
+Seat 1: Ganseku Nagi ($4.18 in chips)
+Seat 2: sibir555 ($2.91 in chips)
+Seat 3: GRizlik14 ($2 in chips)
+Seat 4: BB_tape112 ($2.01 in chips)
+Seat 5: Soranton ($2.90 in chips)
+Seat 6: Benzer586 ($1.99 in chips)
+BB_tape112: posts small blind $0.01
+Soranton: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [4s 4d]
+Benzer586: raises $0.02 to $0.04
+Ganseku Nagi: folds
+sibir555: folds
+GRizlik14: folds
+BB_tape112: calls $0.03
+Soranton: calls $0.02
+*** FLOP *** [9s 6s Kd]
+BB_tape112: checks
+Soranton: checks
+Benzer586: bets $0.02
+BB_tape112: calls $0.02
+Soranton: folds
+*** TURN *** [9s 6s Kd] [Js]
+BB_tape112: checks
+Benzer586: checks
+*** RIVER *** [9s 6s Kd Js] [7h]
+BB_tape112: checks
+Benzer586: checks
+*** SHOW DOWN ***
+BB_tape112: shows [5c 5s] (a pair of Fives)
+Benzer586: mucks hand
+BB_tape112 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01
+Board [9s 6s Kd Js 7h]
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: sibir555 folded before Flop (didn't bet)
+Seat 3: GRizlik14 (button) folded before Flop (didn't bet)
+Seat 4: BB_tape112 (small blind) showed [5c 5s] and won ($0.15) with a pair of Fives
+Seat 5: Soranton (big blind) folded on the Flop
+Seat 6: Benzer586 mucked [4s 4d]
+
+
+*********** # 52 **************
+PokerStars Hand #197157815665:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:24:59 ET
+Table 'Coppelia III' 6-max Seat #2 is the button
+Seat 1: Ganseku Nagi ($4.18 in chips)
+Seat 2: sibir555 ($2.91 in chips)
+Seat 3: GRizlik14 ($2 in chips)
+Seat 4: BB_tape112 ($2 in chips)
+Seat 5: Soranton ($2.90 in chips)
+Seat 6: Benzer586 ($1.99 in chips)
+GRizlik14: posts small blind $0.01
+BB_tape112: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [4c Qc]
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: folds
+sibir555: folds
+GRizlik14: folds
+Uncalled bet ($0.01) returned to BB_tape112
+BB_tape112 collected $0.02 from pot
+BB_tape112: doesn't show hand
+*** SUMMARY ***
+Total pot $0.02 | Rake $0
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: sibir555 (button) folded before Flop (didn't bet)
+Seat 3: GRizlik14 (small blind) folded before Flop
+Seat 4: BB_tape112 (big blind) collected ($0.02)
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 53 **************
+PokerStars Hand #197157807613:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:24:42 ET
+Table 'Coppelia III' 6-max Seat #1 is the button
+Seat 1: Ganseku Nagi ($4.12 in chips)
+Seat 2: sibir555 ($2.95 in chips)
+Seat 3: GRizlik14 ($2 in chips)
+Seat 4: BB_tape112 ($2 in chips)
+Seat 5: Soranton ($2.90 in chips)
+Seat 6: Benzer586 ($1.99 in chips)
+sibir555: posts small blind $0.01
+GRizlik14: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Td 6d]
+BB_tape112: folds
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: raises $0.02 to $0.04
+sibir555: calls $0.03
+GRizlik14: folds
+*** FLOP *** [5c 4c 8s]
+sibir555: checks
+Ganseku Nagi: bets $0.10
+sibir555: folds
+Uncalled bet ($0.10) returned to Ganseku Nagi
+Ganseku Nagi collected $0.10 from pot
+Ganseku Nagi: doesn't show hand
+*** SUMMARY ***
+Total pot $0.10 | Rake $0
+Board [5c 4c 8s]
+Seat 1: Ganseku Nagi (button) collected ($0.10)
+Seat 2: sibir555 (small blind) folded on the Flop
+Seat 3: GRizlik14 (big blind) folded before Flop
+Seat 4: BB_tape112 folded before Flop (didn't bet)
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 54 **************
+PokerStars Hand #197157796256:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:24:17 ET
+Table 'Coppelia III' 6-max Seat #6 is the button
+Seat 1: Ganseku Nagi ($4.06 in chips)
+Seat 2: sibir555 ($3.01 in chips)
+Seat 3: GRizlik14 ($2 in chips)
+Seat 4: BB_tape112 ($2 in chips)
+Seat 5: Soranton ($2.90 in chips)
+Seat 6: Benzer586 ($1.99 in chips)
+Ganseku Nagi: posts small blind $0.01
+sibir555: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [5h Ac]
+GRizlik14: folds
+BB_tape112: folds
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: raises $0.04 to $0.06
+sibir555: calls $0.04
+*** FLOP *** [Ks Qs 7d]
+Ganseku Nagi: bets $0.10
+sibir555: folds
+Uncalled bet ($0.10) returned to Ganseku Nagi
+Ganseku Nagi collected $0.12 from pot
+Ganseku Nagi: doesn't show hand
+*** SUMMARY ***
+Total pot $0.12 | Rake $0
+Board [Ks Qs 7d]
+Seat 1: Ganseku Nagi (small blind) collected ($0.12)
+Seat 2: sibir555 (big blind) folded on the Flop
+Seat 3: GRizlik14 folded before Flop (didn't bet)
+Seat 4: BB_tape112 folded before Flop (didn't bet)
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 (button) folded before Flop (didn't bet)
+
+
+*********** # 55 **************
+PokerStars Hand #197157786823:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:23:56 ET
+Table 'Coppelia III' 6-max Seat #5 is the button
+Seat 1: Ganseku Nagi ($4.08 in chips)
+Seat 2: sibir555 ($3.01 in chips)
+Seat 3: GRizlik14 ($2 in chips)
+Seat 4: BB_tape112 ($2 in chips)
+Seat 5: Soranton ($2.90 in chips)
+Seat 6: Benzer586 ($1.97 in chips)
+Benzer586: posts small blind $0.01
+Ganseku Nagi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [As 8d]
+sibir555: folds
+GRizlik14: folds
+BB_tape112: folds
+Soranton: folds
+Benzer586: raises $0.02 to $0.04
+Ganseku Nagi: folds
+Uncalled bet ($0.02) returned to Benzer586
+Benzer586 collected $0.04 from pot
+Benzer586: doesn't show hand
+*** SUMMARY ***
+Total pot $0.04 | Rake $0
+Seat 1: Ganseku Nagi (big blind) folded before Flop
+Seat 2: sibir555 folded before Flop (didn't bet)
+Seat 3: GRizlik14 folded before Flop (didn't bet)
+Seat 4: BB_tape112 folded before Flop (didn't bet)
+Seat 5: Soranton (button) folded before Flop (didn't bet)
+Seat 6: Benzer586 (small blind) collected ($0.04)
+
+
+*********** # 56 **************
+PokerStars Hand #197157780972:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:23:44 ET
+Table 'Coppelia III' 6-max Seat #4 is the button
+Seat 1: Ganseku Nagi ($4.08 in chips)
+Seat 2: sibir555 ($2.98 in chips)
+Seat 3: GRizlik14 ($2 in chips)
+Seat 4: BB_tape112 ($2 in chips)
+Seat 5: Soranton ($2.91 in chips)
+Seat 6: Benzer586 ($1.99 in chips)
+Soranton: posts small blind $0.01
+Benzer586: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Tc 6h]
+Ganseku Nagi: folds
+sibir555: raises $0.03 to $0.05
+GRizlik14: folds
+BB_tape112: folds
+Soranton: folds
+Benzer586: folds
+Uncalled bet ($0.03) returned to sibir555
+sibir555 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: sibir555 collected ($0.05)
+Seat 3: GRizlik14 folded before Flop (didn't bet)
+Seat 4: BB_tape112 (button) folded before Flop (didn't bet)
+Seat 5: Soranton (small blind) folded before Flop
+Seat 6: Benzer586 (big blind) folded before Flop
+
+
+*********** # 57 **************
+PokerStars Hand #197157757533:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:22:53 ET
+Table 'Coppelia III' 6-max Seat #3 is the button
+Seat 1: Ganseku Nagi ($4.08 in chips)
+Seat 2: sibir555 ($2.88 in chips)
+Seat 3: GRizlik14 ($2 in chips)
+Seat 4: BB_tape112 ($2 in chips)
+Seat 5: Soranton ($2.96 in chips)
+Seat 6: Benzer586 ($1.99 in chips)
+BB_tape112: posts small blind $0.01
+Soranton: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [2s 5c]
+Benzer586: folds
+Ganseku Nagi: folds
+sibir555: raises $0.03 to $0.05
+GRizlik14: calls $0.05
+BB_tape112: folds
+Soranton: calls $0.03
+*** FLOP *** [2h Kd Ac]
+Soranton: checks
+sibir555: checks
+GRizlik14: checks
+*** TURN *** [2h Kd Ac] [As]
+Soranton: checks
+sibir555: checks
+GRizlik14: checks
+*** RIVER *** [2h Kd Ac As] [Kh]
+Soranton: checks
+sibir555: checks
+GRizlik14: checks
+*** SHOW DOWN ***
+Soranton: shows [3d 3h] (two pair, Aces and Kings)
+sibir555: shows [Jc 9c] (two pair, Aces and Kings - Jack kicker)
+GRizlik14: mucks hand
+sibir555 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01
+Board [2h Kd Ac As Kh]
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: sibir555 showed [Jc 9c] and won ($0.15) with two pair, Aces and Kings
+Seat 3: GRizlik14 (button) mucked [3c 3s]
+Seat 4: BB_tape112 (small blind) folded before Flop
+Seat 5: Soranton (big blind) showed [3d 3h] and lost with two pair, Aces and Kings
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 58 **************
+PokerStars Hand #197157732030:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:21:57 ET
+Table 'Coppelia III' 6-max Seat #2 is the button
+Seat 1: Ganseku Nagi ($4.08 in chips)
+Seat 2: sibir555 ($2.83 in chips)
+Seat 3: GRizlik14 ($2 in chips)
+Seat 4: BB_tape112 ($2 in chips)
+Seat 5: Soranton ($2.96 in chips)
+Seat 6: Benzer586 ($1.99 in chips)
+GRizlik14: posts small blind $0.01
+BB_tape112: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [4c 9h]
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: folds
+sibir555: raises $0.02 to $0.04
+GRizlik14: folds
+BB_tape112: calls $0.02
+*** FLOP *** [Tc 7s Kh]
+BB_tape112 has timed out
+BB_tape112: checks
+sibir555: bets $0.05
+BB_tape112: folds
+Uncalled bet ($0.05) returned to sibir555
+sibir555 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0
+Board [Tc 7s Kh]
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: sibir555 (button) collected ($0.09)
+Seat 3: GRizlik14 (small blind) folded before Flop
+Seat 4: BB_tape112 (big blind) folded on the Flop
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 59 **************
+PokerStars Hand #197157721585:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:21:35 ET
+Table 'Coppelia III' 6-max Seat #1 is the button
+Seat 1: Ganseku Nagi ($4.05 in chips)
+Seat 2: sibir555 ($2.84 in chips)
+Seat 3: GRizlik14 ($2 in chips)
+Seat 5: Soranton ($2.96 in chips)
+Seat 6: Benzer586 ($1.99 in chips)
+sibir555: posts small blind $0.01
+GRizlik14: posts big blind $0.02
+BB_tape112: sits out
+*** HOLE CARDS ***
+Dealt to Benzer586 [3c 5s]
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: raises $0.04 to $0.06
+sibir555: folds
+GRizlik14: folds
+Uncalled bet ($0.04) returned to Ganseku Nagi
+Ganseku Nagi collected $0.05 from pot
+Ganseku Nagi: doesn't show hand
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: Ganseku Nagi (button) collected ($0.05)
+Seat 2: sibir555 (small blind) folded before Flop
+Seat 3: GRizlik14 (big blind) folded before Flop
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 60 **************
+PokerStars Hand #197157705188:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:20:59 ET
+Table 'Coppelia III' 6-max Seat #6 is the button
+Seat 1: Ganseku Nagi ($4.06 in chips)
+Seat 2: sibir555 ($2.86 in chips)
+Seat 3: azx838 ($4.47 in chips)
+Seat 5: Soranton ($2.96 in chips)
+Seat 6: Benzer586 ($1.96 in chips)
+Ganseku Nagi: posts small blind $0.01
+sibir555: posts big blind $0.02
+BB_tape112: sits out
+*** HOLE CARDS ***
+Dealt to Benzer586 [Tc Js]
+azx838: folds
+azx838 leaves the table
+Soranton: folds
+Benzer586: calls $0.02
+Ganseku Nagi: folds
+GRizlik14 joins the table at seat #3
+sibir555: checks
+*** FLOP *** [4h Ac Ad]
+sibir555: checks
+Benzer586: checks
+*** TURN *** [4h Ac Ad] [Th]
+sibir555: checks
+Benzer586: bets $0.04
+sibir555: folds
+Uncalled bet ($0.04) returned to Benzer586
+Benzer586 collected $0.05 from pot
+Benzer586: doesn't show hand
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Board [4h Ac Ad Th]
+Seat 1: Ganseku Nagi (small blind) folded before Flop
+Seat 2: sibir555 (big blind) folded on the Turn
+Seat 3: azx838 folded before Flop (didn't bet)
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 (button) collected ($0.05)
+
+
+*********** # 61 **************
+PokerStars Hand #197157694938:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:20:36 ET
+Table 'Coppelia III' 6-max Seat #5 is the button
+Seat 1: Ganseku Nagi ($4.08 in chips)
+Seat 2: sibir555 ($2.83 in chips)
+Seat 3: azx838 ($4.47 in chips)
+Seat 5: Soranton ($2.96 in chips)
+Seat 6: Benzer586 ($1.97 in chips)
+Benzer586: posts small blind $0.01
+Ganseku Nagi: posts big blind $0.02
+ykAtt: sits out
+*** HOLE CARDS ***
+Dealt to Benzer586 [8h Th]
+ykAtt leaves the table
+sibir555: raises $0.03 to $0.05
+azx838: folds
+Soranton: folds
+BB_tape112 joins the table at seat #4
+Benzer586: folds
+Ganseku Nagi: folds
+Uncalled bet ($0.03) returned to sibir555
+sibir555 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: Ganseku Nagi (big blind) folded before Flop
+Seat 2: sibir555 collected ($0.05)
+Seat 3: azx838 folded before Flop (didn't bet)
+Seat 5: Soranton (button) folded before Flop (didn't bet)
+Seat 6: Benzer586 (small blind) folded before Flop
+
+
+*********** # 62 **************
+PokerStars Hand #197157681675:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:20:07 ET
+Table 'Coppelia III' 6-max Seat #3 is the button
+Seat 1: Ganseku Nagi ($4.08 in chips)
+Seat 2: sibir555 ($2.83 in chips)
+Seat 3: azx838 ($4.47 in chips)
+Seat 5: Soranton ($3.16 in chips)
+Seat 6: Benzer586 ($1.78 in chips)
+Soranton: posts small blind $0.01
+Benzer586: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [6d 7d]
+Ganseku Nagi: folds
+sibir555: folds
+azx838: folds
+Soranton: raises $0.04 to $0.06
+ykAtt joins the table at seat #4
+Benzer586: calls $0.04
+*** FLOP *** [Kh Ad 6h]
+Soranton: checks
+Benzer586: bets $0.02
+Soranton: calls $0.02
+*** TURN *** [Kh Ad 6h] [6c]
+Soranton: bets $0.06
+Benzer586: raises $0.06 to $0.12
+Soranton: calls $0.06
+*** RIVER *** [Kh Ad 6h 6c] [5s]
+Soranton: checks
+Benzer586: checks
+*** SHOW DOWN ***
+Soranton: shows [As 3h] (two pair, Aces and Sixes)
+Benzer586: shows [6d 7d] (three of a kind, Sixes)
+Benzer586 collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01
+Board [Kh Ad 6h 6c 5s]
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: sibir555 folded before Flop (didn't bet)
+Seat 3: azx838 (button) folded before Flop (didn't bet)
+Seat 5: Soranton (small blind) showed [As 3h] and lost with two pair, Aces and Sixes
+Seat 6: Benzer586 (big blind) showed [6d 7d] and won ($0.39) with three of a kind, Sixes
+
+
+*********** # 63 **************
+PokerStars Hand #197157673902:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:19:51 ET
+Table 'Coppelia III' 6-max Seat #2 is the button
+Seat 1: Ganseku Nagi ($4.08 in chips)
+Seat 2: sibir555 ($2.83 in chips)
+Seat 3: azx838 ($4.48 in chips)
+Seat 5: Soranton ($3.15 in chips)
+Seat 6: Benzer586 ($1.78 in chips)
+azx838: posts small blind $0.01
+Soranton: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [5c 6s]
+Benzer586: folds
+Ganseku Nagi: folds
+sibir555: folds
+azx838: folds
+Uncalled bet ($0.01) returned to Soranton
+Soranton collected $0.02 from pot
+Soranton: doesn't show hand
+*** SUMMARY ***
+Total pot $0.02 | Rake $0
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: sibir555 (button) folded before Flop (didn't bet)
+Seat 3: azx838 (small blind) folded before Flop
+Seat 5: Soranton (big blind) collected ($0.02)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 64 **************
+PokerStars Hand #197157667483:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:19:37 ET
+Table 'Coppelia III' 6-max Seat #1 is the button
+Seat 1: Ganseku Nagi ($4.08 in chips)
+Seat 2: sibir555 ($2.81 in chips)
+Seat 3: azx838 ($4.50 in chips)
+Seat 5: Soranton ($3.15 in chips)
+Seat 6: Benzer586 ($1.78 in chips)
+sibir555: posts small blind $0.01
+azx838: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [6d 4h]
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: folds
+19VITALIY86 leaves the table
+sibir555: raises $0.04 to $0.06
+azx838: folds
+Uncalled bet ($0.04) returned to sibir555
+sibir555 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0
+Seat 1: Ganseku Nagi (button) folded before Flop (didn't bet)
+Seat 2: sibir555 (small blind) collected ($0.04)
+Seat 3: azx838 (big blind) folded before Flop
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 65 **************
+PokerStars Hand #197157649693:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:18:58 ET
+Table 'Coppelia III' 6-max Seat #6 is the button
+Seat 1: Ganseku Nagi ($4.09 in chips)
+Seat 2: sibir555 ($2.83 in chips)
+Seat 3: azx838 ($4.50 in chips)
+Seat 4: 19VITALIY86 ($0.44 in chips)
+Seat 5: Soranton ($2.71 in chips)
+Seat 6: Benzer586 ($1.78 in chips)
+Ganseku Nagi: posts small blind $0.01
+sibir555: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [4s Qc]
+azx838: folds
+19VITALIY86: raises $0.04 to $0.06
+Soranton: calls $0.06
+Benzer586: folds
+Ganseku Nagi: folds
+sibir555: folds
+*** FLOP *** [7h 7d 7c]
+19VITALIY86: bets $0.38 and is all-in
+Soranton: calls $0.38
+*** TURN *** [7h 7d 7c] [5d]
+*** RIVER *** [7h 7d 7c 5d] [4d]
+*** SHOW DOWN ***
+19VITALIY86: shows [Jc Ac] (three of a kind, Sevens)
+Soranton: shows [6s 6d] (a full house, Sevens full of Sixes)
+Soranton collected $0.88 from pot
+*** SUMMARY ***
+Total pot $0.91 | Rake $0.03
+Board [7h 7d 7c 5d 4d]
+Seat 1: Ganseku Nagi (small blind) folded before Flop
+Seat 2: sibir555 (big blind) folded before Flop
+Seat 3: azx838 folded before Flop (didn't bet)
+Seat 4: 19VITALIY86 showed [Jc Ac] and lost with three of a kind, Sevens
+Seat 5: Soranton showed [6s 6d] and won ($0.88) with a full house, Sevens full of Sixes
+Seat 6: Benzer586 (button) folded before Flop (didn't bet)
+
+
+*********** # 66 **************
+PokerStars Hand #197157641159:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:18:39 ET
+Table 'Coppelia III' 6-max Seat #5 is the button
+Seat 1: Ganseku Nagi ($4.11 in chips)
+Seat 2: sibir555 ($2.80 in chips)
+Seat 3: azx838 ($4.50 in chips)
+Seat 4: 19VITALIY86 ($0.44 in chips)
+Seat 5: Soranton ($2.71 in chips)
+Seat 6: Benzer586 ($1.79 in chips)
+Benzer586: posts small blind $0.01
+Ganseku Nagi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [7s Ah]
+sibir555: raises $0.03 to $0.05
+azx838: folds
+19VITALIY86: folds
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: folds
+Uncalled bet ($0.03) returned to sibir555
+sibir555 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: Ganseku Nagi (big blind) folded before Flop
+Seat 2: sibir555 collected ($0.05)
+Seat 3: azx838 folded before Flop (didn't bet)
+Seat 4: 19VITALIY86 folded before Flop (didn't bet)
+Seat 5: Soranton (button) folded before Flop (didn't bet)
+Seat 6: Benzer586 (small blind) folded before Flop
+
+
+*********** # 67 **************
+PokerStars Hand #197157634580:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:18:25 ET
+Table 'Coppelia III' 6-max Seat #4 is the button
+Seat 1: Ganseku Nagi ($4.11 in chips)
+Seat 2: sibir555 ($2.80 in chips)
+Seat 3: azx838 ($4.50 in chips)
+Seat 4: 19VITALIY86 ($0.44 in chips)
+Seat 5: Soranton ($2.72 in chips)
+Seat 6: Benzer586 ($1.78 in chips)
+Soranton: posts small blind $0.01
+Benzer586: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [8d Ts]
+Ganseku Nagi: folds
+sibir555: folds
+azx838: folds
+19VITALIY86: folds
+Soranton: folds
+Uncalled bet ($0.01) returned to Benzer586
+Benzer586 collected $0.02 from pot
+Benzer586: doesn't show hand
+*** SUMMARY ***
+Total pot $0.02 | Rake $0
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: sibir555 folded before Flop (didn't bet)
+Seat 3: azx838 folded before Flop (didn't bet)
+Seat 4: 19VITALIY86 (button) folded before Flop (didn't bet)
+Seat 5: Soranton (small blind) folded before Flop
+Seat 6: Benzer586 (big blind) collected ($0.02)
+
+
+*********** # 68 **************
+PokerStars Hand #197157608744:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:17:29 ET
+Table 'Coppelia III' 6-max Seat #3 is the button
+Seat 1: Ganseku Nagi ($4.11 in chips)
+Seat 2: sibir555 ($2.80 in chips)
+Seat 3: azx838 ($4.68 in chips)
+Seat 4: 19VITALIY86 ($0.45 in chips)
+Seat 5: Soranton ($2.74 in chips)
+Seat 6: Benzer586 ($1.58 in chips)
+19VITALIY86: posts small blind $0.01
+Soranton: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [5c 5h]
+Benzer586: calls $0.02
+Ganseku Nagi: folds
+sibir555: folds
+azx838: calls $0.02
+19VITALIY86: folds
+Soranton: checks
+*** FLOP *** [9h 5d 3c]
+Soranton: checks
+Benzer586: bets $0.02
+azx838: calls $0.02
+Soranton: folds
+*** TURN *** [9h 5d 3c] [7c]
+Benzer586: bets $0.10
+azx838: calls $0.10
+*** RIVER *** [9h 5d 3c 7c] [3d]
+Benzer586: bets $0.04
+azx838: calls $0.04
+*** SHOW DOWN ***
+Benzer586: shows [5c 5h] (a full house, Fives full of Threes)
+azx838: mucks hand
+Benzer586 collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01
+Board [9h 5d 3c 7c 3d]
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: sibir555 folded before Flop (didn't bet)
+Seat 3: azx838 (button) mucked [7d Qd]
+Seat 4: 19VITALIY86 (small blind) folded before Flop
+Seat 5: Soranton (big blind) folded on the Flop
+Seat 6: Benzer586 showed [5c 5h] and won ($0.38) with a full house, Fives full of Threes
+
+
+*********** # 69 **************
+PokerStars Hand #197157594196:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:16:57 ET
+Table 'Coppelia III' 6-max Seat #2 is the button
+Seat 1: Ganseku Nagi ($4.11 in chips)
+Seat 2: sibir555 ($2.75 in chips)
+Seat 3: azx838 ($4.69 in chips)
+Seat 4: 19VITALIY86 ($0.47 in chips)
+Seat 5: Soranton ($2.74 in chips)
+Seat 6: Benzer586 ($1.60 in chips)
+azx838: posts small blind $0.01
+19VITALIY86: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [8h Ac]
+Soranton: folds
+Benzer586: calls $0.02
+Ganseku Nagi: folds
+sibir555: raises $0.07 to $0.09
+azx838: folds
+19VITALIY86: folds
+Benzer586: folds
+Uncalled bet ($0.07) returned to sibir555
+sibir555 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: sibir555 (button) collected ($0.07)
+Seat 3: azx838 (small blind) folded before Flop
+Seat 4: 19VITALIY86 (big blind) folded before Flop
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 folded before Flop
+
+
+*********** # 70 **************
+PokerStars Hand #197157569229:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:16:02 ET
+Table 'Coppelia III' 6-max Seat #1 is the button
+Seat 1: Ganseku Nagi ($4.21 in chips)
+Seat 2: sibir555 ($2.76 in chips)
+Seat 3: azx838 ($4.59 in chips)
+Seat 5: Soranton ($2.74 in chips)
+Seat 6: Benzer586 ($1.60 in chips)
+sibir555: posts small blind $0.01
+azx838: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Tc 7d]
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: raises $0.02 to $0.04
+sibir555: folds
+azx838: calls $0.02
+*** FLOP *** [5c 4d 3c]
+azx838: bets $0.06
+Ganseku Nagi: calls $0.06
+*** TURN *** [5c 4d 3c] [Jc]
+azx838: checks
+Ganseku Nagi: checks
+*** RIVER *** [5c 4d 3c Jc] [5s]
+azx838: checks
+Ganseku Nagi: checks
+*** SHOW DOWN ***
+azx838: shows [Kh 4h] (two pair, Fives and Fours)
+Ganseku Nagi: mucks hand
+azx838 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01
+Board [5c 4d 3c Jc 5s]
+Seat 1: Ganseku Nagi (button) mucked [8h 6h]
+Seat 2: sibir555 (small blind) folded before Flop
+Seat 3: azx838 (big blind) showed [Kh 4h] and won ($0.20) with two pair, Fives and Fours
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 71 **************
+PokerStars Hand #197157559059:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:15:39 ET
+Table 'Coppelia III' 6-max Seat #6 is the button
+Seat 1: Ganseku Nagi ($4.19 in chips)
+Seat 2: sibir555 ($2.78 in chips)
+Seat 3: azx838 ($4.59 in chips)
+Seat 4: 19VITALIY86 ($0.47 in chips)
+Seat 5: Soranton ($2.74 in chips)
+Seat 6: Benzer586 ($1.60 in chips)
+Ganseku Nagi: posts small blind $0.01
+sibir555: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Qc 2h]
+azx838: folds
+19VITALIY86 has timed out
+19VITALIY86: folds
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: raises $0.04 to $0.06
+sibir555: folds
+Uncalled bet ($0.04) returned to Ganseku Nagi
+Ganseku Nagi collected $0.04 from pot
+Ganseku Nagi: doesn't show hand
+*** SUMMARY ***
+Total pot $0.04 | Rake $0
+Seat 1: Ganseku Nagi (small blind) collected ($0.04)
+Seat 2: sibir555 (big blind) folded before Flop
+Seat 3: azx838 folded before Flop (didn't bet)
+Seat 4: 19VITALIY86 folded before Flop (didn't bet)
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 (button) folded before Flop (didn't bet)
+
+
+*********** # 72 **************
+PokerStars Hand #197157552530:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:15:25 ET
+Table 'Coppelia III' 6-max Seat #5 is the button
+Seat 1: Ganseku Nagi ($4.18 in chips)
+Seat 2: sibir555 ($2.78 in chips)
+Seat 3: azx838 ($4.59 in chips)
+Seat 4: 19VITALIY86 ($0.47 in chips)
+Seat 5: Soranton ($2.74 in chips)
+Seat 6: Benzer586 ($1.61 in chips)
+Benzer586: posts small blind $0.01
+Ganseku Nagi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [4h Ts]
+sibir555: folds
+azx838: folds
+19VITALIY86: folds
+Soranton: folds
+Benzer586: folds
+Uncalled bet ($0.01) returned to Ganseku Nagi
+Ganseku Nagi collected $0.02 from pot
+Ganseku Nagi: doesn't show hand
+*** SUMMARY ***
+Total pot $0.02 | Rake $0
+Seat 1: Ganseku Nagi (big blind) collected ($0.02)
+Seat 2: sibir555 folded before Flop (didn't bet)
+Seat 3: azx838 folded before Flop (didn't bet)
+Seat 4: 19VITALIY86 folded before Flop (didn't bet)
+Seat 5: Soranton (button) folded before Flop (didn't bet)
+Seat 6: Benzer586 (small blind) folded before Flop
+
+
+*********** # 73 **************
+PokerStars Hand #197157540733:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:14:59 ET
+Table 'Coppelia III' 6-max Seat #4 is the button
+Seat 1: Ganseku Nagi ($4.18 in chips)
+Seat 2: sibir555 ($2.78 in chips)
+Seat 3: azx838 ($4.59 in chips)
+Seat 4: 19VITALIY86 ($0.49 in chips)
+Seat 5: Soranton ($2.70 in chips)
+Seat 6: Benzer586 ($1.63 in chips)
+Soranton: posts small blind $0.01
+Benzer586: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [5s 4c]
+Ganseku Nagi: folds
+sibir555: folds
+azx838: folds
+19VITALIY86: calls $0.02
+Soranton: calls $0.01
+Benzer586: checks
+*** FLOP *** [7h 7s Th]
+Soranton: checks
+Benzer586: checks
+19VITALIY86: checks
+*** TURN *** [7h 7s Th] [As]
+Soranton: bets $0.02
+Benzer586: folds
+19VITALIY86: folds
+Uncalled bet ($0.02) returned to Soranton
+Soranton collected $0.06 from pot
+Soranton: doesn't show hand
+*** SUMMARY ***
+Total pot $0.06 | Rake $0
+Board [7h 7s Th As]
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: sibir555 folded before Flop (didn't bet)
+Seat 3: azx838 folded before Flop (didn't bet)
+Seat 4: 19VITALIY86 (button) folded on the Turn
+Seat 5: Soranton (small blind) collected ($0.06)
+Seat 6: Benzer586 (big blind) folded on the Turn
+
+
+*********** # 74 **************
+PokerStars Hand #197157533769:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:14:44 ET
+Table 'Coppelia III' 6-max Seat #3 is the button
+Seat 1: Ganseku Nagi ($4.15 in chips)
+Seat 2: sibir555 ($2.78 in chips)
+Seat 3: azx838 ($4.59 in chips)
+Seat 4: 19VITALIY86 ($0.50 in chips)
+Seat 5: Soranton ($2.72 in chips)
+Seat 6: Benzer586 ($1.63 in chips)
+19VITALIY86: posts small blind $0.01
+Soranton: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [9d Ah]
+Benzer586: folds
+Ganseku Nagi: raises $0.04 to $0.06
+sibir555: folds
+azx838: folds
+19VITALIY86: folds
+Soranton: folds
+Uncalled bet ($0.04) returned to Ganseku Nagi
+Ganseku Nagi collected $0.05 from pot
+Ganseku Nagi: doesn't show hand
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: Ganseku Nagi collected ($0.05)
+Seat 2: sibir555 folded before Flop (didn't bet)
+Seat 3: azx838 (button) folded before Flop (didn't bet)
+Seat 4: 19VITALIY86 (small blind) folded before Flop
+Seat 5: Soranton (big blind) folded before Flop
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 75 **************
+PokerStars Hand #197157510579:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:13:53 ET
+Table 'Coppelia III' 6-max Seat #2 is the button
+Seat 1: Ganseku Nagi ($4.21 in chips)
+Seat 2: sibir555 ($2.78 in chips)
+Seat 3: azx838 ($4.60 in chips)
+Seat 4: 19VITALIY86 ($1.31 in chips)
+Seat 5: Soranton ($2.72 in chips)
+Seat 6: Benzer586 ($0.81 in chips)
+azx838: posts small blind $0.01
+19VITALIY86: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Kc Kd]
+Soranton: folds
+Benzer586: raises $0.02 to $0.04
+Ganseku Nagi: calls $0.04
+sibir555: folds
+azx838: folds
+19VITALIY86: raises $0.02 to $0.06
+Benzer586: calls $0.02
+Ganseku Nagi: calls $0.02
+*** FLOP *** [7c 5c 3h]
+19VITALIY86: bets $0.18
+Benzer586: raises $0.18 to $0.36
+Ganseku Nagi: folds
+19VITALIY86: raises $0.89 to $1.25 and is all-in
+Benzer586: calls $0.39 and is all-in
+Uncalled bet ($0.50) returned to 19VITALIY86
+*** TURN *** [7c 5c 3h] [Kh]
+*** RIVER *** [7c 5c 3h Kh] [Ts]
+*** SHOW DOWN ***
+19VITALIY86: shows [Jd Jc] (a pair of Jacks)
+Benzer586: shows [Kc Kd] (three of a kind, Kings)
+Benzer586 collected $1.63 from pot
+*** SUMMARY ***
+Total pot $1.69 | Rake $0.06
+Board [7c 5c 3h Kh Ts]
+Seat 1: Ganseku Nagi folded on the Flop
+Seat 2: sibir555 (button) folded before Flop (didn't bet)
+Seat 3: azx838 (small blind) folded before Flop
+Seat 4: 19VITALIY86 (big blind) showed [Jd Jc] and lost with a pair of Jacks
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 showed [Kc Kd] and won ($1.63) with three of a kind, Kings
+
+
+*********** # 76 **************
+PokerStars Hand #197157500715:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:13:31 ET
+Table 'Coppelia III' 6-max Seat #1 is the button
+Seat 1: Ganseku Nagi ($4.16 in chips)
+Seat 2: sibir555 ($2.79 in chips)
+Seat 3: azx838 ($4.64 in chips)
+Seat 4: 19VITALIY86 ($1.31 in chips)
+Seat 5: Soranton ($2.72 in chips)
+Seat 6: Benzer586 ($0.81 in chips)
+sibir555: posts small blind $0.01
+azx838: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [2s 6s]
+19VITALIY86: folds
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: raises $0.02 to $0.04
+sibir555: folds
+azx838: calls $0.02
+*** FLOP *** [Td Kd 7d]
+azx838: checks
+Ganseku Nagi: bets $0.06
+azx838: folds
+Uncalled bet ($0.06) returned to Ganseku Nagi
+Ganseku Nagi collected $0.09 from pot
+Ganseku Nagi: doesn't show hand
+*** SUMMARY ***
+Total pot $0.09 | Rake $0
+Board [Td Kd 7d]
+Seat 1: Ganseku Nagi (button) collected ($0.09)
+Seat 2: sibir555 (small blind) folded before Flop
+Seat 3: azx838 (big blind) folded on the Flop
+Seat 4: 19VITALIY86 folded before Flop (didn't bet)
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 77 **************
+PokerStars Hand #197157485823:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:12:58 ET
+Table 'Coppelia III' 6-max Seat #6 is the button
+Seat 1: Ganseku Nagi ($4.17 in chips)
+Seat 2: sibir555 ($2.73 in chips)
+Seat 3: azx838 ($4.64 in chips)
+Seat 4: 19VITALIY86 ($1.36 in chips)
+Seat 5: Soranton ($2.72 in chips)
+Seat 6: Benzer586 ($0.81 in chips)
+Ganseku Nagi: posts small blind $0.01
+sibir555: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [9d 4s]
+azx838: folds
+19VITALIY86: calls $0.02
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: folds
+sibir555: checks
+*** FLOP *** [3c 5d Qh]
+sibir555: checks
+19VITALIY86: bets $0.03
+sibir555: calls $0.03
+*** TURN *** [3c 5d Qh] [2c]
+sibir555: bets $2.68 and is all-in
+19VITALIY86: folds
+Uncalled bet ($2.68) returned to sibir555
+sibir555 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0
+Board [3c 5d Qh 2c]
+Seat 1: Ganseku Nagi (small blind) folded before Flop
+Seat 2: sibir555 (big blind) collected ($0.11)
+Seat 3: azx838 folded before Flop (didn't bet)
+Seat 4: 19VITALIY86 folded on the Turn
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 (button) folded before Flop (didn't bet)
+
+
+*********** # 78 **************
+PokerStars Hand #197157473293:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:12:30 ET
+Table 'Coppelia III' 6-max Seat #5 is the button
+Seat 1: Ganseku Nagi ($4.11 in chips)
+Seat 2: sibir555 ($2.73 in chips)
+Seat 3: azx838 ($4.64 in chips)
+Seat 4: 19VITALIY86 ($1.36 in chips)
+Seat 5: Soranton ($2.72 in chips)
+Seat 6: Benzer586 ($0.87 in chips)
+Benzer586: posts small blind $0.01
+Ganseku Nagi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [8h 7h]
+sibir555: folds
+azx838: folds
+19VITALIY86: folds
+Soranton: folds
+Benzer586: calls $0.01
+Ganseku Nagi: raises $0.04 to $0.06
+Benzer586: calls $0.04
+*** FLOP *** [Kd Tc Js]
+Benzer586: checks
+Ganseku Nagi: bets $0.08
+Benzer586: folds
+Uncalled bet ($0.08) returned to Ganseku Nagi
+Ganseku Nagi collected $0.12 from pot
+Ganseku Nagi: doesn't show hand
+*** SUMMARY ***
+Total pot $0.12 | Rake $0
+Board [Kd Tc Js]
+Seat 1: Ganseku Nagi (big blind) collected ($0.12)
+Seat 2: sibir555 folded before Flop (didn't bet)
+Seat 3: azx838 folded before Flop (didn't bet)
+Seat 4: 19VITALIY86 folded before Flop (didn't bet)
+Seat 5: Soranton (button) folded before Flop (didn't bet)
+Seat 6: Benzer586 (small blind) folded on the Flop
+
+
+*********** # 79 **************
+PokerStars Hand #197157469315:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:12:21 ET
+Table 'Coppelia III' 6-max Seat #4 is the button
+Seat 1: Ganseku Nagi ($4.11 in chips)
+Seat 2: sibir555 ($2.73 in chips)
+Seat 3: azx838 ($4.64 in chips)
+Seat 4: 19VITALIY86 ($1.36 in chips)
+Seat 5: Soranton ($2.73 in chips)
+Seat 6: Benzer586 ($0.86 in chips)
+Soranton: posts small blind $0.01
+Benzer586: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Js Ad]
+Ganseku Nagi: folds
+sibir555: folds
+azx838: folds
+19VITALIY86: folds
+Soranton: folds
+Uncalled bet ($0.01) returned to Benzer586
+Benzer586 collected $0.02 from pot
+Benzer586: doesn't show hand
+*** SUMMARY ***
+Total pot $0.02 | Rake $0
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: sibir555 folded before Flop (didn't bet)
+Seat 3: azx838 folded before Flop (didn't bet)
+Seat 4: 19VITALIY86 (button) folded before Flop (didn't bet)
+Seat 5: Soranton (small blind) folded before Flop
+Seat 6: Benzer586 (big blind) collected ($0.02)
+
+
+*********** # 80 **************
+PokerStars Hand #197157458557:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:11:57 ET
+Table 'Coppelia III' 6-max Seat #3 is the button
+Seat 1: Ganseku Nagi ($4.11 in chips)
+Seat 2: sibir555 ($2.73 in chips)
+Seat 3: azx838 ($4.64 in chips)
+Seat 4: 19VITALIY86 ($1.38 in chips)
+Seat 5: Soranton ($2.71 in chips)
+Seat 6: Benzer586 ($0.86 in chips)
+19VITALIY86: posts small blind $0.01
+Soranton: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [3s Ac]
+Benzer586: folds
+Ganseku Nagi: folds
+sibir555: folds
+azx838: folds
+19VITALIY86: calls $0.01
+Soranton: checks
+*** FLOP *** [6h 2h Ad]
+19VITALIY86: checks
+Soranton: checks
+*** TURN *** [6h 2h Ad] [4s]
+19VITALIY86: checks
+Soranton: bets $0.02
+19VITALIY86: folds
+Uncalled bet ($0.02) returned to Soranton
+Soranton collected $0.04 from pot
+Soranton: doesn't show hand
+*** SUMMARY ***
+Total pot $0.04 | Rake $0
+Board [6h 2h Ad 4s]
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: sibir555 folded before Flop (didn't bet)
+Seat 3: azx838 (button) folded before Flop (didn't bet)
+Seat 4: 19VITALIY86 (small blind) folded on the Turn
+Seat 5: Soranton (big blind) collected ($0.04)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 81 **************
+PokerStars Hand #197157442988:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:11:22 ET
+Table 'Coppelia III' 6-max Seat #2 is the button
+Seat 1: Ganseku Nagi ($4.11 in chips)
+Seat 2: sibir555 ($2.73 in chips)
+Seat 3: azx838 ($4.23 in chips)
+Seat 4: 19VITALIY86 ($1.82 in chips)
+Seat 5: Soranton ($2.71 in chips)
+Seat 6: Benzer586 ($0.86 in chips)
+azx838: posts small blind $0.01
+19VITALIY86: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Jc 2d]
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: folds
+sibir555: folds
+azx838: raises $0.04 to $0.06
+19VITALIY86: calls $0.04
+*** FLOP *** [Qc 4d 8s]
+azx838: bets $0.06
+19VITALIY86: calls $0.06
+*** TURN *** [Qc 4d 8s] [6s]
+azx838: bets $0.08
+19VITALIY86: calls $0.08
+*** RIVER *** [Qc 4d 8s 6s] [8d]
+azx838: bets $0.24
+19VITALIY86: calls $0.24
+*** SHOW DOWN ***
+azx838: shows [7c 8c] (three of a kind, Eights)
+19VITALIY86: mucks hand
+azx838 collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.88 | Rake $0.03
+Board [Qc 4d 8s 6s 8d]
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: sibir555 (button) folded before Flop (didn't bet)
+Seat 3: azx838 (small blind) showed [7c 8c] and won ($0.85) with three of a kind, Eights
+Seat 4: 19VITALIY86 (big blind) mucked [9s Qh]
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 82 **************
+PokerStars Hand #197157421807:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:10:35 ET
+Table 'Coppelia III' 6-max Seat #1 is the button
+Seat 1: Ganseku Nagi ($4.11 in chips)
+Seat 2: sibir555 ($2.74 in chips)
+Seat 3: azx838 ($4.25 in chips)
+Seat 4: 19VITALIY86 ($1.79 in chips)
+Seat 5: Soranton ($2.71 in chips)
+Seat 6: Benzer586 ($0.86 in chips)
+sibir555: posts small blind $0.01
+azx838: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [7d 3s]
+19VITALIY86: calls $0.02
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: folds
+sibir555: folds
+azx838: checks
+*** FLOP *** [3c 8h Ts]
+azx838: checks
+19VITALIY86: checks
+*** TURN *** [3c 8h Ts] [Tc]
+azx838: checks
+19VITALIY86: bets $0.02
+azx838: folds
+Uncalled bet ($0.02) returned to 19VITALIY86
+19VITALIY86 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Board [3c 8h Ts Tc]
+Seat 1: Ganseku Nagi (button) folded before Flop (didn't bet)
+Seat 2: sibir555 (small blind) folded before Flop
+Seat 3: azx838 (big blind) folded on the Turn
+Seat 4: 19VITALIY86 collected ($0.05)
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 83 **************
+PokerStars Hand #197157398434:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:09:43 ET
+Table 'Coppelia III' 6-max Seat #6 is the button
+Seat 1: Ganseku Nagi ($6.17 in chips)
+Seat 2: sibir555 ($2.76 in chips)
+Seat 3: azx838 ($2.06 in chips)
+Seat 4: 19VITALIY86 ($2.05 in chips)
+Seat 5: Soranton ($2.71 in chips)
+Seat 6: Benzer586 ($0.86 in chips)
+Ganseku Nagi: posts small blind $0.01
+sibir555: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [7h Ad]
+azx838: raises $0.04 to $0.06
+19VITALIY86: calls $0.06
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: raises $0.20 to $0.26
+sibir555: folds
+azx838: calls $0.20
+19VITALIY86: calls $0.20
+*** FLOP *** [2h 8c 5h]
+Ganseku Nagi: bets $0.40
+azx838: raises $0.40 to $0.80
+19VITALIY86: folds
+Ganseku Nagi: calls $0.40
+*** TURN *** [2h 8c 5h] [9s]
+Ganseku Nagi: checks
+azx838: bets $1 and is all-in
+Ganseku Nagi: calls $1
+*** RIVER *** [2h 8c 5h 9s] [6d]
+*** SHOW DOWN ***
+Ganseku Nagi: shows [Js Jd] (a pair of Jacks)
+azx838: shows [9h 9c] (three of a kind, Nines)
+azx838 collected $4.25 from pot
+*** SUMMARY ***
+Total pot $4.40 | Rake $0.15
+Board [2h 8c 5h 9s 6d]
+Seat 1: Ganseku Nagi (small blind) showed [Js Jd] and lost with a pair of Jacks
+Seat 2: sibir555 (big blind) folded before Flop
+Seat 3: azx838 showed [9h 9c] and won ($4.25) with three of a kind, Nines
+Seat 4: 19VITALIY86 folded on the Flop
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 (button) folded before Flop (didn't bet)
+
+
+*********** # 84 **************
+PokerStars Hand #197157388772:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:09:22 ET
+Table 'Coppelia III' 6-max Seat #5 is the button
+Seat 1: Ganseku Nagi ($6.19 in chips)
+Seat 2: sibir555 ($2.73 in chips)
+Seat 3: azx838 ($2.06 in chips)
+Seat 4: 19VITALIY86 ($2.05 in chips)
+Seat 5: Soranton ($2.71 in chips)
+Seat 6: Benzer586 ($0.87 in chips)
+Benzer586: posts small blind $0.01
+Ganseku Nagi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Kd 7d]
+sibir555: raises $0.03 to $0.05
+azx838: folds
+19VITALIY86: folds
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: folds
+Uncalled bet ($0.03) returned to sibir555
+sibir555 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: Ganseku Nagi (big blind) folded before Flop
+Seat 2: sibir555 collected ($0.05)
+Seat 3: azx838 folded before Flop (didn't bet)
+Seat 4: 19VITALIY86 folded before Flop (didn't bet)
+Seat 5: Soranton (button) folded before Flop (didn't bet)
+Seat 6: Benzer586 (small blind) folded before Flop
+
+
+*********** # 85 **************
+PokerStars Hand #197157381869:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:09:07 ET
+Table 'Coppelia III' 6-max Seat #4 is the button
+Seat 1: Ganseku Nagi ($6.19 in chips)
+Seat 2: sibir555 ($2.70 in chips)
+Seat 3: azx838 ($2.06 in chips)
+Seat 4: 19VITALIY86 ($2.05 in chips)
+Seat 5: Soranton ($2.72 in chips)
+Seat 6: Benzer586 ($0.89 in chips)
+Soranton: posts small blind $0.01
+Benzer586: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Tc 2h]
+Ganseku Nagi: folds
+sibir555: raises $0.03 to $0.05
+azx838: folds
+19VITALIY86: folds
+Soranton: folds
+Benzer586: folds
+Uncalled bet ($0.03) returned to sibir555
+sibir555 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: sibir555 collected ($0.05)
+Seat 3: azx838 folded before Flop (didn't bet)
+Seat 4: 19VITALIY86 (button) folded before Flop (didn't bet)
+Seat 5: Soranton (small blind) folded before Flop
+Seat 6: Benzer586 (big blind) folded before Flop
+
+
+*********** # 86 **************
+PokerStars Hand #197157371348:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:08:44 ET
+Table 'Coppelia III' 6-max Seat #3 is the button
+Seat 1: Ganseku Nagi ($6.19 in chips)
+Seat 2: sibir555 ($2.70 in chips)
+Seat 3: azx838 ($2.06 in chips)
+Seat 4: 19VITALIY86 ($2.07 in chips)
+Seat 5: Soranton ($2.70 in chips)
+Seat 6: Benzer586 ($0.89 in chips)
+19VITALIY86: posts small blind $0.01
+Soranton: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [6h Jh]
+Benzer586: folds
+Ganseku Nagi: folds
+sibir555: folds
+azx838: folds
+19VITALIY86: calls $0.01
+Soranton: checks
+*** FLOP *** [2d Qd 6d]
+19VITALIY86: checks
+Soranton: bets $0.04
+19VITALIY86: folds
+Uncalled bet ($0.04) returned to Soranton
+Soranton collected $0.04 from pot
+Soranton: doesn't show hand
+*** SUMMARY ***
+Total pot $0.04 | Rake $0
+Board [2d Qd 6d]
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: sibir555 folded before Flop (didn't bet)
+Seat 3: azx838 (button) folded before Flop (didn't bet)
+Seat 4: 19VITALIY86 (small blind) folded on the Flop
+Seat 5: Soranton (big blind) collected ($0.04)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 87 **************
+PokerStars Hand #197157356212:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:08:10 ET
+Table 'Coppelia III' 6-max Seat #2 is the button
+Seat 1: Ganseku Nagi ($6.19 in chips)
+Seat 2: sibir555 ($2.74 in chips)
+Seat 3: azx838 ($2 in chips)
+Seat 4: 19VITALIY86 ($2.09 in chips)
+Seat 5: Soranton ($2.70 in chips)
+Seat 6: Benzer586 ($0.89 in chips)
+azx838: posts small blind $0.01
+19VITALIY86: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [9d Ks]
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: folds
+sibir555: raises $0.02 to $0.04
+azx838: calls $0.03
+19VITALIY86: folds
+*** FLOP *** [Qc 4c 9c]
+azx838: checks
+sibir555: checks
+*** TURN *** [Qc 4c 9c] [4d]
+azx838: bets $0.10
+sibir555: folds
+Uncalled bet ($0.10) returned to azx838
+azx838 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0
+Board [Qc 4c 9c 4d]
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: sibir555 (button) folded on the Turn
+Seat 3: azx838 (small blind) collected ($0.10)
+Seat 4: 19VITALIY86 (big blind) folded before Flop
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 88 **************
+PokerStars Hand #197157333207:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:07:18 ET
+Table 'Coppelia III' 6-max Seat #1 is the button
+Seat 1: Ganseku Nagi ($5.32 in chips)
+Seat 2: sibir555 ($2.75 in chips)
+Seat 3: azx838 ($2 in chips)
+Seat 4: 19VITALIY86 ($2.09 in chips)
+Seat 5: Soranton ($2.70 in chips)
+Seat 6: Benzer586 ($0.89 in chips)
+sibir555: posts small blind $0.01
+azx838: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Kh 8s]
+19VITALIY86: folds
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: raises $0.02 to $0.04
+sibir555: folds
+azx838: raises $0.14 to $0.18
+Ganseku Nagi: calls $0.14
+*** FLOP *** [Jd Qd 7c]
+azx838: bets $0.24
+Ganseku Nagi: calls $0.24
+*** TURN *** [Jd Qd 7c] [7d]
+azx838: checks
+Ganseku Nagi: bets $0.50
+azx838: calls $0.50
+*** RIVER *** [Jd Qd 7c 7d] [8c]
+azx838: checks
+Ganseku Nagi: bets $1.79
+azx838: folds
+Uncalled bet ($1.79) returned to Ganseku Nagi
+Ganseku Nagi collected $1.79 from pot
+Ganseku Nagi: doesn't show hand
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.06
+Board [Jd Qd 7c 7d 8c]
+Seat 1: Ganseku Nagi (button) collected ($1.79)
+Seat 2: sibir555 (small blind) folded before Flop
+Seat 3: azx838 (big blind) folded on the River
+Seat 4: 19VITALIY86 folded before Flop (didn't bet)
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 89 **************
+PokerStars Hand #197157321942:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:06:53 ET
+Table 'Coppelia III' 6-max Seat #6 is the button
+Seat 1: Ganseku Nagi ($5.30 in chips)
+Seat 2: sibir555 ($2.77 in chips)
+Seat 3: azx838 ($2 in chips)
+Seat 4: 19VITALIY86 ($2.09 in chips)
+Seat 5: Soranton ($2.70 in chips)
+Seat 6: Benzer586 ($0.89 in chips)
+Ganseku Nagi: posts small blind $0.01
+sibir555: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Kh Th]
+azx838: folds
+19VITALIY86: folds
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: raises $0.04 to $0.06
+sibir555: folds
+Uncalled bet ($0.04) returned to Ganseku Nagi
+Ganseku Nagi collected $0.04 from pot
+Ganseku Nagi: doesn't show hand
+*** SUMMARY ***
+Total pot $0.04 | Rake $0
+Seat 1: Ganseku Nagi (small blind) collected ($0.04)
+Seat 2: sibir555 (big blind) folded before Flop
+Seat 3: azx838 folded before Flop (didn't bet)
+Seat 4: 19VITALIY86 folded before Flop (didn't bet)
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 (button) folded before Flop (didn't bet)
+
+
+*********** # 90 **************
+PokerStars Hand #197157309648:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:06:25 ET
+Table 'Coppelia III' 6-max Seat #5 is the button
+Seat 1: Ganseku Nagi ($5.32 in chips)
+Seat 2: sibir555 ($2.77 in chips)
+Seat 3: azx838 ($2 in chips)
+Seat 4: 19VITALIY86 ($2.17 in chips)
+Seat 5: Soranton ($2.60 in chips)
+Seat 6: Benzer586 ($0.90 in chips)
+Benzer586: posts small blind $0.01
+Ganseku Nagi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [5h Tc]
+sibir555: folds
+azx838: folds
+19VITALIY86: calls $0.02
+Soranton: raises $0.06 to $0.08
+Benzer586: folds
+Ganseku Nagi: folds
+19VITALIY86: calls $0.06
+*** FLOP *** [2h Jd Jh]
+19VITALIY86: checks
+Soranton: bets $0.09
+19VITALIY86: folds
+Uncalled bet ($0.09) returned to Soranton
+Soranton collected $0.18 from pot
+Soranton: doesn't show hand
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01
+Board [2h Jd Jh]
+Seat 1: Ganseku Nagi (big blind) folded before Flop
+Seat 2: sibir555 folded before Flop (didn't bet)
+Seat 3: azx838 folded before Flop (didn't bet)
+Seat 4: 19VITALIY86 folded on the Flop
+Seat 5: Soranton (button) collected ($0.18)
+Seat 6: Benzer586 (small blind) folded before Flop
+
+
+*********** # 91 **************
+PokerStars Hand #197157281318:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:05:22 ET
+Table 'Coppelia III' 6-max Seat #4 is the button
+Seat 1: Ganseku Nagi ($4.79 in chips)
+Seat 2: sibir555 ($2.77 in chips)
+Seat 3: azx838 ($2.01 in chips)
+Seat 4: 19VITALIY86 ($2.17 in chips)
+Seat 5: Soranton ($2.61 in chips)
+Seat 6: Benzer586 ($0.92 in chips)
+Soranton: posts small blind $0.01
+Benzer586: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Qc 2s]
+Ganseku Nagi: raises $0.04 to $0.06
+sibir555: folds
+azx838: calls $0.06
+19VITALIY86: folds
+Soranton: folds
+Benzer586: folds
+*** FLOP *** [9c 5h Kh]
+Ganseku Nagi: bets $0.08
+azx838: calls $0.08
+*** TURN *** [9c 5h Kh] [Qd]
+Ganseku Nagi: bets $0.15
+azx838: raises $0.25 to $0.40
+Ganseku Nagi: raises $0.60 to $1
+azx838: folds
+Uncalled bet ($0.60) returned to Ganseku Nagi
+Ganseku Nagi collected $1.07 from pot
+Ganseku Nagi: doesn't show hand
+*** SUMMARY ***
+Total pot $1.11 | Rake $0.04
+Board [9c 5h Kh Qd]
+Seat 1: Ganseku Nagi collected ($1.07)
+Seat 2: sibir555 folded before Flop (didn't bet)
+Seat 3: azx838 folded on the Turn
+Seat 4: 19VITALIY86 (button) folded before Flop (didn't bet)
+Seat 5: Soranton (small blind) folded before Flop
+Seat 6: Benzer586 (big blind) folded before Flop
+
+
+*********** # 92 **************
+PokerStars Hand #197157269416:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:04:56 ET
+Table 'Coppelia III' 6-max Seat #3 is the button
+Seat 1: Ganseku Nagi ($4.79 in chips)
+Seat 2: sibir555 ($2.74 in chips)
+Seat 3: azx838 ($2.01 in chips)
+Seat 4: 19VITALIY86 ($2.18 in chips)
+Seat 5: Soranton ($2.63 in chips)
+Seat 6: Benzer586 ($0.92 in chips)
+19VITALIY86: posts small blind $0.01
+Soranton: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [5c Ac]
+Benzer586: folds
+Ganseku Nagi: folds
+sibir555: raises $0.03 to $0.05
+azx838: folds
+19VITALIY86: folds
+Soranton: folds
+Uncalled bet ($0.03) returned to sibir555
+sibir555 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: sibir555 collected ($0.05)
+Seat 3: azx838 (button) folded before Flop (didn't bet)
+Seat 4: 19VITALIY86 (small blind) folded before Flop
+Seat 5: Soranton (big blind) folded before Flop
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 93 **************
+PokerStars Hand #197157264391:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:04:45 ET
+Table 'Coppelia III' 6-max Seat #2 is the button
+Seat 1: Ganseku Nagi ($4.79 in chips)
+Seat 2: sibir555 ($2.74 in chips)
+Seat 3: azx838 ($2.02 in chips)
+Seat 4: 19VITALIY86 ($2.17 in chips)
+Seat 5: Soranton ($2.63 in chips)
+Seat 6: Benzer586 ($0.92 in chips)
+azx838: posts small blind $0.01
+19VITALIY86: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [8s 7d]
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: folds
+sibir555: folds
+azx838: folds
+Uncalled bet ($0.01) returned to 19VITALIY86
+19VITALIY86 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: sibir555 (button) folded before Flop (didn't bet)
+Seat 3: azx838 (small blind) folded before Flop
+Seat 4: 19VITALIY86 (big blind) collected ($0.02)
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 94 **************
+PokerStars Hand #197157254411:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:04:22 ET
+Table 'Coppelia III' 6-max Seat #1 is the button
+Seat 1: Ganseku Nagi ($4.79 in chips)
+Seat 2: sibir555 ($2.75 in chips)
+Seat 3: azx838 ($2.04 in chips)
+Seat 4: 19VITALIY86 ($2.14 in chips)
+Seat 5: Soranton ($2.63 in chips)
+Seat 6: Benzer586 ($0.92 in chips)
+sibir555: posts small blind $0.01
+azx838: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [4h Jd]
+19VITALIY86: calls $0.02
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: folds
+sibir555: folds
+azx838: checks
+*** FLOP *** [As Qh 3s]
+azx838: checks
+19VITALIY86: bets $0.04
+azx838: folds
+Uncalled bet ($0.04) returned to 19VITALIY86
+19VITALIY86 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Board [As Qh 3s]
+Seat 1: Ganseku Nagi (button) folded before Flop (didn't bet)
+Seat 2: sibir555 (small blind) folded before Flop
+Seat 3: azx838 (big blind) folded on the Flop
+Seat 4: 19VITALIY86 collected ($0.05)
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 95 **************
+PokerStars Hand #197157243849:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:03:58 ET
+Table 'Coppelia III' 6-max Seat #6 is the button
+Seat 1: Ganseku Nagi ($4.80 in chips)
+Seat 2: sibir555 ($2.77 in chips)
+Seat 3: azx838 ($2.10 in chips)
+Seat 4: 19VITALIY86 ($2.20 in chips)
+Seat 5: Soranton ($2.48 in chips)
+Seat 6: Benzer586 ($0.92 in chips)
+Ganseku Nagi: posts small blind $0.01
+sibir555: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Qs 6s]
+azx838: raises $0.04 to $0.06
+19VITALIY86: calls $0.06
+Soranton: raises $0.20 to $0.26
+Benzer586: folds
+Ganseku Nagi: folds
+sibir555: folds
+azx838: folds
+19VITALIY86: folds
+Uncalled bet ($0.20) returned to Soranton
+Soranton collected $0.21 from pot
+Soranton: doesn't show hand
+*** SUMMARY ***
+Total pot $0.21 | Rake $0
+Seat 1: Ganseku Nagi (small blind) folded before Flop
+Seat 2: sibir555 (big blind) folded before Flop
+Seat 3: azx838 folded before Flop
+Seat 4: 19VITALIY86 folded before Flop
+Seat 5: Soranton collected ($0.21)
+Seat 6: Benzer586 (button) folded before Flop (didn't bet)
+
+
+*********** # 96 **************
+PokerStars Hand #197157239601:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:03:49 ET
+Table 'Coppelia III' 6-max Seat #5 is the button
+Seat 1: Ganseku Nagi ($4.79 in chips)
+Seat 2: sibir555 ($2.77 in chips)
+Seat 3: azx838 ($2.10 in chips)
+Seat 4: 19VITALIY86 ($2.20 in chips)
+Seat 5: Soranton ($2.48 in chips)
+Seat 6: Benzer586 ($0.93 in chips)
+Benzer586: posts small blind $0.01
+Ganseku Nagi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [5s Qc]
+sibir555: folds
+azx838: folds
+19VITALIY86: folds
+Soranton: folds
+Benzer586: folds
+Uncalled bet ($0.01) returned to Ganseku Nagi
+Ganseku Nagi collected $0.02 from pot
+Ganseku Nagi: doesn't show hand
+*** SUMMARY ***
+Total pot $0.02 | Rake $0
+Seat 1: Ganseku Nagi (big blind) collected ($0.02)
+Seat 2: sibir555 folded before Flop (didn't bet)
+Seat 3: azx838 folded before Flop (didn't bet)
+Seat 4: 19VITALIY86 folded before Flop (didn't bet)
+Seat 5: Soranton (button) folded before Flop (didn't bet)
+Seat 6: Benzer586 (small blind) folded before Flop
+
+
+*********** # 97 **************
+PokerStars Hand #197157224502:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:03:15 ET
+Table 'Coppelia III' 6-max Seat #4 is the button
+Seat 1: Ganseku Nagi ($4.79 in chips)
+Seat 2: sibir555 ($2.99 in chips)
+Seat 3: azx838 ($2.10 in chips)
+Seat 4: 19VITALIY86 ($2.25 in chips)
+Seat 5: Soranton ($2.21 in chips)
+Seat 6: Benzer586 ($0.95 in chips)
+Soranton: posts small blind $0.01
+Benzer586: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [5d Ks]
+Ganseku Nagi: folds
+sibir555: raises $0.03 to $0.05
+azx838: folds
+19VITALIY86: calls $0.05
+Soranton: raises $0.17 to $0.22
+Benzer586: folds
+sibir555: calls $0.17
+19VITALIY86: folds
+*** FLOP *** [8h 8c Qd]
+Soranton: bets $0.30
+sibir555: folds
+Uncalled bet ($0.30) returned to Soranton
+Soranton collected $0.49 from pot
+Soranton: doesn't show hand
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02
+Board [8h 8c Qd]
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: sibir555 folded on the Flop
+Seat 3: azx838 folded before Flop (didn't bet)
+Seat 4: 19VITALIY86 (button) folded before Flop
+Seat 5: Soranton (small blind) collected ($0.49)
+Seat 6: Benzer586 (big blind) folded before Flop
+
+
+*********** # 98 **************
+PokerStars Hand #197157220119:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:03:05 ET
+Table 'Coppelia III' 6-max Seat #3 is the button
+Seat 1: Ganseku Nagi ($4.79 in chips)
+Seat 2: sibir555 ($2.99 in chips)
+Seat 3: azx838 ($2.10 in chips)
+Seat 4: 19VITALIY86 ($2.26 in chips)
+Seat 5: Soranton ($2.20 in chips)
+Seat 6: Benzer586 ($0.95 in chips)
+19VITALIY86: posts small blind $0.01
+Soranton: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Qd Jc]
+Benzer586: folds
+Ganseku Nagi: folds
+sibir555: folds
+azx838: folds
+19VITALIY86: folds
+Uncalled bet ($0.01) returned to Soranton
+Soranton collected $0.02 from pot
+Soranton: doesn't show hand
+*** SUMMARY ***
+Total pot $0.02 | Rake $0
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: sibir555 folded before Flop (didn't bet)
+Seat 3: azx838 (button) folded before Flop (didn't bet)
+Seat 4: 19VITALIY86 (small blind) folded before Flop
+Seat 5: Soranton (big blind) collected ($0.02)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+*********** # 99 **************
+PokerStars Hand #197157203507:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:02:28 ET
+Table 'Coppelia III' 6-max Seat #2 is the button
+Seat 1: Ganseku Nagi ($4.79 in chips)
+Seat 2: sibir555 ($2.99 in chips)
+Seat 3: azx838 ($2.11 in chips)
+Seat 4: 19VITALIY86 ($2.28 in chips)
+Seat 5: Soranton ($2.20 in chips)
+Seat 6: Benzer586 ($0.92 in chips)
+azx838: posts small blind $0.01
+19VITALIY86: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [5c 5d]
+Soranton: folds
+Benzer586: calls $0.02
+Ganseku Nagi: folds
+sibir555: folds
+azx838: folds
+19VITALIY86: checks
+*** FLOP *** [Kd Ac Ks]
+19VITALIY86: checks
+Benzer586: checks
+*** TURN *** [Kd Ac Ks] [5s]
+19VITALIY86: checks
+Benzer586: bets $0.05
+19VITALIY86: folds
+Uncalled bet ($0.05) returned to Benzer586
+Benzer586 collected $0.05 from pot
+Benzer586: doesn't show hand
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Board [Kd Ac Ks 5s]
+Seat 1: Ganseku Nagi folded before Flop (didn't bet)
+Seat 2: sibir555 (button) folded before Flop (didn't bet)
+Seat 3: azx838 (small blind) folded before Flop
+Seat 4: 19VITALIY86 (big blind) folded on the Turn
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 collected ($0.05)
+
+
+*********** # 100 **************
+PokerStars Hand #197157191355:  Hold'em No Limit ($0.01/$0.02 USD) - 2019/02/17 7:02:00 ET
+Table 'Coppelia III' 6-max Seat #1 is the button
+Seat 1: Ganseku Nagi ($4.83 in chips)
+Seat 2: sibir555 ($2.93 in chips)
+Seat 3: azx838 ($2.13 in chips)
+Seat 4: 19VITALIY86 ($2.28 in chips)
+Seat 5: Soranton ($2.20 in chips)
+Seat 6: Benzer586 ($0.92 in chips)
+sibir555: posts small blind $0.01
+azx838: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [9d 3h]
+19VITALIY86: folds
+Soranton: folds
+Benzer586: folds
+Ganseku Nagi: raises $0.02 to $0.04
+sibir555: calls $0.03
+azx838: folds
+*** FLOP *** [Qh Kd 2d]
+sibir555: checks
+Ganseku Nagi: checks
+*** TURN *** [Qh Kd 2d] [Jc]
+sibir555: checks
+Ganseku Nagi: checks
+*** RIVER *** [Qh Kd 2d Jc] [8c]
+sibir555: checks
+Ganseku Nagi: checks
+*** SHOW DOWN ***
+sibir555: shows [Tc Js] (a pair of Jacks)
+Ganseku Nagi: mucks hand
+sibir555 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0
+Board [Qh Kd 2d Jc 8c]
+Seat 1: Ganseku Nagi (button) mucked [Jh 9c]
+Seat 2: sibir555 (small blind) showed [Tc Js] and won ($0.10) with a pair of Jacks
+Seat 3: azx838 (big blind) folded before Flop
+Seat 4: 19VITALIY86 folded before Flop (didn't bet)
+Seat 5: Soranton folded before Flop (didn't bet)
+Seat 6: Benzer586 folded before Flop (didn't bet)
