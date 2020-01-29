@@ -2,6 +2,7 @@ import pandas as pd
 
 def historyToHands(textFile):
     hands = textFile.read().split('\n\n')
+    hands = [x for x in hands if x]
     return hands    
 
 def getHandNumber(hand):
@@ -131,7 +132,6 @@ def getTablePosition(hand, playerName):
 def fileToDataFrame(playerName, fileName):
     textFile = open(fileName, 'rt')
     hands = historyToHands(textFile)
-    
     myDataFrame = pd.DataFrame(columns = ['handNumber'\
                                           ,'date'\
                                           ,'cards'\
@@ -151,6 +151,7 @@ def fileToDataFrame(playerName, fileName):
     handNumber = 1
     for hand in hands:
         hand += '\n'
+        
         myDataFrame.loc[handNumber] = [getHandNumber(hand)\
                        ,getDateTime(hand)\
                        ,getDealtCards(hand,playerName)\
@@ -177,6 +178,7 @@ def main():
     #playerName = 'sibir555' 
     playerName = 'Benzer586'
     fileName = 'hand history.txt'
+    #fileName = 'test.txt'
     myDataFrame = fileToDataFrame(playerName, fileName)
     
     myDataFrame['profit'].cumsum().plot()

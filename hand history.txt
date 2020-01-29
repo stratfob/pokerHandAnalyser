@@ -3597,3 +3597,1856 @@ Seat 3: azx838 (big blind) folded before Flop
 Seat 4: 19VITALIY86 folded before Flop (didn't bet)
 Seat 5: Soranton folded before Flop (didn't bet)
 Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+PokerStars Hand #208658682651:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:11:41 WET [2020/01/29 15:11:41 ET]
+Table 'Brunonia IV' 6-max Seat #4 is the button
+Seat 1: veltern ($0.74 in chips) 
+Seat 2: goguxxl ($2.65 in chips) 
+Seat 3: neHboK ($2.23 in chips) 
+Seat 4: drakosveta ($0.92 in chips) 
+Seat 5: Tassinari_86 ($5.56 in chips) 
+Seat 6: Benzer586 ($2 in chips) 
+Tassinari_86: posts small blind $0.01
+Benzer586: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Ac Kh]
+veltern: calls $0.02
+goguxxl: folds 
+neHboK: folds 
+drakosveta: calls $0.02
+Tassinari_86: calls $0.01
+Benzer586: raises $0.04 to $0.06
+veltern: calls $0.04
+drakosveta: calls $0.04
+Tassinari_86: folds 
+*** FLOP *** [9h 2h 4d]
+Benzer586: bets $0.10
+veltern: calls $0.10
+drakosveta: calls $0.10
+*** TURN *** [9h 2h 4d] [5s]
+Benzer586: checks 
+veltern: bets $0.24
+drakosveta: folds 
+Benzer586: folds 
+Uncalled bet ($0.24) returned to veltern
+veltern collected $0.48 from pot
+veltern: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [9h 2h 4d 5s]
+Seat 1: veltern collected ($0.48)
+Seat 2: goguxxl folded before Flop (didn't bet)
+Seat 3: neHboK folded before Flop (didn't bet)
+Seat 4: drakosveta (button) folded on the Turn
+Seat 5: Tassinari_86 (small blind) folded before Flop
+Seat 6: Benzer586 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #208658720595:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:12:42 WET [2020/01/29 15:12:42 ET]
+Table 'Brunonia IV' 6-max Seat #5 is the button
+Seat 1: veltern ($1.06 in chips) 
+Seat 2: goguxxl ($2.65 in chips) 
+Seat 3: neHboK ($2.23 in chips) 
+Seat 4: drakosveta ($0.76 in chips) 
+Seat 5: Tassinari_86 ($5.54 in chips) 
+Seat 6: Benzer586 ($1.84 in chips) 
+Benzer586: posts small blind $0.01
+veltern: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [8s 9s]
+goguxxl: folds 
+neHboK: folds 
+drakosveta: calls $0.02
+Tassinari_86: folds 
+Benzer586: calls $0.01
+veltern: checks 
+*** FLOP *** [4s 3h 9h]
+Benzer586: bets $0.03
+veltern: folds 
+drakosveta: calls $0.03
+*** TURN *** [4s 3h 9h] [Kd]
+Benzer586: checks 
+drakosveta: checks 
+*** RIVER *** [4s 3h 9h Kd] [8c]
+Benzer586: bets $0.12
+drakosveta: folds 
+Uncalled bet ($0.12) returned to Benzer586
+Benzer586 collected $0.12 from pot
+Benzer586: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [4s 3h 9h Kd 8c]
+Seat 1: veltern (big blind) folded on the Flop
+Seat 2: goguxxl folded before Flop (didn't bet)
+Seat 3: neHboK folded before Flop (didn't bet)
+Seat 4: drakosveta folded on the River
+Seat 5: Tassinari_86 (button) folded before Flop (didn't bet)
+Seat 6: Benzer586 (small blind) collected ($0.12)
+
+
+
+PokerStars Hand #208658742670:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:13:17 WET [2020/01/29 15:13:17 ET]
+Table 'Brunonia IV' 6-max Seat #6 is the button
+Seat 1: veltern ($1.04 in chips) 
+Seat 2: goguxxl ($2.65 in chips) 
+Seat 3: neHboK ($2.23 in chips) 
+Seat 4: drakosveta ($0.71 in chips) 
+Seat 5: Tassinari_86 ($5.54 in chips) 
+Seat 6: Benzer586 ($1.91 in chips) 
+veltern: posts small blind $0.01
+goguxxl: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [9c As]
+neHboK: folds 
+drakosveta: calls $0.02
+Tassinari_86: folds 
+Benzer586: calls $0.02
+veltern: calls $0.01
+goguxxl: checks 
+*** FLOP *** [Js Qd 2c]
+veltern: checks 
+goguxxl: checks 
+drakosveta: checks 
+Benzer586: checks 
+*** TURN *** [Js Qd 2c] [8d]
+veltern: checks 
+goguxxl: checks 
+drakosveta: checks 
+Benzer586: checks 
+*** RIVER *** [Js Qd 2c 8d] [Td]
+veltern: bets $0.04
+goguxxl: folds 
+drakosveta: folds 
+Benzer586: raises $0.14 to $0.18
+veltern: folds 
+Uncalled bet ($0.14) returned to Benzer586
+Benzer586 collected $0.15 from pot
+Benzer586: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Js Qd 2c 8d Td]
+Seat 1: veltern (small blind) folded on the River
+Seat 2: goguxxl (big blind) folded on the River
+Seat 3: neHboK folded before Flop (didn't bet)
+Seat 4: drakosveta folded on the River
+Seat 5: Tassinari_86 folded before Flop (didn't bet)
+Seat 6: Benzer586 (button) collected ($0.15)
+
+
+
+PokerStars Hand #208658777163:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:14:14 WET [2020/01/29 15:14:14 ET]
+Table 'Brunonia IV' 6-max Seat #1 is the button
+Seat 1: veltern ($0.98 in chips) 
+Seat 2: goguxxl ($2.63 in chips) 
+Seat 3: neHboK ($2.23 in chips) 
+Seat 4: drakosveta ($0.69 in chips) 
+Seat 5: Tassinari_86 ($5.54 in chips) 
+Seat 6: Benzer586 ($2 in chips) 
+goguxxl: posts small blind $0.01
+neHboK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [8s As]
+drakosveta: calls $0.02
+Tassinari_86: folds 
+Benzer586: folds 
+veltern: calls $0.02
+goguxxl: folds 
+neHboK: checks 
+*** FLOP *** [Qh 5h 8h]
+neHboK: checks 
+drakosveta: checks 
+veltern: bets $0.07
+neHboK: folds 
+drakosveta: calls $0.07
+*** TURN *** [Qh 5h 8h] [9c]
+drakosveta: checks 
+veltern: checks 
+*** RIVER *** [Qh 5h 8h 9c] [2d]
+drakosveta: bets $0.02
+veltern: calls $0.02
+*** SHOW DOWN ***
+drakosveta: shows [Qd Jc] (a pair of Queens)
+veltern: mucks hand 
+drakosveta collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Qh 5h 8h 9c 2d]
+Seat 1: veltern (button) mucked [Qs 3s]
+Seat 2: goguxxl (small blind) folded before Flop
+Seat 3: neHboK (big blind) folded on the Flop
+Seat 4: drakosveta showed [Qd Jc] and won ($0.24) with a pair of Queens
+Seat 5: Tassinari_86 folded before Flop (didn't bet)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #208658795849:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:14:45 WET [2020/01/29 15:14:45 ET]
+Table 'Brunonia IV' 6-max Seat #2 is the button
+Seat 1: veltern ($0.87 in chips) 
+Seat 2: goguxxl ($2.62 in chips) 
+Seat 3: neHboK ($2.21 in chips) 
+Seat 4: drakosveta ($0.82 in chips) 
+Seat 5: Tassinari_86 ($5.54 in chips) 
+Seat 6: Benzer586 ($2 in chips) 
+neHboK: posts small blind $0.01
+drakosveta: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [6c Ks]
+Tassinari_86: folds 
+Benzer586: folds 
+veltern: calls $0.02
+goguxxl: folds 
+neHboK: folds 
+drakosveta: checks 
+*** FLOP *** [6s Ah 3s]
+drakosveta: checks 
+veltern: checks 
+*** TURN *** [6s Ah 3s] [3h]
+drakosveta: bets $0.02
+veltern: folds 
+Uncalled bet ($0.02) returned to drakosveta
+drakosveta collected $0.05 from pot
+drakosveta: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6s Ah 3s 3h]
+Seat 1: veltern folded on the Turn
+Seat 2: goguxxl (button) folded before Flop (didn't bet)
+Seat 3: neHboK (small blind) folded before Flop
+Seat 4: drakosveta (big blind) collected ($0.05)
+Seat 5: Tassinari_86 folded before Flop (didn't bet)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #208658809695:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:15:07 WET [2020/01/29 15:15:07 ET]
+Table 'Brunonia IV' 6-max Seat #3 is the button
+Seat 1: veltern ($0.85 in chips) 
+Seat 2: goguxxl ($2.62 in chips) 
+Seat 3: neHboK ($2.20 in chips) 
+Seat 4: drakosveta ($0.85 in chips) 
+Seat 5: Tassinari_86 ($5.54 in chips) 
+Seat 6: Benzer586 ($2 in chips) 
+drakosveta: posts small blind $0.01
+Tassinari_86: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [2h 5c]
+Benzer586: folds 
+veltern: calls $0.02
+goguxxl: folds 
+neHboK: folds 
+drakosveta: calls $0.01
+Tassinari_86: checks 
+*** FLOP *** [Ac 6c 3c]
+drakosveta: bets $0.02
+Tassinari_86: folds 
+veltern: calls $0.02
+*** TURN *** [Ac 6c 3c] [Qc]
+drakosveta: checks 
+veltern: checks 
+*** RIVER *** [Ac 6c 3c Qc] [5s]
+drakosveta: bets $0.02
+veltern: calls $0.02
+*** SHOW DOWN ***
+drakosveta: shows [2d Kh] (high card Ace)
+veltern: shows [7h 4c] (a flush, Ace high)
+veltern collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Ac 6c 3c Qc 5s]
+Seat 1: veltern showed [7h 4c] and won ($0.14) with a flush, Ace high
+Seat 2: goguxxl folded before Flop (didn't bet)
+Seat 3: neHboK (button) folded before Flop (didn't bet)
+Seat 4: drakosveta (small blind) showed [2d Kh] and lost with high card Ace
+Seat 5: Tassinari_86 (big blind) folded on the Flop
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #208658825637:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:15:32 WET [2020/01/29 15:15:32 ET]
+Table 'Brunonia IV' 6-max Seat #4 is the button
+Seat 1: veltern ($0.93 in chips) 
+Seat 2: goguxxl ($2.62 in chips) 
+Seat 3: neHboK ($2.20 in chips) 
+Seat 4: drakosveta ($0.79 in chips) 
+Seat 5: Tassinari_86 ($5.52 in chips) 
+Seat 6: Benzer586 ($2 in chips) 
+Tassinari_86: posts small blind $0.01
+Benzer586: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Jc 8c]
+veltern: calls $0.02
+goguxxl: raises $0.06 to $0.08
+neHboK: folds 
+drakosveta: calls $0.08
+Tassinari_86: folds 
+Benzer586: folds 
+veltern: calls $0.06
+*** FLOP *** [9h As Kd]
+veltern: checks 
+goguxxl: bets $0.14
+drakosveta: folds 
+veltern: folds 
+Uncalled bet ($0.14) returned to goguxxl
+goguxxl collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [9h As Kd]
+Seat 1: veltern folded on the Flop
+Seat 2: goguxxl collected ($0.26)
+Seat 3: neHboK folded before Flop (didn't bet)
+Seat 4: drakosveta (button) folded on the Flop
+Seat 5: Tassinari_86 (small blind) folded before Flop
+Seat 6: Benzer586 (big blind) folded before Flop
+
+
+
+PokerStars Hand #208658859325:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:16:26 WET [2020/01/29 15:16:26 ET]
+Table 'Brunonia IV' 6-max Seat #5 is the button
+Seat 1: veltern ($0.85 in chips) 
+Seat 2: goguxxl ($2.80 in chips) 
+Seat 3: neHboK ($2.20 in chips) 
+Seat 4: drakosveta ($0.71 in chips) 
+Seat 5: Tassinari_86 ($5.51 in chips) 
+Seat 6: Benzer586 ($1.98 in chips) 
+Benzer586: posts small blind $0.01
+veltern: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [6c 6s]
+goguxxl: folds 
+neHboK: folds 
+drakosveta: calls $0.02
+Tassinari_86: raises $0.04 to $0.06
+Benzer586: calls $0.05
+veltern: folds 
+drakosveta: calls $0.04
+*** FLOP *** [9d 4c 6d]
+Benzer586: bets $0.14
+drakosveta: folds 
+Tassinari_86: calls $0.14
+*** TURN *** [9d 4c 6d] [3s]
+Benzer586: bets $0.23
+Tassinari_86: calls $0.23
+*** RIVER *** [9d 4c 6d 3s] [4d]
+Benzer586: checks 
+Tassinari_86: checks 
+*** SHOW DOWN ***
+Benzer586: shows [6c 6s] (a full house, Sixes full of Fours)
+Tassinari_86: mucks hand 
+Benzer586 collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.94 | Rake $0.03 
+Board [9d 4c 6d 3s 4d]
+Seat 1: veltern (big blind) folded before Flop
+Seat 2: goguxxl folded before Flop (didn't bet)
+Seat 3: neHboK folded before Flop (didn't bet)
+Seat 4: drakosveta folded on the Flop
+Seat 5: Tassinari_86 (button) mucked [Th 9c]
+Seat 6: Benzer586 (small blind) showed [6c 6s] and won ($0.91) with a full house, Sixes full of Fours
+
+
+
+PokerStars Hand #208658890738:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:17:17 WET [2020/01/29 15:17:17 ET]
+Table 'Brunonia IV' 6-max Seat #6 is the button
+Seat 1: veltern ($0.83 in chips) 
+Seat 3: neHboK ($2.20 in chips) 
+Seat 4: drakosveta ($0.65 in chips) 
+Seat 5: Tassinari_86 ($5.08 in chips) 
+Seat 6: Benzer586 ($2.46 in chips) 
+veltern: posts small blind $0.01
+goguxxl: is sitting out 
+neHboK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [2d 9h]
+goguxxl leaves the table
+drakosveta: calls $0.02
+Tassinari_86: folds 
+Benzer586: folds 
+veltern: calls $0.01
+neHboK: checks 
+*** FLOP *** [4h Ah 4d]
+veltern: checks 
+neHboK: checks 
+drakosveta: bets $0.02
+veltern: calls $0.02
+neHboK: folds 
+*** TURN *** [4h Ah 4d] [7c]
+veltern: checks 
+drakosveta: bets $0.02
+veltern: calls $0.02
+*** RIVER *** [4h Ah 4d 7c] [8d]
+veltern: checks 
+drakosveta: checks 
+*** SHOW DOWN ***
+veltern: shows [9s 8h] (two pair, Eights and Fours)
+drakosveta: mucks hand 
+veltern collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [4h Ah 4d 7c 8d]
+Seat 1: veltern (small blind) showed [9s 8h] and won ($0.14) with two pair, Eights and Fours
+Seat 3: neHboK (big blind) folded on the Flop
+Seat 4: drakosveta mucked [Th Jc]
+Seat 5: Tassinari_86 folded before Flop (didn't bet)
+Seat 6: Benzer586 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #208658914948:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:17:55 WET [2020/01/29 15:17:55 ET]
+Table 'Brunonia IV' 6-max Seat #1 is the button
+Seat 1: veltern ($0.91 in chips) 
+Seat 3: neHboK ($2.18 in chips) 
+Seat 4: drakosveta ($0.59 in chips) 
+Seat 5: Tassinari_86 ($5.08 in chips) 
+Seat 6: Benzer586 ($2.46 in chips) 
+neHboK: posts small blind $0.01
+drakosveta: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Kd 5c]
+Tassinari_86: folds 
+Benzer586: folds 
+veltern: raises $0.02 to $0.04
+neHboK: folds 
+drakosveta: calls $0.02
+*** FLOP *** [3h 7h 4h]
+drakosveta: bets $0.02
+veltern: folds 
+Uncalled bet ($0.02) returned to drakosveta
+drakosveta collected $0.09 from pot
+drakosveta: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [3h 7h 4h]
+Seat 1: veltern (button) folded on the Flop
+Seat 3: neHboK (small blind) folded before Flop
+Seat 4: drakosveta (big blind) collected ($0.09)
+Seat 5: Tassinari_86 folded before Flop (didn't bet)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #208658925479:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:18:13 WET [2020/01/29 15:18:13 ET]
+Table 'Brunonia IV' 6-max Seat #3 is the button
+Seat 1: veltern ($0.87 in chips) 
+Seat 3: neHboK ($2.17 in chips) 
+Seat 4: drakosveta ($0.64 in chips) 
+Seat 5: Tassinari_86 ($5.08 in chips) 
+Seat 6: Benzer586 ($2.46 in chips) 
+drakosveta: posts small blind $0.01
+Tassinari_86: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [8c Qc]
+Benzer586: folds 
+veltern: folds 
+neHboK: folds 
+drakosveta: calls $0.01
+Tassinari_86: raises $0.06 to $0.08
+drakosveta: calls $0.06
+*** FLOP *** [6s 2d 3d]
+drakosveta: checks 
+Tassinari_86: bets $0.10
+drakosveta: calls $0.10
+*** TURN *** [6s 2d 3d] [3h]
+drakosveta: checks 
+Tassinari_86: bets $0.22
+drakosveta: calls $0.22
+*** RIVER *** [6s 2d 3d 3h] [Ad]
+drakosveta: bets $0.02
+Tassinari_86: raises $0.41 to $0.43
+drakosveta: calls $0.22 and is all-in
+Uncalled bet ($0.19) returned to Tassinari_86
+*** SHOW DOWN ***
+Tassinari_86: shows [Qd Jc] (a pair of Threes)
+drakosveta: shows [7d Jd] (a flush, Ace high)
+drakosveta collected $1.24 from pot
+*** SUMMARY ***
+Total pot $1.28 | Rake $0.04 
+Board [6s 2d 3d 3h Ad]
+Seat 1: veltern folded before Flop (didn't bet)
+Seat 3: neHboK (button) folded before Flop (didn't bet)
+Seat 4: drakosveta (small blind) showed [7d Jd] and won ($1.24) with a flush, Ace high
+Seat 5: Tassinari_86 (big blind) showed [Qd Jc] and lost with a pair of Threes
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #208658949479:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:18:51 WET [2020/01/29 15:18:51 ET]
+Table 'Brunonia IV' 6-max Seat #4 is the button
+Seat 1: veltern ($0.87 in chips) 
+Seat 3: neHboK ($2.17 in chips) 
+Seat 4: drakosveta ($1.24 in chips) 
+Seat 5: Tassinari_86 ($4.44 in chips) 
+Seat 6: Benzer586 ($2.46 in chips) 
+Tassinari_86: posts small blind $0.01
+Benzer586: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [7s 8h]
+veltern: calls $0.02
+neHboK: folds 
+drakosveta: calls $0.02
+Tassinari_86: raises $0.04 to $0.06
+S.Czek joins the table at seat #2 
+Benzer586: calls $0.04
+veltern: calls $0.04
+drakosveta: calls $0.04
+*** FLOP *** [6s As Ks]
+Tassinari_86: checks 
+Benzer586: checks 
+veltern: checks 
+drakosveta: checks 
+*** TURN *** [6s As Ks] [Kc]
+Tassinari_86: checks 
+Benzer586: checks 
+veltern: checks 
+drakosveta: bets $0.02
+Tassinari_86: calls $0.02
+Benzer586: calls $0.02
+veltern: calls $0.02
+*** RIVER *** [6s As Ks Kc] [3d]
+Tassinari_86: checks 
+Benzer586: checks 
+veltern: checks 
+drakosveta: bets $0.24
+Tassinari_86: folds 
+Benzer586: folds 
+veltern: folds 
+Uncalled bet ($0.24) returned to drakosveta
+drakosveta collected $0.31 from pot
+drakosveta: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [6s As Ks Kc 3d]
+Seat 1: veltern folded on the River
+Seat 3: neHboK folded before Flop (didn't bet)
+Seat 4: drakosveta (button) collected ($0.31)
+Seat 5: Tassinari_86 (small blind) folded on the River
+Seat 6: Benzer586 (big blind) folded on the River
+
+
+
+PokerStars Hand #208658990225:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:19:58 WET [2020/01/29 15:19:58 ET]
+Table 'Brunonia IV' 6-max Seat #5 is the button
+Seat 1: veltern ($0.79 in chips) 
+Seat 3: neHboK ($2.17 in chips) 
+Seat 4: drakosveta ($1.47 in chips) 
+Seat 5: Tassinari_86 ($4.36 in chips) 
+Seat 6: Benzer586 ($2.38 in chips) 
+Benzer586: posts small blind $0.01
+veltern: posts big blind $0.02
+S.Czek: sits out 
+*** HOLE CARDS ***
+Dealt to Benzer586 [5d 5h]
+neHboK: folds 
+drakosveta: calls $0.02
+Tassinari_86: raises $0.04 to $0.06
+Benzer586: calls $0.05
+veltern: folds 
+drakosveta: calls $0.04
+*** FLOP *** [6d 3s Kc]
+Benzer586: checks 
+drakosveta: checks 
+Tassinari_86: bets $0.12
+Benzer586: folds 
+drakosveta: folds 
+Uncalled bet ($0.12) returned to Tassinari_86
+Tassinari_86 collected $0.19 from pot
+Tassinari_86: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [6d 3s Kc]
+Seat 1: veltern (big blind) folded before Flop
+Seat 3: neHboK folded before Flop (didn't bet)
+Seat 4: drakosveta folded on the Flop
+Seat 5: Tassinari_86 (button) collected ($0.19)
+Seat 6: Benzer586 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #208659014150:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:20:37 WET [2020/01/29 15:20:37 ET]
+Table 'Brunonia IV' 6-max Seat #6 is the button
+Seat 1: veltern ($0.77 in chips) 
+Seat 2: S.Czek ($2 in chips) 
+Seat 3: neHboK ($2.17 in chips) 
+Seat 4: drakosveta ($1.41 in chips) 
+Seat 5: Tassinari_86 ($4.49 in chips) 
+Seat 6: Benzer586 ($2.32 in chips) 
+veltern: posts small blind $0.01
+S.Czek: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [4h 2s]
+neHboK: folds 
+drakosveta: calls $0.02
+Tassinari_86: folds 
+Benzer586: folds 
+veltern: raises $0.02 to $0.04
+S.Czek: folds 
+drakosveta: calls $0.02
+*** FLOP *** [Qs Qh 3c]
+veltern: checks 
+drakosveta: checks 
+*** TURN *** [Qs Qh 3c] [3s]
+veltern: checks 
+drakosveta: checks 
+*** RIVER *** [Qs Qh 3c 3s] [Jc]
+veltern: checks 
+drakosveta: checks 
+*** SHOW DOWN ***
+veltern: shows [Kd Jd] (two pair, Queens and Jacks)
+drakosveta: mucks hand 
+veltern collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Qs Qh 3c 3s Jc]
+Seat 1: veltern (small blind) showed [Kd Jd] and won ($0.10) with two pair, Queens and Jacks
+Seat 2: S.Czek (big blind) folded before Flop
+Seat 3: neHboK folded before Flop (didn't bet)
+Seat 4: drakosveta mucked [Ac Ts]
+Seat 5: Tassinari_86 folded before Flop (didn't bet)
+Seat 6: Benzer586 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #208659044073:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:21:22 WET [2020/01/29 15:21:22 ET]
+Table 'Brunonia IV' 6-max Seat #1 is the button
+Seat 1: veltern ($0.83 in chips) 
+Seat 2: S.Czek ($1.98 in chips) 
+Seat 3: neHboK ($2.17 in chips) 
+Seat 4: drakosveta ($1.37 in chips) 
+Seat 5: Tassinari_86 ($4.49 in chips) 
+Seat 6: Benzer586 ($2.32 in chips) 
+S.Czek: posts small blind $0.01
+neHboK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [2c Js]
+drakosveta: calls $0.02
+Tassinari_86: folds 
+Benzer586: folds 
+veltern: calls $0.02
+S.Czek: folds 
+neHboK: checks 
+*** FLOP *** [8d Ts 8s]
+neHboK: checks 
+drakosveta: bets $0.02
+veltern: calls $0.02
+neHboK: calls $0.02
+*** TURN *** [8d Ts 8s] [4h]
+neHboK: checks 
+drakosveta: bets $0.02
+veltern: calls $0.02
+neHboK: calls $0.02
+*** RIVER *** [8d Ts 8s 4h] [5s]
+neHboK: checks 
+drakosveta: bets $0.02
+veltern: calls $0.02
+neHboK: raises $0.09 to $0.11
+drakosveta: calls $0.09
+veltern: folds 
+*** SHOW DOWN ***
+neHboK: shows [Ks 3s] (a flush, King high)
+drakosveta: mucks hand 
+neHboK collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [8d Ts 8s 4h 5s]
+Seat 1: veltern (button) folded on the River
+Seat 2: S.Czek (small blind) folded before Flop
+Seat 3: neHboK (big blind) showed [Ks 3s] and won ($0.41) with a flush, King high
+Seat 4: drakosveta mucked [Tc 9d]
+Seat 5: Tassinari_86 folded before Flop (didn't bet)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #208659077836:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:22:16 WET [2020/01/29 15:22:16 ET]
+Table 'Brunonia IV' 6-max Seat #2 is the button
+Seat 1: veltern ($0.75 in chips) 
+Seat 2: S.Czek ($1.97 in chips) 
+Seat 3: neHboK ($2.41 in chips) 
+Seat 4: drakosveta ($1.20 in chips) 
+Seat 5: Tassinari_86 ($4.49 in chips) 
+Seat 6: Benzer586 ($2.32 in chips) 
+neHboK: posts small blind $0.01
+drakosveta: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [2c 8h]
+Tassinari_86: folds 
+Benzer586: folds 
+veltern: raises $0.02 to $0.04
+S.Czek: raises $0.06 to $0.10
+neHboK: folds 
+drakosveta: calls $0.08
+veltern: raises $0.06 to $0.16
+S.Czek: folds 
+drakosveta: calls $0.06
+*** FLOP *** [Kc 5h Js]
+drakosveta: bets $0.02
+veltern: raises $0.23 to $0.25
+drakosveta: calls $0.23
+*** TURN *** [Kc 5h Js] [Kd]
+drakosveta: bets $0.10
+veltern: raises $0.24 to $0.34 and is all-in
+drakosveta: folds 
+Uncalled bet ($0.24) returned to veltern
+veltern collected $1.09 from pot
+veltern: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.13 | Rake $0.04 
+Board [Kc 5h Js Kd]
+Seat 1: veltern collected ($1.09)
+Seat 2: S.Czek (button) folded before Flop
+Seat 3: neHboK (small blind) folded before Flop
+Seat 4: drakosveta (big blind) folded on the Turn
+Seat 5: Tassinari_86 folded before Flop (didn't bet)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #208659107041:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:23:03 WET [2020/01/29 15:23:03 ET]
+Table 'Brunonia IV' 6-max Seat #3 is the button
+Seat 1: veltern ($1.33 in chips) 
+Seat 2: S.Czek ($1.87 in chips) 
+Seat 3: neHboK ($2.40 in chips) 
+Seat 4: drakosveta ($0.69 in chips) 
+Seat 5: Tassinari_86 ($4.49 in chips) 
+Seat 6: Benzer586 ($2.32 in chips) 
+drakosveta: posts small blind $0.01
+Tassinari_86: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [6s Jc]
+Benzer586: folds 
+veltern: raises $0.02 to $0.04
+S.Czek: folds 
+neHboK: folds 
+drakosveta: calls $0.03
+Tassinari_86: folds 
+*** FLOP *** [Kd 2s 9d]
+drakosveta: checks 
+veltern: bets $0.05
+drakosveta: folds 
+Uncalled bet ($0.05) returned to veltern
+veltern collected $0.10 from pot
+veltern: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Kd 2s 9d]
+Seat 1: veltern collected ($0.10)
+Seat 2: S.Czek folded before Flop (didn't bet)
+Seat 3: neHboK (button) folded before Flop (didn't bet)
+Seat 4: drakosveta (small blind) folded on the Flop
+Seat 5: Tassinari_86 (big blind) folded before Flop
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #208659120351:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:23:25 WET [2020/01/29 15:23:25 ET]
+Table 'Brunonia IV' 6-max Seat #4 is the button
+Seat 1: veltern ($1.39 in chips) 
+Seat 2: S.Czek ($1.87 in chips) 
+Seat 3: neHboK ($2.40 in chips) 
+Seat 4: drakosveta ($0.65 in chips) 
+Seat 5: Tassinari_86 ($4.47 in chips) 
+Seat 6: Benzer586 ($2.32 in chips) 
+Tassinari_86: posts small blind $0.01
+Benzer586: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [As 6s]
+veltern: folds 
+S.Czek: folds 
+neHboK: folds 
+drakosveta: calls $0.02
+Tassinari_86: calls $0.01
+Benzer586: checks 
+*** FLOP *** [3d 3c Qd]
+Tassinari_86: checks 
+Benzer586: checks 
+drakosveta: checks 
+*** TURN *** [3d 3c Qd] [9s]
+Tassinari_86: checks 
+Benzer586: checks 
+drakosveta: checks 
+*** RIVER *** [3d 3c Qd 9s] [9d]
+Tassinari_86: checks 
+Benzer586: checks 
+drakosveta: checks 
+*** SHOW DOWN ***
+Tassinari_86: shows [6c 5h] (two pair, Nines and Threes)
+Benzer586: shows [As 6s] (two pair, Nines and Threes - Ace kicker)
+drakosveta: mucks hand 
+Benzer586 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [3d 3c Qd 9s 9d]
+Seat 1: veltern folded before Flop (didn't bet)
+Seat 2: S.Czek folded before Flop (didn't bet)
+Seat 3: neHboK folded before Flop (didn't bet)
+Seat 4: drakosveta (button) mucked [5s Tc]
+Seat 5: Tassinari_86 (small blind) showed [6c 5h] and lost with two pair, Nines and Threes
+Seat 6: Benzer586 (big blind) showed [As 6s] and won ($0.06) with two pair, Nines and Threes
+
+
+
+PokerStars Hand #208659141109:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:23:58 WET [2020/01/29 15:23:58 ET]
+Table 'Brunonia IV' 6-max Seat #5 is the button
+Seat 1: veltern ($1.39 in chips) 
+Seat 2: S.Czek ($1.87 in chips) 
+Seat 3: neHboK ($2.40 in chips) 
+Seat 4: drakosveta ($0.63 in chips) 
+Seat 5: Tassinari_86 ($4.45 in chips) 
+Seat 6: Benzer586 ($2.36 in chips) 
+Benzer586: posts small blind $0.01
+veltern: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Jh 5d]
+S.Czek: folds 
+neHboK: folds 
+drakosveta: calls $0.02
+Tassinari_86: raises $0.04 to $0.06
+Benzer586: folds 
+veltern: folds 
+drakosveta: calls $0.04
+*** FLOP *** [Ts Qs Jd]
+drakosveta: checks 
+Tassinari_86: bets $0.07
+drakosveta: calls $0.07
+*** TURN *** [Ts Qs Jd] [5c]
+drakosveta: bets $0.02
+Tassinari_86: calls $0.02
+*** RIVER *** [Ts Qs Jd 5c] [4h]
+drakosveta: bets $0.02
+Tassinari_86: calls $0.02
+*** SHOW DOWN ***
+drakosveta: shows [9d 9h] (a pair of Nines)
+Tassinari_86: mucks hand 
+drakosveta collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [Ts Qs Jd 5c 4h]
+Seat 1: veltern (big blind) folded before Flop
+Seat 2: S.Czek folded before Flop (didn't bet)
+Seat 3: neHboK folded before Flop (didn't bet)
+Seat 4: drakosveta showed [9d 9h] and won ($0.36) with a pair of Nines
+Seat 5: Tassinari_86 (button) mucked [Kd 3d]
+Seat 6: Benzer586 (small blind) folded before Flop
+
+
+
+PokerStars Hand #208659157687:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:24:25 WET [2020/01/29 15:24:25 ET]
+Table 'Brunonia IV' 6-max Seat #6 is the button
+Seat 1: veltern ($1.37 in chips) 
+Seat 2: S.Czek ($1.87 in chips) 
+Seat 3: neHboK ($2.40 in chips) 
+Seat 4: drakosveta ($0.82 in chips) 
+Seat 5: Tassinari_86 ($4.28 in chips) 
+Seat 6: Benzer586 ($2.35 in chips) 
+veltern: posts small blind $0.01
+S.Czek: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [3h Th]
+neHboK: folds 
+drakosveta: calls $0.02
+Tassinari_86: folds 
+neHboK leaves the table
+Benzer586: folds 
+veltern: folds 
+S.Czek: checks 
+*** FLOP *** [8d Jc 3c]
+S.Czek: checks 
+drakosveta: checks 
+*** TURN *** [8d Jc 3c] [Qs]
+S.Czek: bets $0.04
+drakosveta: calls $0.04
+*** RIVER *** [8d Jc 3c Qs] [Qh]
+S.Czek: bets $0.13
+drakosveta: folds 
+Uncalled bet ($0.13) returned to S.Czek
+S.Czek collected $0.13 from pot
+S.Czek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [8d Jc 3c Qs Qh]
+Seat 1: veltern (small blind) folded before Flop
+Seat 2: S.Czek (big blind) collected ($0.13)
+Seat 3: neHboK folded before Flop (didn't bet)
+Seat 4: drakosveta folded on the River
+Seat 5: Tassinari_86 folded before Flop (didn't bet)
+Seat 6: Benzer586 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #208659172239:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:24:49 WET [2020/01/29 15:24:49 ET]
+Table 'Brunonia IV' 6-max Seat #1 is the button
+Seat 1: veltern ($1.36 in chips) 
+Seat 2: S.Czek ($1.94 in chips) 
+Seat 4: drakosveta ($0.76 in chips) 
+Seat 5: Tassinari_86 ($4.28 in chips) 
+Seat 6: Benzer586 ($2.35 in chips) 
+S.Czek: posts small blind $0.01
+drakosveta: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Kc Th]
+Tassinari_86: folds 
+Benzer586: calls $0.02
+veltern: calls $0.02
+S.Czek: calls $0.01
+drakosveta: checks 
+*** FLOP *** [Qs 8c 4s]
+S.Czek: checks 
+drakosveta: checks 
+Benzer586: checks 
+veltern: bets $0.04
+S.Czek: calls $0.04
+drakosveta: calls $0.04
+Benzer586: folds 
+*** TURN *** [Qs 8c 4s] [Ac]
+S.Czek: checks 
+drakosveta: bets $0.02
+veltern: raises $0.12 to $0.14
+S.Czek: calls $0.14
+drakosveta: calls $0.12
+*** RIVER *** [Qs 8c 4s Ac] [9h]
+S.Czek: checks 
+drakosveta: checks 
+veltern: checks 
+*** SHOW DOWN ***
+S.Czek: shows [3c Qc] (a pair of Queens)
+drakosveta: mucks hand 
+veltern: shows [Qd 6h] (a pair of Queens)
+S.Czek collected $0.30 from pot
+veltern collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.62 | Rake $0.02 
+Board [Qs 8c 4s Ac 9h]
+Seat 1: veltern (button) showed [Qd 6h] and won ($0.30) with a pair of Queens
+Seat 2: S.Czek (small blind) showed [3c Qc] and won ($0.30) with a pair of Queens
+Seat 4: drakosveta (big blind) mucked [6s 3s]
+Seat 5: Tassinari_86 folded before Flop (didn't bet)
+Seat 6: Benzer586 folded on the Flop
+
+
+
+PokerStars Hand #208659202465:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:25:36 WET [2020/01/29 15:25:36 ET]
+Table 'Brunonia IV' 6-max Seat #2 is the button
+Seat 1: veltern ($1.46 in chips) 
+Seat 2: S.Czek ($2.04 in chips) 
+Seat 4: drakosveta ($0.56 in chips) 
+Seat 5: Tassinari_86 ($4.28 in chips) 
+Seat 6: Benzer586 ($2.33 in chips) 
+drakosveta: posts small blind $0.01
+Tassinari_86: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [3d 2c]
+Benzer586: folds 
+veltern: raises $0.02 to $0.04
+S.Czek: folds 
+drakosveta: calls $0.03
+RedWhitePro joins the table at seat #3 
+Tassinari_86: calls $0.02
+*** FLOP *** [3c Jh 8d]
+drakosveta: bets $0.02
+Tassinari_86: calls $0.02
+veltern: raises $0.02 to $0.04
+drakosveta: calls $0.02
+Tassinari_86: calls $0.02
+*** TURN *** [3c Jh 8d] [9c]
+drakosveta: bets $0.02
+Tassinari_86: calls $0.02
+veltern: raises $0.06 to $0.08
+drakosveta: calls $0.06
+Tassinari_86: folds 
+*** RIVER *** [3c Jh 8d 9c] [Kd]
+drakosveta: checks 
+veltern: checks 
+*** SHOW DOWN ***
+drakosveta: shows [8h Ac] (a pair of Eights)
+veltern: shows [Qd Qs] (a pair of Queens)
+veltern collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [3c Jh 8d 9c Kd]
+Seat 1: veltern showed [Qd Qs] and won ($0.41) with a pair of Queens
+Seat 2: S.Czek (button) folded before Flop (didn't bet)
+Seat 4: drakosveta (small blind) showed [8h Ac] and lost with a pair of Eights
+Seat 5: Tassinari_86 (big blind) folded on the Turn
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #208659235855:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:26:29 WET [2020/01/29 15:26:29 ET]
+Table 'Brunonia IV' 6-max Seat #4 is the button
+Seat 1: veltern ($1.71 in chips) 
+Seat 2: S.Czek ($2.04 in chips) 
+Seat 4: drakosveta ($0.40 in chips) 
+Seat 5: Tassinari_86 ($4.18 in chips) 
+Seat 6: Benzer586 ($2.33 in chips) 
+Tassinari_86: posts small blind $0.01
+Benzer586: posts big blind $0.02
+RedWhitePro: sits out 
+*** HOLE CARDS ***
+Dealt to Benzer586 [Kd 6d]
+veltern: calls $0.02
+S.Czek: folds 
+drakosveta: calls $0.02
+Tassinari_86: calls $0.01
+Benzer586: checks 
+*** FLOP *** [2h Jc Ts]
+Tassinari_86: checks 
+Benzer586: checks 
+veltern: checks 
+drakosveta: checks 
+*** TURN *** [2h Jc Ts] [7s]
+Tassinari_86: bets $0.04
+Benzer586: folds 
+veltern: calls $0.04
+drakosveta: calls $0.04
+*** RIVER *** [2h Jc Ts 7s] [4h]
+Tassinari_86: bets $0.12
+veltern: folds 
+drakosveta: calls $0.12
+*** SHOW DOWN ***
+Tassinari_86: shows [6s Jd] (a pair of Jacks)
+drakosveta: mucks hand 
+Tassinari_86 collected $0.42 from pot
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [2h Jc Ts 7s 4h]
+Seat 1: veltern folded on the River
+Seat 2: S.Czek folded before Flop (didn't bet)
+Seat 4: drakosveta (button) mucked [9h 7c]
+Seat 5: Tassinari_86 (small blind) showed [6s Jd] and won ($0.42) with a pair of Jacks
+Seat 6: Benzer586 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #208659259453:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:27:07 WET [2020/01/29 15:27:07 ET]
+Table 'Brunonia IV' 6-max Seat #5 is the button
+Seat 1: veltern ($1.65 in chips) 
+Seat 2: S.Czek ($2.04 in chips) 
+Seat 4: drakosveta ($0.22 in chips) 
+Seat 5: Tassinari_86 ($4.42 in chips) 
+Seat 6: Benzer586 ($2.31 in chips) 
+Benzer586: posts small blind $0.01
+veltern: posts big blind $0.02
+RedWhitePro: sits out 
+*** HOLE CARDS ***
+Dealt to Benzer586 [5d 7h]
+S.Czek: folds 
+drakosveta: calls $0.02
+Tassinari_86: folds 
+Benzer586: folds 
+veltern: checks 
+*** FLOP *** [Qs 3d 9d]
+veltern: bets $0.02
+drakosveta: calls $0.02
+*** TURN *** [Qs 3d 9d] [Js]
+veltern: bets $0.02
+drakosveta: folds 
+Uncalled bet ($0.02) returned to veltern
+veltern collected $0.09 from pot
+veltern: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Qs 3d 9d Js]
+Seat 1: veltern (big blind) collected ($0.09)
+Seat 2: S.Czek folded before Flop (didn't bet)
+Seat 4: drakosveta folded on the Turn
+Seat 5: Tassinari_86 (button) folded before Flop (didn't bet)
+Seat 6: Benzer586 (small blind) folded before Flop
+
+
+
+PokerStars Hand #208659279170:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:27:39 WET [2020/01/29 15:27:39 ET]
+Table 'Brunonia IV' 6-max Seat #6 is the button
+Seat 1: veltern ($1.70 in chips) 
+Seat 2: S.Czek ($2.04 in chips) 
+Seat 4: drakosveta ($0.18 in chips) 
+Seat 5: Tassinari_86 ($4.42 in chips) 
+Seat 6: Benzer586 ($2.30 in chips) 
+veltern: posts small blind $0.01
+S.Czek: posts big blind $0.02
+RedWhitePro: sits out 
+*** HOLE CARDS ***
+Dealt to Benzer586 [Jd 2d]
+drakosveta: calls $0.02
+Tassinari_86: raises $0.04 to $0.06
+Benzer586: folds 
+veltern: calls $0.05
+S.Czek: folds 
+drakosveta: calls $0.04
+*** FLOP *** [9d 4h 2s]
+veltern: checks 
+drakosveta: checks 
+Tassinari_86: checks 
+*** TURN *** [9d 4h 2s] [Qd]
+veltern: checks 
+drakosveta: checks 
+Tassinari_86: checks 
+*** RIVER *** [9d 4h 2s Qd] [5s]
+veltern: checks 
+drakosveta: checks 
+Tassinari_86: bets $0.15
+veltern: folds 
+drakosveta: calls $0.12 and is all-in
+Uncalled bet ($0.03) returned to Tassinari_86
+*** SHOW DOWN ***
+Tassinari_86: shows [8d Td] (high card Queen)
+drakosveta: shows [8h 9h] (a pair of Nines)
+drakosveta collected $0.42 from pot
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [9d 4h 2s Qd 5s]
+Seat 1: veltern (small blind) folded on the River
+Seat 2: S.Czek (big blind) folded before Flop
+Seat 4: drakosveta showed [8h 9h] and won ($0.42) with a pair of Nines
+Seat 5: Tassinari_86 showed [8d Td] and lost with high card Queen
+Seat 6: Benzer586 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #208659308702:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:28:25 WET [2020/01/29 15:28:25 ET]
+Table 'Brunonia IV' 6-max Seat #1 is the button
+Seat 1: veltern ($1.64 in chips) 
+Seat 2: S.Czek ($2.02 in chips) 
+Seat 3: RedWhitePro ($2 in chips) 
+Seat 4: drakosveta ($0.42 in chips) 
+Seat 5: Tassinari_86 ($4.24 in chips) 
+Seat 6: Benzer586 ($2.30 in chips) 
+S.Czek: posts small blind $0.01
+RedWhitePro: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [As Th]
+drakosveta: calls $0.02
+Tassinari_86: folds 
+Benzer586: calls $0.02
+veltern: calls $0.02
+S.Czek: folds 
+RedWhitePro: checks 
+*** FLOP *** [Ad Ks 7d]
+RedWhitePro: checks 
+drakosveta: checks 
+Benzer586: bets $0.05
+veltern: folds 
+RedWhitePro: folds 
+drakosveta: folds 
+Uncalled bet ($0.05) returned to Benzer586
+Benzer586 collected $0.09 from pot
+Benzer586: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Ad Ks 7d]
+Seat 1: veltern (button) folded on the Flop
+Seat 2: S.Czek (small blind) folded before Flop
+Seat 3: RedWhitePro (big blind) folded on the Flop
+Seat 4: drakosveta folded on the Flop
+Seat 5: Tassinari_86 folded before Flop (didn't bet)
+Seat 6: Benzer586 collected ($0.09)
+
+
+
+PokerStars Hand #208659327319:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:28:55 WET [2020/01/29 15:28:55 ET]
+Table 'Brunonia IV' 6-max Seat #2 is the button
+Seat 1: veltern ($1.62 in chips) 
+Seat 2: S.Czek ($2.01 in chips) 
+Seat 3: RedWhitePro ($2 in chips) 
+Seat 4: drakosveta ($0.40 in chips) 
+Seat 5: Tassinari_86 ($4.24 in chips) 
+Seat 6: Benzer586 ($2.37 in chips) 
+RedWhitePro: posts small blind $0.01
+drakosveta: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [7h 8h]
+Tassinari_86: raises $0.04 to $0.06
+Benzer586: folds 
+veltern: folds 
+S.Czek: calls $0.06
+RedWhitePro: calls $0.05
+drakosveta: calls $0.04
+*** FLOP *** [Kc Jh Kh]
+RedWhitePro: checks 
+drakosveta: checks 
+Tassinari_86: bets $0.12
+S.Czek: folds 
+RedWhitePro: calls $0.12
+drakosveta: folds 
+*** TURN *** [Kc Jh Kh] [3s]
+RedWhitePro: checks 
+Tassinari_86: bets $0.23
+RedWhitePro: calls $0.23
+*** RIVER *** [Kc Jh Kh 3s] [As]
+RedWhitePro: checks 
+Tassinari_86: checks 
+*** SHOW DOWN ***
+RedWhitePro: shows [4h Ah] (two pair, Aces and Kings)
+Tassinari_86: shows [Ks Tc] (three of a kind, Kings)
+Tassinari_86 collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.94 | Rake $0.03 
+Board [Kc Jh Kh 3s As]
+Seat 1: veltern folded before Flop (didn't bet)
+Seat 2: S.Czek (button) folded on the Flop
+Seat 3: RedWhitePro (small blind) showed [4h Ah] and lost with two pair, Aces and Kings
+Seat 4: drakosveta (big blind) folded on the Flop
+Seat 5: Tassinari_86 showed [Ks Tc] and won ($0.91) with three of a kind, Kings
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #208659367127:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:30:00 WET [2020/01/29 15:30:00 ET]
+Table 'Brunonia IV' 6-max Seat #3 is the button
+Seat 1: veltern ($1.62 in chips) 
+Seat 2: S.Czek ($1.95 in chips) 
+Seat 3: RedWhitePro ($2 in chips) 
+Seat 4: drakosveta ($0.34 in chips) 
+Seat 5: Tassinari_86 ($4.74 in chips) 
+Seat 6: Benzer586 ($2.37 in chips) 
+drakosveta: posts small blind $0.01
+Tassinari_86: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [4s Jc]
+Benzer586: folds 
+veltern: folds 
+S.Czek: raises $0.04 to $0.06
+RedWhitePro: calls $0.06
+drakosveta: calls $0.05
+Tassinari_86: folds 
+*** FLOP *** [2c Qh Tc]
+drakosveta: checks 
+S.Czek: bets $0.12
+RedWhitePro: calls $0.12
+drakosveta: folds 
+*** TURN *** [2c Qh Tc] [Th]
+S.Czek: bets $0.24
+RedWhitePro: calls $0.24
+*** RIVER *** [2c Qh Tc Th] [3s]
+S.Czek: bets $0.34
+RedWhitePro: folds 
+Uncalled bet ($0.34) returned to S.Czek
+S.Czek collected $0.89 from pot
+S.Czek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.92 | Rake $0.03 
+Board [2c Qh Tc Th 3s]
+Seat 1: veltern folded before Flop (didn't bet)
+Seat 2: S.Czek collected ($0.89)
+Seat 3: RedWhitePro (button) folded on the River
+Seat 4: drakosveta (small blind) folded on the Flop
+Seat 5: Tassinari_86 (big blind) folded before Flop
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #208659393392:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:30:38 WET [2020/01/29 15:30:38 ET]
+Table 'Brunonia IV' 6-max Seat #4 is the button
+Seat 1: veltern ($1.62 in chips) 
+Seat 2: S.Czek ($2.42 in chips) 
+Seat 3: RedWhitePro ($2 in chips) 
+Seat 4: drakosveta ($0.28 in chips) 
+Seat 5: Tassinari_86 ($4.72 in chips) 
+Seat 6: Benzer586 ($2.37 in chips) 
+Tassinari_86: posts small blind $0.01
+Benzer586: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Qh 8d]
+veltern: folds 
+S.Czek: folds 
+RedWhitePro: folds 
+drakosveta: calls $0.02
+Tassinari_86: calls $0.01
+Benzer586: checks 
+*** FLOP *** [9s 4c Ad]
+Tassinari_86: checks 
+Benzer586: checks 
+drakosveta: checks 
+*** TURN *** [9s 4c Ad] [2c]
+Tassinari_86: checks 
+Benzer586: checks 
+drakosveta: checks 
+*** RIVER *** [9s 4c Ad 2c] [Td]
+Tassinari_86: checks 
+Benzer586: checks 
+drakosveta: checks 
+*** SHOW DOWN ***
+Tassinari_86: shows [Th 8c] (a pair of Tens)
+Benzer586: mucks hand 
+drakosveta: mucks hand 
+Tassinari_86 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [9s 4c Ad 2c Td]
+Seat 1: veltern folded before Flop (didn't bet)
+Seat 2: S.Czek folded before Flop (didn't bet)
+Seat 3: RedWhitePro folded before Flop (didn't bet)
+Seat 4: drakosveta (button) mucked [Ks Js]
+Seat 5: Tassinari_86 (small blind) showed [Th 8c] and won ($0.06) with a pair of Tens
+Seat 6: Benzer586 (big blind) mucked [Qh 8d]
+
+
+
+PokerStars Hand #208659408005:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:31:02 WET [2020/01/29 15:31:02 ET]
+Table 'Brunonia IV' 6-max Seat #5 is the button
+Seat 1: veltern ($1.62 in chips) 
+Seat 2: S.Czek ($2.42 in chips) 
+Seat 3: RedWhitePro ($2 in chips) 
+Seat 4: drakosveta ($0.26 in chips) 
+Seat 5: Tassinari_86 ($4.76 in chips) 
+Seat 6: Benzer586 ($2.35 in chips) 
+Benzer586: posts small blind $0.01
+veltern: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [4s 7h]
+S.Czek: folds 
+RedWhitePro: folds 
+drakosveta: calls $0.02
+Tassinari_86: raises $0.04 to $0.06
+Benzer586: folds 
+veltern: calls $0.04
+drakosveta: calls $0.04
+*** FLOP *** [8s 4c 2c]
+veltern: bets $0.02
+drakosveta: calls $0.02
+Tassinari_86: calls $0.02
+*** TURN *** [8s 4c 2c] [Kc]
+veltern: bets $0.02
+drakosveta: folds 
+Tassinari_86: calls $0.02
+*** RIVER *** [8s 4c 2c Kc] [2h]
+veltern: bets $0.02
+Tassinari_86: folds 
+Uncalled bet ($0.02) returned to veltern
+veltern collected $0.28 from pot
+veltern: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [8s 4c 2c Kc 2h]
+Seat 1: veltern (big blind) collected ($0.28)
+Seat 2: S.Czek folded before Flop (didn't bet)
+Seat 3: RedWhitePro folded before Flop (didn't bet)
+Seat 4: drakosveta folded on the Turn
+Seat 5: Tassinari_86 (button) folded on the River
+Seat 6: Benzer586 (small blind) folded before Flop
+
+
+
+PokerStars Hand #208659427206:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:31:33 WET [2020/01/29 15:31:33 ET]
+Table 'Brunonia IV' 6-max Seat #6 is the button
+Seat 1: veltern ($1.80 in chips) 
+Seat 2: S.Czek ($2.42 in chips) 
+Seat 3: RedWhitePro ($2 in chips) 
+Seat 4: drakosveta ($0.18 in chips) 
+Seat 5: Tassinari_86 ($4.66 in chips) 
+Seat 6: Benzer586 ($2.34 in chips) 
+veltern: posts small blind $0.01
+S.Czek: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [2h 8c]
+RedWhitePro: folds 
+drakosveta: calls $0.02
+Tassinari_86: folds 
+Benzer586: folds 
+veltern: calls $0.01
+S.Czek: raises $0.06 to $0.08
+drakosveta: calls $0.06
+veltern: folds 
+*** FLOP *** [Th 7d Jc]
+S.Czek: bets $0.12
+drakosveta: calls $0.10 and is all-in
+Uncalled bet ($0.02) returned to S.Czek
+*** TURN *** [Th 7d Jc] [6c]
+*** RIVER *** [Th 7d Jc 6c] [4c]
+*** SHOW DOWN ***
+S.Czek: shows [Qd Jd] (a pair of Jacks)
+drakosveta: shows [Tc Ah] (a pair of Tens)
+S.Czek collected $0.37 from pot
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [Th 7d Jc 6c 4c]
+Seat 1: veltern (small blind) folded before Flop
+Seat 2: S.Czek (big blind) showed [Qd Jd] and won ($0.37) with a pair of Jacks
+Seat 3: RedWhitePro folded before Flop (didn't bet)
+Seat 4: drakosveta showed [Tc Ah] and lost with a pair of Tens
+Seat 5: Tassinari_86 folded before Flop (didn't bet)
+Seat 6: Benzer586 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #208659452533:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:32:14 WET [2020/01/29 15:32:14 ET]
+Table 'Brunonia IV' 6-max Seat #1 is the button
+Seat 1: veltern ($1.78 in chips) 
+Seat 2: S.Czek ($2.61 in chips) 
+Seat 3: RedWhitePro ($2 in chips) 
+Seat 5: Tassinari_86 ($4.66 in chips) 
+Seat 6: Benzer586 ($2.34 in chips) 
+S.Czek: posts small blind $0.01
+RedWhitePro: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Js 5h]
+Tassinari_86: folds 
+Benzer586: folds 
+veltern: calls $0.02
+S.Czek: raises $0.08 to $0.10
+RedWhitePro: folds 
+veltern: calls $0.08
+*** FLOP *** [2d Qs Td]
+S.Czek: bets $0.14
+veltern: calls $0.14
+*** TURN *** [2d Qs Td] [4c]
+S.Czek: bets $0.28
+veltern: folds 
+Uncalled bet ($0.28) returned to S.Czek
+S.Czek collected $0.48 from pot
+S.Czek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [2d Qs Td 4c]
+Seat 1: veltern (button) folded on the Turn
+Seat 2: S.Czek (small blind) collected ($0.48)
+Seat 3: RedWhitePro (big blind) folded before Flop
+Seat 5: Tassinari_86 folded before Flop (didn't bet)
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #208659481004:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:33:01 WET [2020/01/29 15:33:01 ET]
+Table 'Brunonia IV' 6-max Seat #2 is the button
+Seat 1: veltern ($1.54 in chips) 
+Seat 2: S.Czek ($2.85 in chips) 
+Seat 3: RedWhitePro ($2 in chips) 
+Seat 5: Tassinari_86 ($4.66 in chips) 
+Seat 6: Benzer586 ($2.34 in chips) 
+RedWhitePro: posts small blind $0.01
+drakosveta is disconnected 
+Tassinari_86: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [8s Js]
+Benzer586: folds 
+veltern: raises $0.02 to $0.04
+S.Czek: folds 
+RedWhitePro: calls $0.03
+Tassinari_86: calls $0.02
+*** FLOP *** [3h Td 9s]
+RedWhitePro: bets $0.06
+Tassinari_86: calls $0.06
+veltern: raises $0.06 to $0.12
+RedWhitePro: calls $0.06
+Tassinari_86: calls $0.06
+*** TURN *** [3h Td 9s] [Qs]
+RedWhitePro: checks 
+Tassinari_86: checks 
+veltern: bets $0.23
+RedWhitePro: calls $0.23
+Tassinari_86: folds 
+*** RIVER *** [3h Td 9s Qs] [Kh]
+RedWhitePro: bets $1.61 and is all-in
+veltern: calls $1.15 and is all-in
+Uncalled bet ($0.46) returned to RedWhitePro
+*** SHOW DOWN ***
+RedWhitePro: shows [7s Jh] (a straight, Nine to King)
+veltern: shows [Ts Tc] (three of a kind, Tens)
+RedWhitePro collected $3.13 from pot
+*** SUMMARY ***
+Total pot $3.24 | Rake $0.11 
+Board [3h Td 9s Qs Kh]
+Seat 1: veltern showed [Ts Tc] and lost with three of a kind, Tens
+Seat 2: S.Czek (button) folded before Flop (didn't bet)
+Seat 3: RedWhitePro (small blind) showed [7s Jh] and won ($3.13) with a straight, Nine to King
+Seat 5: Tassinari_86 (big blind) folded on the Turn
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #208659516274:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:33:52 WET [2020/01/29 15:33:52 ET]
+Table 'Brunonia IV' 6-max Seat #3 is the button
+Seat 2: S.Czek ($2.85 in chips) 
+Seat 3: RedWhitePro ($3.59 in chips) 
+Seat 5: Tassinari_86 ($4.50 in chips) 
+Seat 6: Benzer586 ($2.34 in chips) 
+Tassinari_86: posts small blind $0.01
+Benzer586: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Jd Kc]
+S.Czek: folds 
+RedWhitePro: raises $0.02 to $0.04
+Tassinari_86: raises $0.14 to $0.18
+veltern said, "gz"
+Benzer586: folds 
+RedWhitePro: calls $0.14
+*** FLOP *** [8s 5s 2s]
+Tassinari_86: checks 
+RedWhitePro: checks 
+*** TURN *** [8s 5s 2s] [9s]
+Tassinari_86: checks 
+RedWhitePro: checks 
+*** RIVER *** [8s 5s 2s 9s] [7h]
+Tassinari_86: bets $0.30
+RedWhitePro: calls $0.30
+*** SHOW DOWN ***
+Tassinari_86: shows [Ah Qs] (a flush, Queen high)
+RedWhitePro: mucks hand 
+Tassinari_86 collected $0.95 from pot
+*** SUMMARY ***
+Total pot $0.98 | Rake $0.03 
+Board [8s 5s 2s 9s 7h]
+Seat 2: S.Czek folded before Flop (didn't bet)
+Seat 3: RedWhitePro (button) mucked [Jc Js]
+Seat 5: Tassinari_86 (small blind) showed [Ah Qs] and won ($0.95) with a flush, Queen high
+Seat 6: Benzer586 (big blind) folded before Flop
+
+
+
+PokerStars Hand #208659537293:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:34:26 WET [2020/01/29 15:34:26 ET]
+Table 'Brunonia IV' 6-max Seat #5 is the button
+Seat 2: S.Czek ($2.85 in chips) 
+Seat 3: RedWhitePro ($3.11 in chips) 
+Seat 5: Tassinari_86 ($4.97 in chips) 
+Seat 6: Benzer586 ($2.32 in chips) 
+Benzer586: posts small blind $0.01
+S.Czek: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Kd Qd]
+RedWhitePro: folds 
+Tassinari_86: raises $0.04 to $0.06
+Benzer586: calls $0.05
+S.Czek: folds 
+*** FLOP *** [Jc Ac Th]
+Benzer586: bets $0.07
+Tassinari_86: folds 
+Uncalled bet ($0.07) returned to Benzer586
+Benzer586 collected $0.14 from pot
+Benzer586: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Jc Ac Th]
+Seat 2: S.Czek (big blind) folded before Flop
+Seat 3: RedWhitePro folded before Flop (didn't bet)
+Seat 5: Tassinari_86 (button) folded on the Flop
+Seat 6: Benzer586 (small blind) collected ($0.14)
+
+
+
+PokerStars Hand #208659548263:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:34:44 WET [2020/01/29 15:34:44 ET]
+Table 'Brunonia IV' 6-max Seat #6 is the button
+Seat 2: S.Czek ($2.83 in chips) 
+Seat 3: RedWhitePro ($3.11 in chips) 
+Seat 5: Tassinari_86 ($4.91 in chips) 
+Seat 6: Benzer586 ($2.40 in chips) 
+S.Czek: posts small blind $0.01
+RedWhitePro: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Qh 4c]
+Tassinari_86: folds 
+Benzer586: folds 
+S.Czek: folds 
+Uncalled bet ($0.01) returned to RedWhitePro
+RedWhitePro collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: S.Czek (small blind) folded before Flop
+Seat 3: RedWhitePro (big blind) collected ($0.02)
+Seat 5: Tassinari_86 folded before Flop (didn't bet)
+Seat 6: Benzer586 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #208659551867:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:34:50 WET [2020/01/29 15:34:50 ET]
+Table 'Brunonia IV' 6-max Seat #2 is the button
+Seat 2: S.Czek ($2.82 in chips) 
+Seat 3: RedWhitePro ($3.12 in chips) 
+Seat 5: Tassinari_86 ($4.91 in chips) 
+Seat 6: Benzer586 ($2.40 in chips) 
+RedWhitePro: posts small blind $0.01
+Tassinari_86: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [2h Kd]
+Benzer586: folds 
+S.Czek: raises $0.04 to $0.06
+RedWhitePro: calls $0.05
+Tassinari_86: calls $0.04
+*** FLOP *** [7c 3h 6c]
+RedWhitePro: checks 
+Tassinari_86: checks 
+S.Czek: bets $0.10
+RedWhitePro: folds 
+Tassinari_86: calls $0.10
+*** TURN *** [7c 3h 6c] [6h]
+Tassinari_86: checks 
+S.Czek: bets $0.22
+Tassinari_86: calls $0.22
+*** RIVER *** [7c 3h 6c 6h] [6s]
+Tassinari_86: checks 
+S.Czek: checks 
+*** SHOW DOWN ***
+Tassinari_86: shows [5h Th] (three of a kind, Sixes)
+S.Czek: shows [7s 8s] (a full house, Sixes full of Sevens)
+S.Czek collected $0.79 from pot
+*** SUMMARY ***
+Total pot $0.82 | Rake $0.03 
+Board [7c 3h 6c 6h 6s]
+Seat 2: S.Czek (button) showed [7s 8s] and won ($0.79) with a full house, Sixes full of Sevens
+Seat 3: RedWhitePro (small blind) folded on the Flop
+Seat 5: Tassinari_86 (big blind) showed [5h Th] and lost with three of a kind, Sixes
+Seat 6: Benzer586 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #208659571894:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:35:23 WET [2020/01/29 15:35:23 ET]
+Table 'Brunonia IV' 6-max Seat #3 is the button
+Seat 2: S.Czek ($3.23 in chips) 
+Seat 3: RedWhitePro ($3.06 in chips) 
+Seat 5: Tassinari_86 ($4.53 in chips) 
+Seat 6: Benzer586 ($2.40 in chips) 
+Tassinari_86: posts small blind $0.01
+Benzer586: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Jc 9c]
+S.Czek: folds 
+RedWhitePro: raises $0.03 to $0.05
+Tassinari_86: folds 
+Benzer586: calls $0.03
+*** FLOP *** [Kd Qs 2c]
+Benzer586: checks 
+RedWhitePro: bets $0.04
+Benzer586: folds 
+Uncalled bet ($0.04) returned to RedWhitePro
+RedWhitePro collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Kd Qs 2c]
+Seat 2: S.Czek folded before Flop (didn't bet)
+Seat 3: RedWhitePro (button) collected ($0.11)
+Seat 5: Tassinari_86 (small blind) folded before Flop
+Seat 6: Benzer586 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #208659586427:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:35:47 WET [2020/01/29 15:35:47 ET]
+Table 'Brunonia IV' 6-max Seat #5 is the button
+Seat 1: veltern ($2 in chips) 
+Seat 2: S.Czek ($3.23 in chips) 
+Seat 3: RedWhitePro ($3.12 in chips) 
+Seat 5: Tassinari_86 ($4.52 in chips) 
+Seat 6: Benzer586 ($2.35 in chips) 
+Benzer586: posts small blind $0.01
+veltern: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [7d Kd]
+S.Czek: folds 
+RedWhitePro: folds 
+Tassinari_86: raises $0.04 to $0.06
+Benzer586: folds 
+veltern: calls $0.04
+*** FLOP *** [2s Jc Ac]
+veltern: checks 
+Tassinari_86: bets $0.07
+veltern: folds 
+Uncalled bet ($0.07) returned to Tassinari_86
+Tassinari_86 collected $0.13 from pot
+Tassinari_86: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [2s Jc Ac]
+Seat 1: veltern (big blind) folded on the Flop
+Seat 2: S.Czek folded before Flop (didn't bet)
+Seat 3: RedWhitePro folded before Flop (didn't bet)
+Seat 5: Tassinari_86 (button) collected ($0.13)
+Seat 6: Benzer586 (small blind) folded before Flop
+
+
+
+PokerStars Hand #208659598544:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:36:06 WET [2020/01/29 15:36:06 ET]
+Table 'Brunonia IV' 6-max Seat #6 is the button
+Seat 1: veltern ($1.94 in chips) 
+Seat 2: S.Czek ($3.23 in chips) 
+Seat 3: RedWhitePro ($3.12 in chips) 
+Seat 5: Tassinari_86 ($4.59 in chips) 
+Seat 6: Benzer586 ($2.34 in chips) 
+veltern: posts small blind $0.01
+S.Czek: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Ac 3h]
+RedWhitePro: folds 
+Tassinari_86: folds 
+Benzer586: calls $0.02
+veltern: folds 
+S.Czek: checks 
+*** FLOP *** [9d Jc 2h]
+S.Czek: bets $0.04
+Benzer586: folds 
+Uncalled bet ($0.04) returned to S.Czek
+S.Czek collected $0.05 from pot
+S.Czek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [9d Jc 2h]
+Seat 1: veltern (small blind) folded before Flop
+Seat 2: S.Czek (big blind) collected ($0.05)
+Seat 3: RedWhitePro folded before Flop (didn't bet)
+Seat 5: Tassinari_86 folded before Flop (didn't bet)
+Seat 6: Benzer586 (button) folded on the Flop
+
+
+
+PokerStars Hand #208659610463:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:36:25 WET [2020/01/29 15:36:25 ET]
+Table 'Brunonia IV' 6-max Seat #2 is the button
+Seat 2: S.Czek ($3.26 in chips) 
+Seat 3: RedWhitePro ($3.12 in chips) 
+Seat 6: Benzer586 ($2.32 in chips) 
+RedWhitePro: posts small blind $0.01
+Tassinari_86: is sitting out 
+Benzer586: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [4h 6d]
+S.Czek: raises $0.04 to $0.06
+Tassinari_86 leaves the table
+veltern leaves the table
+RedWhitePro: calls $0.05
+Benzer586: folds 
+*** FLOP *** [Js 4c 5h]
+RedWhitePro: checks 
+S.Czek: bets $0.08
+RedWhitePro: folds 
+Uncalled bet ($0.08) returned to S.Czek
+S.Czek collected $0.14 from pot
+S.Czek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Js 4c 5h]
+Seat 2: S.Czek (button) collected ($0.14)
+Seat 3: RedWhitePro (small blind) folded on the Flop
+Seat 6: Benzer586 (big blind) folded before Flop
+
+
+
+PokerStars Hand #208659619825:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:36:40 WET [2020/01/29 15:36:40 ET]
+Table 'Brunonia IV' 6-max Seat #3 is the button
+Seat 2: S.Czek ($3.34 in chips) 
+Seat 3: RedWhitePro ($3.06 in chips) 
+Seat 6: Benzer586 ($2.30 in chips) 
+Benzer586: posts small blind $0.01
+S.Czek: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Jd 9h]
+RedWhitePro: folds 
+Benzer586: calls $0.01
+S.Czek: checks 
+*** FLOP *** [Ad As Qc]
+Benzer586: checks 
+S.Czek: checks 
+*** TURN *** [Ad As Qc] [2d]
+Benzer586: checks 
+S.Czek: checks 
+*** RIVER *** [Ad As Qc 2d] [7d]
+Benzer586: checks 
+S.Czek: checks 
+*** SHOW DOWN ***
+Benzer586: shows [Jd 9h] (a pair of Aces)
+S.Czek: shows [4s Kc] (a pair of Aces - King kicker)
+S.Czek collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Ad As Qc 2d 7d]
+Seat 2: S.Czek (big blind) showed [4s Kc] and won ($0.04) with a pair of Aces
+Seat 3: RedWhitePro (button) folded before Flop (didn't bet)
+Seat 6: Benzer586 (small blind) showed [Jd 9h] and lost with a pair of Aces
+
+
+
+PokerStars Hand #208659631511:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:36:59 WET [2020/01/29 15:36:59 ET]
+Table 'Brunonia IV' 6-max Seat #2 is the button
+Seat 2: S.Czek ($3.36 in chips) 
+Seat 6: Benzer586 ($2.28 in chips) 
+S.Czek: posts small blind $0.01
+RedWhitePro: is sitting out 
+Benzer586: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Td Ts]
+S.Czek: folds 
+Uncalled bet ($0.01) returned to Benzer586
+RedWhitePro leaves the table
+Benzer586 collected $0.02 from pot
+drakosveta was removed from the table for failing to post
+drakosveta leaves the table
+Benzer586: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: S.Czek (button) (small blind) folded before Flop
+Seat 6: Benzer586 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #208659634398:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:37:04 WET [2020/01/29 15:37:04 ET]
+Table 'Brunonia IV' 6-max Seat #6 is the button
+Seat 2: S.Czek ($3.35 in chips) 
+Seat 6: Benzer586 ($2.29 in chips) 
+Benzer586: posts small blind $0.01
+S.Czek: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Jd Qh]
+Benzer586: raises $0.02 to $0.04
+S.Czek: folds 
+Uncalled bet ($0.02) returned to Benzer586
+Benzer586 collected $0.04 from pot
+Benzer586: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: S.Czek (big blind) folded before Flop
+Seat 6: Benzer586 (button) (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #208659639295:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:37:12 WET [2020/01/29 15:37:12 ET]
+Table 'Brunonia IV' 6-max Seat #2 is the button
+Seat 2: S.Czek ($3.33 in chips) 
+Seat 6: Benzer586 ($2.31 in chips) 
+S.Czek: posts small blind $0.01
+Benzer586: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [As 7s]
+S.Czek: raises $0.02 to $0.04
+Benzer586: raises $0.02 to $0.06
+S.Czek: calls $0.02
+*** FLOP *** [Ad 7c 4c]
+Benzer586: bets $0.06
+S.Czek: folds 
+Uncalled bet ($0.06) returned to Benzer586
+Benzer586 collected $0.12 from pot
+Benzer586: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Ad 7c 4c]
+Seat 2: S.Czek (button) (small blind) folded on the Flop
+Seat 6: Benzer586 (big blind) collected ($0.12)
+
+
+
+PokerStars Hand #208659657022:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/29 20:37:30 WET [2020/01/29 15:37:30 ET]
+Table 'Brunonia IV' 6-max Seat #6 is the button
+Seat 2: S.Czek ($3.27 in chips) 
+Seat 6: Benzer586 ($2.37 in chips) 
+Benzer586: posts small blind $0.01
+S.Czek: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Benzer586 [Kc 8s]
+Benzer586: calls $0.01
+S.Czek: checks 
+*** FLOP *** [4s 7h Qd]
+S.Czek: checks 
+Benzer586: checks 
+*** TURN *** [4s 7h Qd] [3c]
+S.Czek: checks 
+Benzer586: checks 
+*** RIVER *** [4s 7h Qd 3c] [5h]
+S.Czek: checks 
+Benzer586: checks 
+*** SHOW DOWN ***
+S.Czek: shows [9s 5s] (a pair of Fives)
+Benzer586: mucks hand 
+S.Czek collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [4s 7h Qd 3c 5h]
+Seat 2: S.Czek (big blind) showed [9s 5s] and won ($0.04) with a pair of Fives
+Seat 6: Benzer586 (button) (small blind) mucked [Kc 8s]
+
+
+
