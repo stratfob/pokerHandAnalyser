@@ -42,9 +42,9 @@ def streetAction(hand, playerName, streetText):
 
 
 def getAmountPutIn(hand,playerName):
+    amount = getAmountPutInBlinds(hand,playerName)
     hand = hand[hand.index('*** HOLE CARDS ***'):hand.index('*** SUMMARY ***')]
     
-    amount = 0.00
     lines = hand.split('\n')
     for line in lines:
         if playerName in line:
@@ -53,7 +53,8 @@ def getAmountPutIn(hand,playerName):
                 amount += float(line[line.rfind('$')+1:])
             elif 'raises' in line:
                 # make sure that previous money put in isn't counted twice
-                amount += float(line[line.rfind('$')+1:])
+                
+                amount += (float(line[line.rfind('$')+1:]) - amount)
             elif 'returned to' in line:
                 amount -= float(line[line.rfind('$')+1:line.index(')')])
     return amount   
@@ -159,7 +160,7 @@ def main():
                        ,getTablePosition(hand,playerName)\
                        ,getAmountPutInBlinds(hand, playerName)\
                        ,getAmountPutIn(hand, playerName)\
-                       ,getAmountCollected(hand, playerName)-getAmountPutInBlinds(hand,playerName)-getAmountPutIn(hand, playerName)]
+                       ,getAmountCollected(hand, playerName)-getAmountPutIn(hand, playerName)]
         handNumber += 1
     textFile.close()
     
