@@ -61,10 +61,13 @@ def getAmountPutIn(hand,playerName):
     
     
 def getDealtCards(hand, playerName):
-    startIndex = hand.index('Dealt to ' + playerName + ' ')
-    startIndex = hand.find('[', startIndex)
-    endIndex = hand.find('\n', startIndex)
-    return hand[startIndex:endIndex]
+    try:
+        startIndex = hand.index('Dealt to ' + playerName + ' ')
+        startIndex = hand.find('[', startIndex)
+        endIndex = hand.find('\n', startIndex)
+        return hand[startIndex:endIndex]
+    except:
+        return ''
     
     
 def getStreet(hand, streetText):
@@ -79,51 +82,54 @@ def getStreet(hand, streetText):
         return ''
 
 def getHandWinResult(hand, playerName):
-    hand = hand[hand.index('*** SUMMARY ***'):]
-    lineWithPlayerIndex = hand.index(playerName) 
-    lineWithPlayer = hand[lineWithPlayerIndex:]
-    
-    if 'folded' in lineWithPlayer:
-        return False
-    if 'collected' in lineWithPlayer:
-        return True
-    if 'won' in lineWithPlayer:
-        return True
-    else:
+    try:
+        hand = hand[hand.index('*** SUMMARY ***'):]
+        lineWithPlayerIndex = hand.index(playerName) 
+        lineWithPlayer = hand[lineWithPlayerIndex:hand.find('\n',lineWithPlayerIndex)]
+        if 'folded' in lineWithPlayer:
+            return False
+        if 'collected' in lineWithPlayer:
+            return True
+        if 'won' in lineWithPlayer:
+            return True
+        else:
+            return False
+    except: 
         return False
 
 def getAmountCollected(hand, playerName):
-    hand = hand[hand.index('*** SUMMARY ***'):]
-    lineWithPlayerIndex = hand.index(playerName) 
-    lineWithPlayer = hand[lineWithPlayerIndex:]
-    
-    if 'collected' in lineWithPlayer or 'won' in lineWithPlayer:
-        return float(lineWithPlayer[lineWithPlayer.index('$')+1:\
-                              lineWithPlayer.find(')',lineWithPlayer.index('$'))])
-    else:
+    try:
+        hand = hand[hand.index('*** SUMMARY ***'):]
+        lineWithPlayerIndex = hand.index(playerName) 
+        lineWithPlayer = hand[lineWithPlayerIndex:hand.find('\n',lineWithPlayerIndex)]
+        if 'collected' in lineWithPlayer or 'won' in lineWithPlayer:
+            return float(lineWithPlayer[lineWithPlayer.index('$')+1:\
+                                  lineWithPlayer.find(')',lineWithPlayer.index('$'))])
+        else:
+            return 0.00
+    except:
         return 0.00
 
 def getTablePosition(hand, playerName):
     
-    # make more acccurate
-    hand = hand[hand.index('*** SUMMARY ***'):]
-    lineWithPlayerIndex = hand.index(playerName) 
-    lineWithPlayer = hand[lineWithPlayerIndex:]
-    if 'button' in lineWithPlayer:
-        return 'Button'
-    elif 'small blind' in lineWithPlayer:
-        return 'Small Blind'
-    elif 'big blind' in lineWithPlayer:
-        return 'Big Blind'
-    else:
-        return 'Middle/UTG'
+    # TODO: make more acccurate
+    try:
+        hand = hand[hand.index('*** SUMMARY ***'):]
+        lineWithPlayerIndex = hand.index(playerName) 
+        lineWithPlayer = hand[lineWithPlayerIndex:hand.find('\n',lineWithPlayerIndex)]
+        if 'button' in lineWithPlayer:
+            return 'Button'
+        elif 'small blind' in lineWithPlayer:
+            return 'Small Blind'
+        elif 'big blind' in lineWithPlayer:
+            return 'Big Blind'
+        else:
+            return 'Middle/UTG'
+    except:
+        return ''
     
-
-    
-def main():
-    playerName = 'Benzer586'
-    
-    textFile = open('hand history.txt', 'rt')
+def fileToDataFrame(playerName, fileName):
+    textFile = open(fileName, 'rt')
     hands = historyToHands(textFile)
     
     myDataFrame = pd.DataFrame(columns = ['handNumber'\
@@ -142,9 +148,9 @@ def main():
                                           ,'blind'\
                                           ,'amountPutIn'\
                                           ,'profit'])
-    #print(hands[0])
     handNumber = 1
     for hand in hands:
+        hand += '\n'
         myDataFrame.loc[handNumber] = [getHandNumber(hand)\
                        ,getDateTime(hand)\
                        ,getDealtCards(hand,playerName)\
@@ -162,7 +168,16 @@ def main():
                        ,getAmountPutIn(hand, playerName)\
                        ,getAmountCollected(hand, playerName)-getAmountPutIn(hand, playerName)]
         handNumber += 1
-    textFile.close()
+        
+    return myDataFrame
+
+    
+def main():
+    #playerName = 'Soranton'
+    #playerName = 'sibir555' 
+    playerName = 'Benzer586'
+    fileName = 'hand history.txt'
+    myDataFrame = fileToDataFrame(playerName, fileName)
     
     myDataFrame['profit'].cumsum().plot()
     myDataFrame.to_csv('test.csv')
