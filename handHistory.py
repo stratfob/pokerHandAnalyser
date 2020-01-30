@@ -1,4 +1,5 @@
 import pandas as pd
+import re
 
 def historyToHands(textFile):
     hands = textFile.read().split('\n\n')
@@ -16,7 +17,33 @@ def getDateTime(hand):
     endIndex = hand.find('\n', index)
     index += len(') - ')
     return hand[index:endIndex]
+
+def getFilledSeats(hand):
+    seats = []
+    hand = hand[:hand.index('*** HOLE CARDS ***')]
+    lines = hand.split('\n')
+    for line in lines:
+        if line.startswith('Seat'):
+            seats.append(int(re.search("\d+", line).group(0)))
+    return seats
+
+def getSeatOfButton(hand):
+    hand = hand[:hand.index('*** HOLE CARDS ***')]
+    lines = hand.split('\n')
+    for line in lines:
+        if 'is the button' in line:
+            line = line[line.index("Seat #")+len("Seat #"):]
+            return int(re.search("\d+", line).group(0))
+    return 0
     
+def getSeatOfPlayer(hand, playerName):
+    hand = hand[:hand.index('*** HOLE CARDS ***')]
+    lines = hand.split('\n')
+    for line in lines:
+        if playerName in line and line.startswith('Seat'):
+            return int(line[len('Seat ')])
+    return 0
+
 def getAmountPutInBlinds(hand, playerName):
     if playerName + ': posts ' in hand:
         lineIndex = hand.index(playerName + ': posts ') 
@@ -54,7 +81,6 @@ def getAmountPutIn(hand,playerName):
                 amount += float(line[line.rfind('$')+1:])
             elif 'raises' in line:
                 # make sure that previous money put in isn't counted twice
-                
                 amount += (float(line[line.rfind('$')+1:]) - amount)
             elif 'returned to' in line:
                 amount -= float(line[line.rfind('$')+1:line.index(')')])
@@ -102,17 +128,16 @@ def getAmountCollected(hand, playerName):
     try:
         hand = hand[hand.index('*** SUMMARY ***'):]
         lineWithPlayerIndex = hand.index(playerName) 
-        lineWithPlayer = hand[lineWithPlayerIndex:hand.find('\n',lineWithPlayerIndex)]
+        lineWithPlayer = hand[lineWithPlayerIndex+len(playerName):hand.find('\n',lineWithPlayerIndex)]
         if 'collected' in lineWithPlayer or 'won' in lineWithPlayer:
             return float(lineWithPlayer[lineWithPlayer.index('$')+1:\
-                                  lineWithPlayer.find(')',lineWithPlayer.index('$'))])
+                                 lineWithPlayer.find(')',lineWithPlayer.index('$'))])
         else:
             return 0.00
     except:
         return 0.00
 
-def getTablePosition(hand, playerName):
-    
+def getTablePosition1(hand, playerName):
     # TODO: make more acccurate
     try:
         hand = hand[hand.index('*** SUMMARY ***'):]
@@ -129,11 +154,47 @@ def getTablePosition(hand, playerName):
     except:
         return ''
     
+def nextSeat(seatNumber, seats):
+    curIndex = seats.index(seatNumber)
+    return int(seats[(curIndex+1)%len(seats)])
+
+def prevSeat(seatNumber, seats):
+    curIndex = seats.index(seatNumber)
+    return int(seats[(curIndex-1)%len(seats)])
+   
+def getTablePosition(hand, playerName):
+    
+    filledSeats = getFilledSeats(hand)
+    buttonSeat = getSeatOfButton(hand)
+    playerSeat = getSeatOfPlayer(hand,playerName)
+    
+    if filledSeats == [] or buttonSeat == 0 or playerSeat == 0:
+        return ''
+    else:
+        if buttonSeat == playerSeat:
+            return 'Button'
+        curSeat = nextSeat(buttonSeat,filledSeats)
+        if curSeat == playerSeat:
+            return 'Small Blind'
+        curSeat = nextSeat(curSeat,filledSeats)
+        if curSeat == playerSeat:
+            return 'Big Blind'
+        curSeat = nextSeat(curSeat,filledSeats)
+        if curSeat == playerSeat:
+            return 'UTG'
+        
+        if prevSeat(buttonSeat, filledSeats) == playerSeat:
+            return 'Cut-off'
+        else:
+            return 'Middle'
+    
+    
 def fileToDataFrame(playerName, fileName):
     textFile = open(fileName, 'rt')
     hands = historyToHands(textFile)
     myDataFrame = pd.DataFrame(columns = ['handNumber'\
                                           ,'date'\
+                                          ,'seats'\
                                           ,'cards'\
                                           ,'preFlopAction'\
                                           ,'flop'\
@@ -151,9 +212,9 @@ def fileToDataFrame(playerName, fileName):
     handNumber = 1
     for hand in hands:
         hand += '\n'
-        
         myDataFrame.loc[handNumber] = [getHandNumber(hand)\
                        ,getDateTime(hand)\
+                       ,getFilledSeats(hand)\
                        ,getDealtCards(hand,playerName)\
                        ,streetAction(hand,playerName,'HOLE CARDS')\
                        ,getStreet(hand, 'FLOP')\
@@ -179,8 +240,8 @@ def main():
     playerName = 'Benzer586'
     fileName = 'hand history.txt'
     #fileName = 'test.txt'
-    myDataFrame = fileToDataFrame(playerName, fileName)
     
+    myDataFrame = fileToDataFrame(playerName, fileName)
     myDataFrame['profit'].cumsum().plot()
     myDataFrame.to_csv('test.csv')
     
