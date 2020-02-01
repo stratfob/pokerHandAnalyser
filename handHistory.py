@@ -1,10 +1,34 @@
 import pandas as pd
 import re
+import glob
+
 
 def historyToHands(textFile):
     hands = textFile.read().split('\n\n')
     hands = [x for x in hands if x]
     return hands    
+
+def combineHistories(filePath, fileNameContains, outputFileName):
+    files = glob.glob(filePath+'*.txt')
+    
+    #newFile = open(outPutFileName, 'wt')
+    resultFiles = []
+    for text in fileNameContains:
+        resultFiles += ([i for i in files if text in i])
+    resultFiles = list(dict.fromkeys(resultFiles))
+
+    
+    textFile = open(outputFileName, 'wt')
+    textFile.write('')
+    textFile.close()
+    
+    textFile = open(outputFileName, 'at')
+    for i in resultFiles:
+        fileToCopy = open(i, 'rt')
+        textFile.write(fileToCopy.read())
+        fileToCopy.close()
+    
+    textFile.close()
 
 def getHandNumber(hand):
     index = hand.index('PokerStars Hand #')
@@ -136,23 +160,6 @@ def getAmountCollected(hand, playerName):
             return 0.00
     except:
         return 0.00
-
-def getTablePosition1(hand, playerName):
-    # TODO: make more acccurate
-    try:
-        hand = hand[hand.index('*** SUMMARY ***'):]
-        lineWithPlayerIndex = hand.index(playerName) 
-        lineWithPlayer = hand[lineWithPlayerIndex:hand.find('\n',lineWithPlayerIndex)]
-        if 'button' in lineWithPlayer:
-            return 'Button'
-        elif 'small blind' in lineWithPlayer:
-            return 'Small Blind'
-        elif 'big blind' in lineWithPlayer:
-            return 'Big Blind'
-        else:
-            return 'Middle/UTG'
-    except:
-        return ''
     
 def nextSeat(seatNumber, seats):
     curIndex = seats.index(seatNumber)
@@ -231,15 +238,17 @@ def fileToDataFrame(playerName, fileName):
                        ,getAmountCollected(hand, playerName)-getAmountPutIn(hand, playerName)]
         handNumber += 1
         
+        myDataFrame = myDataFrame.sort_values('date').reset_index(drop=True)
     return myDataFrame
 
     
 def main():
-    #playerName = 'Soranton'
-    #playerName = 'sibir555' 
+
     playerName = 'Benzer586'
     fileName = 'hand history.txt'
-    #fileName = 'test.txt'
+    combineHistories('C:\\Users\\Benzer\\AppData\\Local\\PokerStars.EU\\HandHistory\\'\
+                     + playerName + '\\', ['$0.01-$0.02','hand history'], fileName)
+    
     
     myDataFrame = fileToDataFrame(playerName, fileName)
     myDataFrame['profit'].cumsum().plot()
